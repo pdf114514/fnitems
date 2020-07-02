@@ -134,7 +134,7 @@ def apiloop():
     else:
       with open('json/bb_all.json', 'w', encoding="utf-8") as f:
         json.dump(bball, f, indent='\t')
-    with open('newitem.json', 'w', encoding="utf-8") as f:
+    with open('json/newitem.json', 'w', encoding="utf-8") as f:
       #ul=[i.get('id', 'None') for i in bbupcoming]
       #ul.sort()
       #rl=[]
