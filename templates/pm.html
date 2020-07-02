@@ -1,0 +1,14 @@
+<head>
+  <link rel="stylesheet" href="/css/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body bgcolor="#808080" text="#fff">
+<div class="menu">
+{% for i in types %}<a href="{{i}}">{{i}}</a> {% endfor %} <a href="/">back to main</a>
+</div>
+{% for i in mps.keys() %}
+<div class="box">
+  {{ i }}<br><br><audio src="https://benbotfn.tk/api/v1/exportAsset?path={{ mps.get(i) }}" loop preload="metadata" controls>Can't Play Audio.</audio>
+</div>
+{% endfor %}
+</body>
