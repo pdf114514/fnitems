@@ -20,7 +20,7 @@ def rootgp():return render_template('root.html', types=types)
 
 @app.route('/all/<type>')
 def itemsallgp(type):
-  with open(f'{type}.json') as itemsf:
+  with open(f'json/{type}.json') as itemsf:
     items=json.load(itemsf)
   return render_template('items2.html', items=items)
 
@@ -40,13 +40,13 @@ def listp():
 
 @app.route('/newitem')
 def leakgp():
-  with open('newitem.json') as itemsf:
+  with open('json/newitem.json') as itemsf:
     items=json.load(itemsf)
   return render_template('items4.html', items=items)
 
 @app.route('/newid')
 def leakidgp():
-  with open('newitem.json') as itemsf:
+  with open('json/newitem.json') as itemsf:
     items=json.load(itemsf)
   return Markup('<br>'.join([i.get('id') for i in items]))
 
@@ -62,23 +62,23 @@ def playlistgp():
 @app.route('/<type>')
 def itemsgp(type):
   if type == 'all':
-    with open(f'all.json', 'r') as itemsf:
+    with open(f'json/all.json', 'r') as itemsf:
       items=json.load(itemsf)
-    with open('bb_mp.json', 'r') as mpsf:
+    with open('json/bb_mp.json', 'r') as mpsf:
       mps=json.load(mpsf)
     return render_template('items3.html', items=items, types=types, mps=mps, none=None, type=type)
   try:
-    with open(f'{type}.json', 'r') as itemsf:
+    with open(f'json/{type}.json', 'r') as itemsf:
       items=json.load(itemsf)
   except:
     pass
   
   if type == 'music':
-    with open('bb_mp.json', 'r') as mpsf:
+    with open('json/bb_mp.json', 'r') as mpsf:
       mps=json.load(mpsf)
     return render_template('items3.html', items=items, types=types, mps=mps, none=None, type=type)
   if type == 'playmusic':
-    with open('bb_mp.json', 'r') as mpsf:
+    with open('json/bb_mp.json', 'r') as mpsf:
       mps=json.load(mpsf)
     return render_template('pm.html', types=types, mps=mps, none=None, type=type)
   return render_template('items3.html', items=items, types=types, type=type)
@@ -89,11 +89,11 @@ def bbrootgp():return render_template('root.html', types=bbtypes)
 @app.route('/bb/<type>')
 def itemsbbgp(type):
   if type == 'all':
-    with open(f'bb_all.json', 'r') as itemsf:
+    with open(f'json/bb_all.json', 'r') as itemsf:
       items=json.load(itemsf)
     return render_template('items3.html', items=items, types=bbtypes)
   
-  with open(f'bb_{type}.json', 'r') as itemsf:
+  with open(f'json/bb_{type}.json', 'r') as itemsf:
     items=json.load(itemsf)
   return render_template('items4.html', items=items, types=bbtypes)
 
@@ -117,10 +117,10 @@ def apiloop():
     all=requests.get('https://fortnite-api.com/cosmetics/br/',headers={'x-api-key': 'd62c284cc87b1b1449643d41014abb78a212de67f21b6dd1012755bdf720e891'}).json()["data"]
     print('writing fortnite-api...')
     for t in types:
-      with open(f'{t}.json', 'w', encoding="utf-8") as f:
+      with open(f'json/{t}.json', 'w', encoding="utf-8") as f:
         json.dump([i for i in all if i["type"] == t], f, indent='\t')
     else:
-      with open('all.json', 'w', encoding="utf-8") as f:
+      with open('json/all.json', 'w', encoding="utf-8") as f:
         json.dump(all, f, indent='\t')
     print('writed fortnite-api')
     print('getting from benbotfn...')
@@ -129,10 +129,10 @@ def apiloop():
     bbmusicpath=requests.get('https://benbotfn.tk/api/v1/files/search?path=FortniteGame/Content/Athena/Sounds/MusicPacks/').json()
     print('writing benbotfn...')
     for t in bbtypes:
-      with open(f'bb_{t}.json', 'w', encoding="utf-8") as f:
+      with open(f'json/bb_{t}.json', 'w', encoding="utf-8") as f:
         json.dump([i for i in bball if i["backendType"].lower().replace('athena', '') == t], f, indent='\t')
     else:
-      with open('bb_all.json', 'w', encoding="utf-8") as f:
+      with open('json/bb_all.json', 'w', encoding="utf-8") as f:
         json.dump(bball, f, indent='\t')
     with open('newitem.json', 'w', encoding="utf-8") as f:
       #ul=[i.get('id', 'None') for i in bbupcoming]
@@ -148,7 +148,7 @@ def apiloop():
       if not '_cue' in i.lower():
         i=i.replace('FortniteGame', 'Game')
         mps.update({i.split('/')[-1].replace('.uasset', '').replace('Musicpack_', '').replace('MusicPack_', '').replace('Athena_', ''):i})
-    with open('bb_mp.json', 'w', encoding="utf-8") as f:
+    with open('json/bb_mp.json', 'w', encoding="utf-8") as f:
       json.dump(mps, f, indent='\t')
     print('writed benbotfn')
         
