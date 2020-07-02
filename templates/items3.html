@@ -1,0 +1,57 @@
+<head>
+  <link rel="stylesheet" href="css/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://code.jquery.com/jquery-3.5.0.min.js"></script>
+  <script>
+function copyToClipboard(ct) {
+  var $temp = $("<input>");
+  $("body").append($temp);
+  $temp.val(ct).select();
+  document.execCommand("copy");
+  $temp.remove();
+  //alert(`Copied! : ${ct}`);
+}
+</script>
+</head>
+<body bgcolor="#808080" text="#fff">
+<div class="list">
+  <iframe src="/list"></iframe>
+  </div>
+<div class="menu">
+{% for i in types %}<a href="{{i}}">{{i}}</a> {% endfor %} <a href="/">back to main</a>
+</div>
+{% for i in items %}
+<div class="box">
+  <div class="box2" style="background-image: url(image/{{i['rarity']}});background-size: cover;">
+    <img border="0" src="{{i['images']['smallIcon']['url']}}" width="128" height="128" alt="image">
+</div>
+<div class="box2 font1">
+{{i['path'].split('/')[-1]}}
+</div>
+<div class="box2 font1">
+<button onclick="copyToClipboard('{{i['path'].split('/')[-1]}}')">Copy ID</button>
+</div>
+<div class="box2 font1">
+{{ i['id']|length }}
+</div>
+<div class="box2 font1">
+{{i['name']}}
+</div>
+<div class="box2 font1">
+{{i['description']}}
+</div>
+<div class="box2 font1">
+  <form action="/list" method="post"><button type="submit" name="add" value="{{i['path'].split('/')[-1]}}">+</button></form>
+</div>
+{% if i['id'].lower().startswith('musicpack') %}
+{% for j in mps.keys() %}
+{% for k in i['path'].split('/')[-1].split('_')+[i['name']] %}
+{% if k in j %}
+<br><br><audio id="{{ i['id'] }}" src="https://benbotfn.tk/api/v1/exportAsset?path={{ mps.get(j) }}" loop preload="metadata" controls>Can't Play Audio.</audio>
+{% endif %}
+{% endfor %}
+{% endfor %}
+{% endif %}
+</div>
+{% endfor %}
+</body>
