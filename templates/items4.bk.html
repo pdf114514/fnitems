@@ -12,70 +12,41 @@ function copyToClipboard(ct) {
   //alert(`Copied! : ${ct}`);
 }
 </script>
-<style>
-    .menu {
-  padding: 10px;
-  margin-bottom: 10px;
-  position: fixed;
-  background-color: rgba(237, 247, 255, 0.55);
-  margin-left: auto;
-  border: 5px solid #ffdd50;
-}
-.font1 {
-  font-family: Consolas;
-}
-</style>
 </head>
 <body bgcolor="#808080" text="#fff">
-<!--<div class="list">
+<div class="list">
   <iframe src="/list"></iframe>
-  </div>-->
+  </div>
 <div class="menu">
 {% for i in types %}<a href="{{i}}">{{i}}</a> {% endfor %} <a href="/">back to main</a>
 </div>
-<table border="1">
-<thead>
-    <tr>
-        <th>Image</th>
-        <th>ID</th>
-        <th>ID length</th>
-        <th>Name</th>
-        <th>Description</th>
-    </tr>
-</thead>
-<tbody class="box">
 {% for i in items %}
-    <tr>
-  <th class="box2" style="background-image: url(/image/{{i['rarity'].lower()}});background-size: cover;">
+<div class="box">
+  <div class="box2" style="background-image: url(/image/{{i['rarity'].lower()}});background-size: cover;">
   {% if not i['icons']['icon'] == None %}
     <img border="0" src="{{i['icons']['icon']}}" width="128" height="128" alt="image">
   {% else %}
     <img border="0" src="/image/none" width="128" height="128" alt="image">
   {% endif %}
-</th>
-<th class="box2">
+</div>
+<div class="box2">
 {{i['id']}}
-<br><br>
+</div>
+<div class="box2 font1">
 <button onclick="copyToClipboard('{{i['path'].split('/')[-1]}}')">Copy ID</button>
-</th>
-</th>
-<th class="box2">
+</div>
+<div class="box2">
 {{ i['id']|length }}
-</th>
-<th class="box2">
+</div>
+<div class="box2">
 {{i['name']}}
-</th>
-<th class="box2">
+</div>
+<div class="box2">
 {{i['description']}}
-</th>
-<!--<th class="box2 font1">
-<button onclick="copyToClipboard('{{i['path'].split('/')[-1]}}')">Copy ID</button>
-</th>-->
-<!--<th class="box2 font1">
+</div>
+<div class="box2 font1">
   <form action="/list" method="post"><button type="submit" name="add" value="{{i['path'].split('/')[-1]}}">+</button></form>
-</th>-->
+</div>
+</div>
 {% endfor %}
-</tr>
-</tbody>
-</table>
 </body>

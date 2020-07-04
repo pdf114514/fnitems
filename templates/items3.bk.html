@@ -1,5 +1,5 @@
 <head>
-  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="css/style.css">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script src="https://code.jquery.com/jquery-3.5.0.min.js"></script>
   <script>
@@ -14,52 +14,35 @@ function copyToClipboard(ct) {
 </script>
 </head>
 <body bgcolor="#808080" text="#fff">
-<!--<div class="list">
+<div class="list">
   <iframe src="/list"></iframe>
-  </div>-->
+  </div>
 <div class="menu">
 {% for i in types %}<a href="{{i}}">{{i}}</a> {% endfor %} <a href="/">back to main</a>
 </div>
-<table border="1">
-<thead>
-    <tr>
-        <th>Image</th>
-        <th>ID</th>
-        <th>ID length</th>
-        <th>Name</th>
-        <th>Description</th>
-    </tr>
-</thead>
-<tbody class="box">
 {% for i in items %}
-    <tr>
-  <th class="box2" style="background-image: url(image/{{i['rarity']}});background-size: cover;">
-  {% if not i['images']['smallIcon']['url'] == None %}
+<div class="box">
+  <div class="box2" style="background-image: url(image/{{i['rarity']}});background-size: cover;">
     <img border="0" src="{{i['images']['smallIcon']['url']}}" width="128" height="128" alt="image">
-  {% else %}
-    <img border="0" src="/image/none" width="128" height="128" alt="image">
-  {% endif %}
-</th>
-<th class="box2">
+</div>
+<div class="box2 font1">
 {{i['path'].split('/')[-1]}}
-<br><br>
+</div>
+<div class="box2 font1">
 <button onclick="copyToClipboard('{{i['path'].split('/')[-1]}}')">Copy ID</button>
-</th>
-<th class="box2">
+</div>
+<div class="box2 font1">
 {{ i['id']|length }}
-</th>
-<th class="box2">
+</div>
+<div class="box2 font1">
 {{i['name']}}
-</th>
-<th class="box2">
+</div>
+<div class="box2 font1">
 {{i['description']}}
-</th>
-<!--<th class="box2 font1">
-<button onclick="copyToClipboard('{{i['path'].split('/')[-1]}}')">Copy ID</button>
-</th>-->
-<!--<th class="box2 font1">
+</div>
+<div class="box2 font1">
   <form action="/list" method="post"><button type="submit" name="add" value="{{i['path'].split('/')[-1]}}">+</button></form>
-</th>-->
+</div>
 {% if i['id'].lower().startswith('musicpack') %}
 {% for j in mps.keys() %}
 {% for k in i['path'].split('/')[-1].split('_')+[i['name']] %}
@@ -69,8 +52,6 @@ function copyToClipboard(ct) {
 {% endfor %}
 {% endfor %}
 {% endif %}
-<tr>
+</div>
 {% endfor %}
-</tbody>
-</table>
 </body>
