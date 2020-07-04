@@ -1,33 +1,13 @@
-.box {
-  padding: 10px;
-  margin-bottom: 10px;
-  border: 10px solid #333333;
-}
-.box2 {
-  padding: 10px;
-  margin-bottom: 10px;
-  border: 1px solid #333333;
-  display: inline-block;
-}
 .menu {
   padding: 10px;
   margin-bottom: 10px;
   position: fixed;
   background-color: rgba(237, 247, 255, 0.55);
-  margin-left: auto;
+  margin-right: 10px;
   border: 5px solid #ffdd50;
+  bottom:0;
+  right:0;
 }
-
-.list {
-  padding: 0px;
-  margin-bottom: 0px;
-  position: fixed;
-  right: 0px;
-  bottom:0px;
-  background-color: rgba(237, 247, 255, 0.55);
-  border: 5px solid #ffdd50;
-}
-
 .font1 {
-  font-family: Consolas;
+  font-family: Consolas, 'Courier New', Courier, monospace;
 }

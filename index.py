@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, Response, send_file, Markup, session, redirect
+from flask import Flask, render_template, request, Response, send_file, Markup, session, redirect, abort
 import requests
 from threading import Thread
 import time
@@ -61,6 +61,8 @@ def playlistgp():
 
 @app.route('/<type>')
 def itemsgp(type):
+  if type == 'favicon.ico':return redirect('https://fortnite-api.com/images/cosmetics/br/cid_005_athena_commando_m_default/icon.png')
+  
   if type == 'all':
     with open(f'json/all.json', 'r') as itemsf:
       items=json.load(itemsf)
