@@ -24,15 +24,37 @@ function copyToClipboard(ct) {
 <thead>
     <tr>
         <th>Image</th>
-        <!--<th>ID</th>-->
+        <th>ID</th>
+        <th>ID length</th>
+        <th>Name</th>
+        <th>Description</th>
     </tr>
 </thead>
 <tbody class="box">
-{% for i in items %}
+{% for i in items.keys() %}
     <tr>
   <th class="box2">
-    <img border="0" src="https://benbotfn.tk/api/v1/exportAsset?path={{i}}" width="128" height="128" alt="image">
+  {% if not items[i]['SmallImage']['assetPath'] == None %}
+    <img border="0" src="https://benbotfn.tk/api/v1/exportAsset?path={{items[i]['SmallImage']['assetPath']}}" width="128" height="128" alt="image">
+  {% else %}
+    <img border="0" src="/image/none" width="128" height="128" alt="image">
+  {% endif %}
 </th>
+<th class="box2 font1">
+{{i}}
+<br><br>
+<button onclick="copyToClipboard('{{i}}')">Copy ID</button>
+</th>
+<th class="box2 font1">
+{{ i|length }}
+</th>
+<th class="box2 font1">
+{{items[i]['DisplayName']['finalText']}}
+</th>
+<th class="box2 font1">
+{{items[i]['DisplayDescription']['finalText']}}
+</th>
+<tr>
 {% endfor %}
 </tbody>
 </table>
