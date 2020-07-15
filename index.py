@@ -30,7 +30,7 @@ def addvisit():
         json.dump(info, f, indent='\t')
   
 @app.route('/')
-def rootgp():return render_template('0root.html', types=[*types, *subtypes], updated=json.load(open('json/info.json', 'r', encoding="utf-8")).get('updated', 'Err'))
+def rootgp():return render_template('root.html', types=[*types, *subtypes], updated=json.load(open('json/info.json', 'r', encoding="utf-8")).get('updated', 'Err'))
 
 @app.route('/all/<type>')
 def itemsallgp(type):
