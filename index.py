@@ -9,6 +9,12 @@ app=Flask(__name__)
 app.secret_key='fnitems'
 types=['outfit', 'emote', 'backpack', 'pickaxe', 'glider', 'loadingscreen', 'contrail', 'emoji', 'wrap', 'spray', 'toy', 'music'] #banner
 bbtypes=['character', 'dance', 'backpack', 'pickaxe', 'glider', 'loadingscreen', 'skydivecontrail', 'emoji', 'itemwrap', 'spray', 'toy']
+subtypes=['banner']
+runoption={
+    'host'    :"0.0.0.0", 
+    'port'    :3000, 
+    'threaded':True
+}
 #https://benbotfn.tk/api/v1/exportAsset?path=Game/Athena/Items/Cosmetics/Series/CUBESeries.uasset
 #https://github.com/EthanC/Athena/tree/master/assets/images
 #<!--<p><font color="#fff">Play Music</font></p><span onclick="document.getElementById('{{ i['id'] }}').play()"><font color="#909090">&#9205;</font></span><span onclick="document.getElementById('{{ i['id'] }}').pause()"><font color="#909090">&#9208;</font></span>-->
@@ -16,7 +22,7 @@ bbtypes=['character', 'dance', 'backpack', 'pickaxe', 'glider', 'loadingscreen',
 def rs(l):l.sort();return l
   
 @app.route('/')
-def rootgp():return render_template('root.html', types=types)
+def rootgp():return render_template('root.html', types=[*types, *subtypes])
 
 @app.route('/all/<type>')
 def itemsallgp(type):
@@ -68,7 +74,7 @@ def itemsgp(type):
       items=json.load(itemsf)
     with open('json/bb_mp.json', 'r') as mpsf:
       mps=json.load(mpsf)
-    return render_template('items3.html', items=items, types=types, mps=mps, none=None, type=type)
+    return render_template('items3.html', items=items, types=[*types, *subtypes], mps=mps, none=None, type=type)
   try:
     with open(f'json/{type}.json', 'r') as itemsf:
       items=json.load(itemsf)
@@ -78,16 +84,16 @@ def itemsgp(type):
   if type == 'music':
     with open('json/bb_mp.json', 'r') as mpsf:
       mps=json.load(mpsf)
-    return render_template('items3.html', items=items, types=types, mps=mps, none=None, type=type)
+    return render_template('items3.html', items=items, types=[*types, *subtypes], mps=mps, none=None, type=type)
   if type == 'playmusic':
     with open('json/bb_mp.json', 'r') as mpsf:
       mps=json.load(mpsf)
-    return render_template('pm.html', types=types, mps=mps, none=None, type=type)
+    return render_template('pm.html', types=[*types, *subtypes], mps=mps, none=None, type=type)
   if type == 'banner':
     with open('json/bb_banner.json', 'r') as bnsf:
       bns=json.load(bnsf)
-    return render_template('banner.html', items=bns, types=types)
-  return render_template('items3.html', items=items, types=types, type=type)
+    return render_template('banner.html', items=bns, types=[*types, *subtypes])
+  return render_template('items3.html', items=items, types=[*types, *subtypes], type=type)
 
 @app.route('/bb')
 def bbrootgp():return render_template('root.html', types=bbtypes)
@@ -120,7 +126,7 @@ def imagegp(imagename):
 def apiloop():
   while True:
     print('getting from fortnite-api...')
-    all=requests.get('https://fortnite-api.com/cosmetics/br/',headers={'x-api-key': 'd62c284cc87b1b1449643d41014abb78a212de67f21b6dd1012755bdf720e891'}).json()["data"]
+    all=requests.get('https://fortnite-api.com/cosmetics/br/',headers={'x-api-key': os.getenv('apikey')}).json()["data"]
     print('writing fortnite-api...')
     for t in types:
       with open(f'json/{t}.json', 'w', encoding="utf-8") as f:
@@ -133,7 +139,7 @@ def apiloop():
     bball=requests.get('https://benbotfn.tk/api/v1/cosmetics/br').json()
     bbupcoming=requests.get('https://benbotfn.tk/api/v1/newCosmetics').json()['items']
     bbmusicpath=requests.get('https://benbotfn.tk/api/v1/files/search?path=FortniteGame/Content/Athena/Sounds/MusicPacks/').json()
-    bbbanner=requests.get('https://benbotfn.tk/api/v1/files/search?path=FortniteGame%2FContent%2FUI%2FFoundation%2FTextures%2FBanner%2F&matchMethod=contains').json()
+    bbbanner=requests.get('https://benbotfn.tk/api/v1/exportAsset?path=FortniteGame/Content/Banners/BannerIcons').json()
     print('writing benbotfn...')
     for t in bbtypes:
       with open(f'json/bb_{t}.json', 'w', encoding="utf-8") as f:
@@ -157,11 +163,10 @@ def apiloop():
         mps.update({i.split('/')[-1].replace('.uasset', '').replace('Musicpack_', '').replace('MusicPack_', '').replace('Athena_', ''):i})
     with open('json/bb_mp.json', 'w', encoding="utf-8") as f:
       json.dump(mps, f, indent='\t')
-    bbbanner.sort()
     with open('json/bb_banner.json', 'w', encoding="utf-8") as f:
-      json.dump([i for i in bbbanner if i.lower().endswith('-l.uasset')], f, indent='\t')
+      json.dump(bbbanner, f, indent='\t')
     print('writed benbotfn')
         
     time.sleep(600)
 Thread(target=apiloop,args=()).start()
-app.run(host="0.0.0.0", port=3000, threaded=True)
+app.run(**runoption)
