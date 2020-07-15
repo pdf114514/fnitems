@@ -1,0 +1,39 @@
+<head>
+  <link rel="stylesheet" href="/css/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://code.jquery.com/jquery-3.5.0.min.js"></script>
+  <script>
+function copyToClipboard(ct) {
+  var $temp = $("<input>");
+  $("body").append($temp);
+  $temp.val(ct).select();
+  document.execCommand("copy");
+  $temp.remove();
+  //alert(`Copied! : ${ct}`);
+}
+</script>
+</head>
+<body bgcolor="#222222" text="#fff">
+<!--<div class="list">
+  <iframe src="/list"></iframe>
+  </div>-->
+<div class="menu">
+{% for i in types %}<a href="{{i}}">{{i}}</a> {% endfor %} <a href="/">back to main</a>
+</div>
+<table border="1">
+<thead>
+    <tr>
+        <th>Image</th>
+        <!--<th>ID</th>-->
+    </tr>
+</thead>
+<tbody class="box">
+{% for i in items %}
+    <tr>
+  <th class="box2">
+    <img border="0" src="https://benbotfn.tk/api/v1/exportAsset?path={{i}}" width="128" height="128" alt="image">
+</th>
+{% endfor %}
+</tbody>
+</table>
+</body>
