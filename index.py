@@ -130,10 +130,10 @@ def apiloop():
     print('writing fortnite-api...')
     for t in types:
       with open(f'json/{t}.json', 'w', encoding="utf-8") as f:
-        json.dump([i for i in all if i["type"] == t], f, indent='\t')
+        json.dump(sorted([i for i in all if i["type"] == t], key=lambda x:x['id'], reverse=False), f, indent='\t')
     else:
       with open('json/all.json', 'w', encoding="utf-8") as f:
-        json.dump(all, f, indent='\t')
+        json.dump(sorted(all, key=lambda x:x['id'], reverse=False), f, indent='\t')
     print('writed fortnite-api')
     print('getting from benbotfn...')
     bball=requests.get('https://benbotfn.tk/api/v1/cosmetics/br').json()
