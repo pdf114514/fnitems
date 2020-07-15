@@ -7,7 +7,7 @@ import os
 
 app=Flask(__name__)
 app.secret_key='fnitems'
-types=['outfit', 'emote', 'backpack', 'pickaxe', 'glider', 'loadingscreen', 'contrail', 'emoji', 'wrap', 'spray', 'toy', 'banner', 'music']
+types=['outfit', 'emote', 'backpack', 'pickaxe', 'glider', 'loadingscreen', 'contrail', 'emoji', 'wrap', 'spray', 'toy', 'music'] #banner
 bbtypes=['character', 'dance', 'backpack', 'pickaxe', 'glider', 'loadingscreen', 'skydivecontrail', 'emoji', 'itemwrap', 'spray', 'toy']
 #https://benbotfn.tk/api/v1/exportAsset?path=Game/Athena/Items/Cosmetics/Series/CUBESeries.uasset
 #https://github.com/EthanC/Athena/tree/master/assets/images
@@ -83,6 +83,10 @@ def itemsgp(type):
     with open('json/bb_mp.json', 'r') as mpsf:
       mps=json.load(mpsf)
     return render_template('pm.html', types=types, mps=mps, none=None, type=type)
+  if type == 'banner':
+    with open('json/bb_banner.json', 'r') as bnsf:
+      bns=json.load(bnsf)
+    return render_template('banner.html', items=bns, types=types)
   return render_template('items3.html', items=items, types=types, type=type)
 
 @app.route('/bb')
@@ -110,8 +114,8 @@ def cssgp(cssname):
 @app.route('/image/<imagename>')
 def imagegp(imagename):
   if not imagename:return 'usage:image/Filename'
-  if not os.path.isfile(f'image/box_bottom_{imagename}.png'):send_file('image/box_bottom_common.png', mimetype='image/png')#return abort(404)
-  return send_file(f'image/box_bottom_{imagename}.png', mimetype='image/png')
+  if not os.path.isfile(f'image/img_{imagename}.png'):send_file('image/img_common.png', mimetype='image/png')#return abort(404)
+  return send_file(f'image/img_{imagename}.png', mimetype='image/png')
 
 def apiloop():
   while True:
@@ -129,13 +133,14 @@ def apiloop():
     bball=requests.get('https://benbotfn.tk/api/v1/cosmetics/br').json()
     bbupcoming=requests.get('https://benbotfn.tk/api/v1/newCosmetics').json()['items']
     bbmusicpath=requests.get('https://benbotfn.tk/api/v1/files/search?path=FortniteGame/Content/Athena/Sounds/MusicPacks/').json()
+    bbbanner=requests.get('https://benbotfn.tk/api/v1/files/search?path=FortniteGame%2FContent%2FUI%2FFoundation%2FTextures%2FBanner%2F&matchMethod=contains').json()
     print('writing benbotfn...')
     for t in bbtypes:
       with open(f'json/bb_{t}.json', 'w', encoding="utf-8") as f:
-        json.dump([i for i in bball if i["backendType"].lower().replace('athena', '') == t], f, indent='\t')
+        json.dump(sorted([i for i in bball if i["backendType"].lower().replace('athena', '') == t], key=lambda x:x['id'], reverse=False), f, indent='\t')
     else:
       with open('json/bb_all.json', 'w', encoding="utf-8") as f:
-        json.dump(bball, f, indent='\t')
+        json.dump(sorted(bball, key=lambda x:x['id'], reverse=False), f, indent='\t')
     with open('json/newitem.json', 'w', encoding="utf-8") as f:
       #ul=[i.get('id', 'None') for i in bbupcoming]
       #ul.sort()
@@ -144,7 +149,7 @@ def apiloop():
       #  for j in bbupcoming:
       #    if i in j.items:rl.append(j)
       #
-      json.dump(bbupcoming, f, indent='\t')
+      json.dump(sorted(bbupcoming, key=lambda x:x['id'], reverse=False), f, indent='\t')
     mps={}
     for i in bbmusicpath:
       if not '_cue' in i.lower():
@@ -152,6 +157,9 @@ def apiloop():
         mps.update({i.split('/')[-1].replace('.uasset', '').replace('Musicpack_', '').replace('MusicPack_', '').replace('Athena_', ''):i})
     with open('json/bb_mp.json', 'w', encoding="utf-8") as f:
       json.dump(mps, f, indent='\t')
+    bbbanner.sort()
+    with open('json/bb_banner.json', 'w', encoding="utf-8") as f:
+      json.dump([i for i in bbbanner if i.lower().endswith('-l.uasset')], f, indent='\t')
     print('writed benbotfn')
         
     time.sleep(600)

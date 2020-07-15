@@ -13,7 +13,7 @@ function copyToClipboard(ct) {
 }
 </script>
 </head>
-<body bgcolor="#808080" text="#fff">
+<body bgcolor="#222222" text="#fff">
 <!--<div class="list">
   <iframe src="/list"></iframe>
   </div>-->
@@ -40,18 +40,18 @@ function copyToClipboard(ct) {
     <img border="0" src="/image/none" width="128" height="128" alt="image">
   {% endif %}
 </th>
-<th class="box2">
+<th class="box2 font1">
 {{i['path'].split('/')[-1]}}
 <br><br>
 <button onclick="copyToClipboard('{{i['path'].split('/')[-1]}}')">Copy ID</button>
 </th>
-<th class="box2">
+<th class="box2 font1">
 {{ i['id']|length }}
 </th>
-<th class="box2">
+<th class="box2 font1">
 {{i['name']}}
 </th>
-<th class="box2">
+<th class="box2 font1">
 {{i['description']}}
 </th>
 <!--<th class="box2 font1">
@@ -64,7 +64,9 @@ function copyToClipboard(ct) {
 {% for j in mps.keys() %}
 {% for k in i['path'].split('/')[-1].split('_')+[i['name']] %}
 {% if k in j %}
+<th>
 <br><br><audio id="{{ i['id'] }}" src="https://benbotfn.tk/api/v1/exportAsset?path={{ mps.get(j) }}" loop preload="metadata" controls>Can't Play Audio.</audio>
+</th>
 {% endif %}
 {% endfor %}
 {% endfor %}
