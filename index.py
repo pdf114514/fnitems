@@ -11,18 +11,26 @@ types=['outfit', 'emote', 'backpack', 'pickaxe', 'glider', 'loadingscreen', 'con
 bbtypes=['character', 'dance', 'backpack', 'pickaxe', 'glider', 'loadingscreen', 'skydivecontrail', 'emoji', 'itemwrap', 'spray', 'toy']
 subtypes=['banner']
 runoption={
-    'host'    :"0.0.0.0", 
-    'port'    :3000, 
-    'threaded':True
+    'host'    : "0.0.0.0", 
+    'port'    : 3000, 
+    'threaded': True
 }
 #https://benbotfn.tk/api/v1/exportAsset?path=Game/Athena/Items/Cosmetics/Series/CUBESeries.uasset
 #https://github.com/EthanC/Athena/tree/master/assets/images
 #<!--<p><font color="#fff">Play Music</font></p><span onclick="document.getElementById('{{ i['id'] }}').play()"><font color="#909090">&#9205;</font></span><span onclick="document.getElementById('{{ i['id'] }}').pause()"><font color="#909090">&#9208;</font></span>-->
 
-def rs(l):l.sort();return l
+@app.before_request
+def app_before_request():addvisit()
+    
+def addvisit():
+    with open('json/info.json', 'r', encoding="utf-8") as f:
+        info=json.load(f)
+    info['visitedcount']=info.get('visitedcount', 0)+1
+    with open('json/info.json', 'w', encoding="utf-8") as f:
+        json.dump(info, f, indent='\t')
   
 @app.route('/')
-def rootgp():return render_template('root.html', types=[*types, *subtypes])
+def rootgp():return render_template('0root.html', types=[*types, *subtypes], updated=json.load(open('json/info.json', 'r', encoding="utf-8")).get('updated', 'Err'))
 
 @app.route('/all/<type>')
 def itemsallgp(type):
@@ -166,6 +174,15 @@ def apiloop():
     with open('json/bb_banner.json', 'w', encoding="utf-8") as f:
       json.dump(bbbanner, f, indent='\t')
     print('writed benbotfn')
+    
+    if not os.path.isfile('json/info.json'):
+        info={}
+    else:
+        with open('json/info.json', 'r', encoding="utf-8") as f:
+            info=json.load(f)
+    info.update({'updated':time.ctime()})
+    with open('json/info.json', 'w', encoding="utf-8") as f:
+        json.dump(info, f, indent='\t')
         
     time.sleep(600)
 Thread(target=apiloop,args=()).start()
