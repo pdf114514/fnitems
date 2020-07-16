@@ -19,8 +19,8 @@ runoption={
 #https://github.com/EthanC/Athena/tree/master/assets/images
 #<!--<p><font color="#fff">Play Music</font></p><span onclick="document.getElementById('{{ i['id'] }}').play()"><font color="#909090">&#9205;</font></span><span onclick="document.getElementById('{{ i['id'] }}').pause()"><font color="#909090">&#9208;</font></span>-->
 
-@app.before_request
-def app_before_request():addvisit()
+#@app.before_request
+#def app_before_request():addvisit()
     
 def addvisit():
     with open('json/info.json', 'r', encoding="utf-8") as f:
@@ -30,7 +30,7 @@ def addvisit():
         json.dump(info, f, indent='\t')
   
 @app.route('/')
-def rootgp():return render_template('root.html', types=[*types, *subtypes], updated=json.load(open('json/info.json', 'r', encoding="utf-8")).get('updated', 'Err'))
+def rootgp():addvisit();return render_template('root.html', types=[*types, *subtypes], updated=json.load(open('json/info.json', 'r', encoding="utf-8")).get('updated', 'Err'))
 
 @app.route('/all/<type>')
 def itemsallgp(type):
@@ -121,14 +121,12 @@ def itemsbbgp(type):
 def cssgp(cssname):
   if not cssname:return 'usage:css/Filename'
   if not os.path.isfile(f'css/{cssname}'):return abort(404)
-  with open(f'css/{cssname}', 'r') as cssf:
-    css=cssf.read()
-  return Response(css, mimetype='text/css')
+  return send_file(f'css/{cssname}', mimetype='text/css')
 
 @app.route('/image/<imagename>')
 def imagegp(imagename):
   if not imagename:return 'usage:image/Filename'
-  if not os.path.isfile(f'image/img_{imagename}.png'):send_file('image/img_common.png', mimetype='image/png')#return abort(404)
+  if not os.path.isfile(f'image/img_{imagename}.png'):return send_file('image/img_common.png', mimetype='image/png')#return abort(404)
   return send_file(f'image/img_{imagename}.png', mimetype='image/png')
 
 def apiloop():
