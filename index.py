@@ -7,8 +7,8 @@ import os
 
 app=Flask(__name__)
 app.secret_key='fnitems'
-types=['outfit', 'emote', 'backpack', 'pickaxe', 'glider', 'loadingscreen', 'contrail', 'emoji', 'wrap', 'spray', 'toy', 'music'] #banner
-bbtypes=['character', 'dance', 'backpack', 'pickaxe', 'glider', 'loadingscreen', 'skydivecontrail', 'emoji', 'itemwrap', 'spray', 'toy']
+types=['outfit', 'emote', 'backpack', 'pickaxe', 'glider', 'loadingscreen', 'contrail', 'emoji', 'wrap', 'spray', 'toy', 'petcarrier', 'music'] #banner
+bbtypes=['character', 'dance', 'backpack', 'pickaxe', 'glider', 'loadingscreen', 'skydivecontrail', 'emoji', 'itemwrap', 'spray', 'toy', 'petcarrier']
 subtypes=['banner']
 runoption={
     'host'    : "0.0.0.0", 
