@@ -131,57 +131,63 @@ def imagegp(imagename):
 
 def apiloop():
   while True:
-    print('getting from fortnite-api...')
-    all=requests.get('https://fortnite-api.com/cosmetics/br/',headers={'x-api-key': os.getenv('apikey')}).json()["data"]
-    print('writing fortnite-api...')
-    for t in types:
-      with open(f'json/{t}.json', 'w', encoding="utf-8") as f:
-        json.dump(sorted([i for i in all if i["type"] == t], key=lambda x:x['id'], reverse=False), f, indent='\t')
-    else:
-      with open('json/all.json', 'w', encoding="utf-8") as f:
-        json.dump(sorted(all, key=lambda x:x['id'], reverse=False), f, indent='\t')
-    print('writed fortnite-api')
-    print('getting from benbotfn...')
-    bball=requests.get('https://benbotfn.tk/api/v1/cosmetics/br').json()
-    bbupcoming=requests.get('https://benbotfn.tk/api/v1/newCosmetics').json()['items']
-    bbmusicpath=requests.get('https://benbotfn.tk/api/v1/files/search?path=FortniteGame/Content/Athena/Sounds/MusicPacks/').json()
-    bbbanner=requests.get('https://benbotfn.tk/api/v1/exportAsset?path=FortniteGame/Content/Banners/BannerIcons').json()
-    print('writing benbotfn...')
-    for t in bbtypes:
-      with open(f'json/bb_{t}.json', 'w', encoding="utf-8") as f:
-        json.dump(sorted([i for i in bball if i["backendType"].lower().replace('athena', '') == t], key=lambda x:x['id'], reverse=False), f, indent='\t')
-    else:
-      with open('json/bb_all.json', 'w', encoding="utf-8") as f:
-        json.dump(sorted(bball, key=lambda x:x['id'], reverse=False), f, indent='\t')
-    with open('json/newitem.json', 'w', encoding="utf-8") as f:
-      #ul=[i.get('id', 'None') for i in bbupcoming]
-      #ul.sort()
-      #rl=[]
-      #for i in ul:
-      #  for j in bbupcoming:
-      #    if i in j.items:rl.append(j)
-      #
-      json.dump(sorted(bbupcoming, key=lambda x:x['id'], reverse=False), f, indent='\t')
-    mps={}
-    for i in bbmusicpath:
-      if not '_cue' in i.lower():
-        i=i.replace('FortniteGame', 'Game')
-        mps.update({i.split('/')[-1].replace('.uasset', '').replace('Musicpack_', '').replace('MusicPack_', '').replace('Athena_', ''):i})
-    with open('json/bb_mp.json', 'w', encoding="utf-8") as f:
-      json.dump(mps, f, indent='\t')
-    with open('json/bb_banner.json', 'w', encoding="utf-8") as f:
-      json.dump(bbbanner, f, indent='\t')
-    print('writed benbotfn')
-    
-    if not os.path.isfile('json/info.json'):
-        info={}
-    else:
-        with open('json/info.json', 'r', encoding="utf-8") as f:
-            info=json.load(f)
-    info.update({'updated':time.ctime()})
-    with open('json/info.json', 'w', encoding="utf-8") as f:
-        json.dump(info, f, indent='\t')
-        
-    time.sleep(600)
+    try:
+      print('getting from fortnite-api...')
+      all=requests.get('https://fortnite-api.com/cosmetics/br/',headers={'x-api-key': os.getenv('apikey')}).json()["data"]
+      print('writing fortnite-api...')
+      for t in types:
+        with open(f'json/{t}.json', 'w', encoding="utf-8") as f:
+          json.dump(sorted([i for i in all if i["type"] == t], key=lambda x:x['id'], reverse=False), f, indent='\t')
+      else:
+        with open('json/all.json', 'w', encoding="utf-8") as f:
+          json.dump(sorted(all, key=lambda x:x['id'], reverse=False), f, indent='\t')
+      print('writed fortnite-api')
+      print('getting from benbotfn...')
+      bball=requests.get('https://benbotfn.tk/api/v1/cosmetics/br').json()
+      bbupcoming=requests.get('https://benbotfn.tk/api/v1/newCosmetics').json()['items']
+      bbmusicpath=requests.get('https://benbotfn.tk/api/v1/files/search?path=FortniteGame/Content/Athena/Sounds/MusicPacks/').json()
+      bbbanner=requests.get('https://benbotfn.tk/api/v1/exportAsset?path=FortniteGame/Content/Banners/BannerIcons').json()
+      print('writing benbotfn...')
+      for t in bbtypes:
+        with open(f'json/bb_{t}.json', 'w', encoding="utf-8") as f:
+          json.dump(sorted([i for i in bball if i["backendType"].lower().replace('athena', '') == t], key=lambda x:x['id'], reverse=False), f, indent='\t')
+      else:
+        with open('json/bb_all.json', 'w', encoding="utf-8") as f:
+          json.dump(sorted(bball, key=lambda x:x['id'], reverse=False), f, indent='\t')
+      with open('json/newitem.json', 'w', encoding="utf-8") as f:
+        #ul=[i.get('id', 'None') for i in bbupcoming]
+        #ul.sort()
+        #rl=[]
+        #for i in ul:
+        #  for j in bbupcoming:
+        #    if i in j.items:rl.append(j)
+        #
+        json.dump(sorted(bbupcoming, key=lambda x:x['id'], reverse=False), f, indent='\t')
+      mps={}
+      for i in bbmusicpath:
+        if not '_cue' in i.lower():
+          i=i.replace('FortniteGame', 'Game')
+          mps.update({i.split('/')[-1].replace('.uasset', '').replace('Musicpack_', '').replace('MusicPack_', '').replace('Athena_', ''):i})
+      with open('json/bb_mp.json', 'w', encoding="utf-8") as f:
+        json.dump(mps, f, indent='\t')
+      with open('json/bb_banner.json', 'w', encoding="utf-8") as f:
+        json.dump(bbbanner, f, indent='\t')
+      print('writed benbotfn')
+      
+      if not os.path.isfile('json/info.json'):
+          info={}
+      else:
+          with open('json/info.json', 'r', encoding="utf-8") as f:
+              info=json.load(f)
+      info.update({'updated':time.ctime()})
+      with open('json/info.json', 'w', encoding="utf-8") as f:
+          json.dump(info, f, indent='\t')
+          
+      time.sleep(600)
+    except Exception as e:
+      print('Error on apiloop:', e)
+      time.sleep(30)
+      continue
+      
 Thread(target=apiloop,args=()).start()
 app.run(**runoption)
