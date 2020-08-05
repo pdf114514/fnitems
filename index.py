@@ -133,7 +133,7 @@ def apiloop():
   while True:
     try:
       print('getting from fortnite-api...')
-      all=requests.get('https://fortnite-api.com/cosmetics/br/',headers={'x-api-key': os.getenv('apikey')}).json()["data"]
+      all=requests.get('https://fortnite-api.com/cosmetics/br/',headers={'x-api-key': os.getenv('apikey')}).json()['data']
       print('writing fortnite-api...')
       for t in types:
         with open(f'json/{t}.json', 'w', encoding="utf-8") as f:
@@ -142,6 +142,9 @@ def apiloop():
         with open('json/all.json', 'w', encoding="utf-8") as f:
           json.dump(sorted(all, key=lambda x:x['id'], reverse=False), f, indent='\t')
       print('writed fortnite-api')
+    except Exception as e:
+        print('Api roop error:', e)
+    try:
       print('getting from benbotfn...')
       bball=requests.get('https://benbotfn.tk/api/v1/cosmetics/br').json()
       bbupcoming=requests.get('https://benbotfn.tk/api/v1/newCosmetics').json()['items']
