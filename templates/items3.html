@@ -37,7 +37,7 @@ function copyToClipboard(ct) {
 </thead>
 <tbody class="box">
 {% for i in items %}
-    <tr id="{{i['path'].split('/')[-1]">
+    <tr id="{{i['path'].split('/')[-1]}}">
   <th class="box2" style="background-image: url(image/{{i['rarity']}});background-size: cover;">
   {% if not i['images']['smallIcon']['url'] == None %}
     <img border="0" src="{{i['images']['smallIcon']['url']}}" width="128" height="128" alt="image">
