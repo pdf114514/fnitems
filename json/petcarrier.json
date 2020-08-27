@@ -1,0 +1,895 @@
+[
+	{
+		"id": "bid_533_mechanicalengineer",
+		"type": "petcarrier",
+		"backendType": "AthenaPetCarrier",
+		"rarity": "epic",
+		"displayRarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"name": "Ohm's Perch",
+		"shortDescription": "PET",
+		"description": "Ohm's personal perch.",
+		"set": "Intrepid Engines",
+		"setText": "Part of the Intrepid Engines set.",
+		"series": null,
+		"backendSeries": null,
+		"images": {
+			"smallIcon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/bid_533_mechanicalengineer/smallicon.png"
+			},
+			"icon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/bid_533_mechanicalengineer/icon.png"
+			},
+			"featured": null,
+			"background": null,
+			"coverArt": null,
+			"decal": null
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season13.BattlePass.Paid",
+			"Cosmetics.Filter.Season.13",
+			"Cosmetics.Set.FearlessMotor"
+		],
+		"displayAssetPath": null,
+		"definition": null,
+		"requiredItemId": null,
+		"builtInEmoteId": null,
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_533_MechanicalEngineer",
+		"lastUpdate": "2020-06-17T08:48:17Z",
+		"added": "2020-06-17T08:48:17Z"
+	},
+	{
+		"id": "petcarrier_001_dog",
+		"type": "petcarrier",
+		"backendType": "AthenaPetCarrier",
+		"rarity": "epic",
+		"displayRarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"name": "Bonesy",
+		"shortDescription": "Pet",
+		"description": "A loyal companion.",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"backendSeries": null,
+		"images": {
+			"smallIcon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_001_dog/smallicon.png"
+			},
+			"icon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_001_dog/icon.png"
+			},
+			"featured": null,
+			"background": null,
+			"coverArt": null,
+			"decal": null
+		},
+		"variants": [
+			{
+				"channel": "Material",
+				"type": "COLOR",
+				"options": [
+					{
+						"tag": "Mat0",
+						"name": "TAN",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_001_dog/variants/material/mat0.png"
+						}
+					},
+					{
+						"tag": "Mat1",
+						"name": "WHITE",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_001_dog/variants/material/mat1.png"
+						}
+					},
+					{
+						"tag": "Mat2",
+						"name": "MOCHA",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_001_dog/variants/material/mat2.png"
+						}
+					}
+				]
+			}
+		],
+		"gameplayTags": [
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.UserFacingFlags.HasUpgradeQuests",
+			"Cosmetics.Filter.Season.6"
+		],
+		"displayAssetPath": null,
+		"definition": null,
+		"requiredItemId": null,
+		"builtInEmoteId": null,
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/PetCarriers/PetCarrier_001_Dog",
+		"lastUpdate": "2019-11-20T12:50:32Z",
+		"added": "2019-11-20T12:50:32Z"
+	},
+	{
+		"id": "petcarrier_002_chameleon",
+		"type": "petcarrier",
+		"backendType": "AthenaPetCarrier",
+		"rarity": "epic",
+		"displayRarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"name": "Camo",
+		"shortDescription": "Pet",
+		"description": "A brilliant buddy!",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"backendSeries": null,
+		"images": {
+			"smallIcon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_002_chameleon/smallicon.png"
+			},
+			"icon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_002_chameleon/icon.png"
+			},
+			"featured": null,
+			"background": null,
+			"coverArt": null,
+			"decal": null
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6"
+		],
+		"displayAssetPath": null,
+		"definition": null,
+		"requiredItemId": null,
+		"builtInEmoteId": null,
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/PetCarriers/PetCarrier_002_Chameleon",
+		"lastUpdate": "2019-11-20T12:50:31Z",
+		"added": "2019-11-20T12:50:31Z"
+	},
+	{
+		"id": "petcarrier_003_dragon",
+		"type": "petcarrier",
+		"backendType": "AthenaPetCarrier",
+		"rarity": "epic",
+		"displayRarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"name": "Scales",
+		"shortDescription": "Pet",
+		"description": "A scaly sidekick.",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"backendSeries": null,
+		"images": {
+			"smallIcon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_003_dragon/smallicon.png"
+			},
+			"icon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_003_dragon/icon.png"
+			},
+			"featured": null,
+			"background": null,
+			"coverArt": null,
+			"decal": null
+		},
+		"variants": [
+			{
+				"channel": "Material",
+				"type": "COLOR",
+				"options": [
+					{
+						"tag": "Mat0",
+						"name": "BLUE",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_003_dragon/variants/material/mat0.png"
+						}
+					},
+					{
+						"tag": "Mat1",
+						"name": "PINK",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_003_dragon/variants/material/mat1.png"
+						}
+					},
+					{
+						"tag": "Mat2",
+						"name": "BLACK",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_003_dragon/variants/material/mat2.png"
+						}
+					}
+				]
+			}
+		],
+		"gameplayTags": [
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.UserFacingFlags.HasUpgradeQuests",
+			"Cosmetics.Filter.Season.6"
+		],
+		"displayAssetPath": null,
+		"definition": null,
+		"requiredItemId": null,
+		"builtInEmoteId": null,
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/PetCarriers/PetCarrier_003_Dragon",
+		"lastUpdate": "2019-11-20T12:50:31Z",
+		"added": "2019-11-20T12:50:31Z"
+	},
+	{
+		"id": "petcarrier_004_hamster",
+		"type": "petcarrier",
+		"backendType": "AthenaPetCarrier",
+		"rarity": "epic",
+		"displayRarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"name": "Hamirez",
+		"shortDescription": "Pet",
+		"description": "Give her a wheel and she'll be your best friend.",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"backendSeries": null,
+		"images": {
+			"smallIcon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_004_hamster/smallicon.png"
+			},
+			"icon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_004_hamster/icon.png"
+			},
+			"featured": null,
+			"background": null,
+			"coverArt": null,
+			"decal": null
+		},
+		"variants": [
+			{
+				"channel": "Material",
+				"type": "COLOR",
+				"options": [
+					{
+						"tag": "Mat0",
+						"name": "TAN",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_004_hamster/variants/material/mat0.png"
+						}
+					},
+					{
+						"tag": "Mat1",
+						"name": "PINK",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_004_hamster/variants/material/mat1.png"
+						}
+					},
+					{
+						"tag": "Mat2",
+						"name": "MOCHA",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_004_hamster/variants/material/mat2.png"
+						}
+					}
+				]
+			}
+		],
+		"gameplayTags": [
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.UserFacingFlags.HasUpgradeQuests",
+			"Cosmetics.Filter.Season.7"
+		],
+		"displayAssetPath": null,
+		"definition": null,
+		"requiredItemId": null,
+		"builtInEmoteId": null,
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/PetCarriers/PetCarrier_004_Hamster",
+		"lastUpdate": "2019-11-20T12:50:31Z",
+		"added": "2019-11-20T12:50:31Z"
+	},
+	{
+		"id": "petcarrier_005_wolf",
+		"type": "petcarrier",
+		"backendType": "AthenaPetCarrier",
+		"rarity": "epic",
+		"displayRarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"name": "Remus",
+		"shortDescription": "Pet",
+		"description": "Untamed and unafraid.",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"backendSeries": null,
+		"images": {
+			"smallIcon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_005_wolf/smallicon.png"
+			},
+			"icon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_005_wolf/icon.png"
+			},
+			"featured": null,
+			"background": null,
+			"coverArt": null,
+			"decal": null
+		},
+		"variants": [
+			{
+				"channel": "Material",
+				"type": "COLOR",
+				"options": [
+					{
+						"tag": "Mat0",
+						"name": "GREY",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_005_wolf/variants/material/mat0.png"
+						}
+					},
+					{
+						"tag": "Mat1",
+						"name": "SKULL",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_005_wolf/variants/material/mat1.png"
+						}
+					},
+					{
+						"tag": "Mat2",
+						"name": "ICE",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_005_wolf/variants/material/mat2.png"
+						}
+					}
+				]
+			}
+		],
+		"gameplayTags": [
+			"Cosmetics.UserFacingFlags.HasUpgradeQuests",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		],
+		"displayAssetPath": null,
+		"definition": null,
+		"requiredItemId": null,
+		"builtInEmoteId": null,
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/PetCarriers/PetCarrier_005_Wolf",
+		"lastUpdate": "2019-11-20T12:50:31Z",
+		"added": "2019-11-20T12:50:31Z"
+	},
+	{
+		"id": "petcarrier_006_gingerbread",
+		"type": "petcarrier",
+		"backendType": "AthenaPetCarrier",
+		"rarity": "epic",
+		"displayRarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"name": "Merry Munchkin",
+		"shortDescription": "Pet",
+		"description": "Not so sweet.",
+		"set": "Gingerbread",
+		"setText": "Part of the Gingerbread set.",
+		"series": null,
+		"backendSeries": null,
+		"images": {
+			"smallIcon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_006_gingerbread/smallicon.png"
+			},
+			"icon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_006_gingerbread/icon.png"
+			},
+			"featured": null,
+			"background": null,
+			"coverArt": null,
+			"decal": null
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Event.14DaysOfFortnite",
+			"Cosmetics.Set.Gingerbread",
+			"Cosmetics.Filter.Season.7",
+			"Cosmetics.Filter.Event.14DaysofFortnite"
+		],
+		"displayAssetPath": null,
+		"definition": null,
+		"requiredItemId": null,
+		"builtInEmoteId": null,
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/PetCarriers/PetCarrier_006_Gingerbread",
+		"lastUpdate": "2019-11-20T12:50:30Z",
+		"added": "2019-11-20T12:50:30Z"
+	},
+	{
+		"id": "petcarrier_007_woodsy",
+		"type": "petcarrier",
+		"backendType": "AthenaPetCarrier",
+		"rarity": "epic",
+		"displayRarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"name": "Woodsy",
+		"shortDescription": "Pet",
+		"description": "Hand carved best friend.",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"backendSeries": null,
+		"images": {
+			"smallIcon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_007_woodsy/smallicon.png"
+			},
+			"icon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_007_woodsy/icon.png"
+			},
+			"featured": null,
+			"background": null,
+			"coverArt": null,
+			"decal": null
+		},
+		"variants": [
+			{
+				"channel": "Material",
+				"type": "STYLE",
+				"options": [
+					{
+						"tag": "Mat0",
+						"name": "DEFAULT",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_007_woodsy/variants/material/mat0.png"
+						}
+					},
+					{
+						"tag": "Mat1",
+						"name": "PIRATE",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_007_woodsy/variants/material/mat1.png"
+						}
+					},
+					{
+						"tag": "Mat2",
+						"name": "GOLD",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_007_woodsy/variants/material/mat2.png"
+						}
+					}
+				]
+			}
+		],
+		"gameplayTags": [
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.UserFacingFlags.HasUpgradeQuests",
+			"Cosmetics.Filter.Season.8"
+		],
+		"displayAssetPath": null,
+		"definition": null,
+		"requiredItemId": null,
+		"builtInEmoteId": null,
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/PetCarriers/PetCarrier_007_Woodsy",
+		"lastUpdate": "2019-11-20T12:50:31Z",
+		"added": "2019-11-20T12:50:31Z"
+	},
+	{
+		"id": "petcarrier_008_fox",
+		"type": "petcarrier",
+		"backendType": "AthenaPetCarrier",
+		"rarity": "epic",
+		"displayRarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"name": "Dodger",
+		"shortDescription": "Pet",
+		"description": "Outfox the competition.",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"backendSeries": null,
+		"images": {
+			"smallIcon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_008_fox/smallicon.png"
+			},
+			"icon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_008_fox/icon.png"
+			},
+			"featured": null,
+			"background": null,
+			"coverArt": null,
+			"decal": null
+		},
+		"variants": [
+			{
+				"channel": "Material",
+				"type": "COLOR",
+				"options": [
+					{
+						"tag": "Mat0",
+						"name": "DEFAULT",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_008_fox/variants/material/mat0.png"
+						}
+					},
+					{
+						"tag": "Mat1",
+						"name": "BLACK",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_008_fox/variants/material/mat1.png"
+						}
+					},
+					{
+						"tag": "Mat2",
+						"name": "CAMO",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_008_fox/variants/material/mat2.png"
+						}
+					}
+				]
+			}
+		],
+		"gameplayTags": [
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.UserFacingFlags.HasUpgradeQuests",
+			"Cosmetics.Filter.Season.8"
+		],
+		"displayAssetPath": null,
+		"definition": null,
+		"requiredItemId": null,
+		"builtInEmoteId": null,
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/PetCarriers/PetCarrier_008_Fox",
+		"lastUpdate": "2019-11-20T12:50:30Z",
+		"added": "2019-11-20T12:50:30Z"
+	},
+	{
+		"id": "petcarrier_009_cat",
+		"type": "petcarrier",
+		"backendType": "AthenaPetCarrier",
+		"rarity": "epic",
+		"displayRarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"name": "Empress",
+		"shortDescription": "Pet",
+		"description": "The world is her scratching post.",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"backendSeries": null,
+		"images": {
+			"smallIcon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_009_cat/smallicon.png"
+			},
+			"icon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_009_cat/icon.png"
+			},
+			"featured": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_009_cat/featured.png"
+			},
+			"background": null,
+			"coverArt": null,
+			"decal": null
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.ItemShop",
+			"Cosmetics.Filter.Season.8"
+		],
+		"displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_PetCarrier_009_Cat",
+		"definition": null,
+		"requiredItemId": null,
+		"builtInEmoteId": null,
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/PetCarriers/PetCarrier_009_Cat",
+		"lastUpdate": "2019-11-20T12:50:31Z",
+		"added": "2019-11-20T12:50:31Z"
+	},
+	{
+		"id": "petcarrier_010_robokitty",
+		"type": "petcarrier",
+		"backendType": "AthenaPetCarrier",
+		"rarity": "epic",
+		"displayRarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"name": "Kyo",
+		"shortDescription": "Pet",
+		"description": "Activate battle nap.",
+		"set": "Sky Style",
+		"setText": "Part of the Sky Style set.",
+		"series": null,
+		"backendSeries": null,
+		"images": {
+			"smallIcon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_010_robokitty/smallicon.png"
+			},
+			"icon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_010_robokitty/icon.png"
+			},
+			"featured": null,
+			"background": null,
+			"coverArt": null,
+			"decal": null
+		},
+		"variants": [
+			{
+				"channel": "Material",
+				"type": "COLOR",
+				"options": [
+					{
+						"tag": "Mat1",
+						"name": "RED",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_010_robokitty/variants/material/mat1.png"
+						}
+					},
+					{
+						"tag": "Mat2",
+						"name": "PURPLE",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_010_robokitty/variants/material/mat2.png"
+						}
+					},
+					{
+						"tag": "Mat3",
+						"name": "ORANGE",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_010_robokitty/variants/material/mat3.png"
+						}
+					},
+					{
+						"tag": "Mat4",
+						"name": "BLACK",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_010_robokitty/variants/material/mat4.png"
+						}
+					}
+				]
+			}
+		],
+		"gameplayTags": [
+			"Cosmetics.Source.ItemShop",
+			"Cosmetics.UserFacingFlags.HasUpgradeQuests",
+			"Cosmetics.Set.StrawberryPilot",
+			"Cosmetics.QuestsMetaData.Glyph.Backpack.RoboKitty",
+			"Cosmetics.Filter.Season.9"
+		],
+		"displayAssetPath": null,
+		"definition": null,
+		"requiredItemId": null,
+		"builtInEmoteId": null,
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/PetCarriers/PetCarrier_010_RoboKitty",
+		"lastUpdate": "2019-11-20T12:48:05Z",
+		"added": "2019-11-20T12:48:05Z"
+	},
+	{
+		"id": "petcarrier_011_dog_raptor",
+		"type": "petcarrier",
+		"backendType": "AthenaPetCarrier",
+		"rarity": "epic",
+		"displayRarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"name": "Gunner",
+		"shortDescription": "Pet",
+		"description": "Who's a good tail gunner? Is it you?",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"backendSeries": null,
+		"images": {
+			"smallIcon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_011_dog_raptor/smallicon.png"
+			},
+			"icon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_011_dog_raptor/icon.png"
+			},
+			"featured": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_011_dog_raptor/featured.png"
+			},
+			"background": null,
+			"coverArt": null,
+			"decal": null
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.ItemShop",
+			"Cosmetics.Filter.Season.10"
+		],
+		"displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_PetCarrier_011_Dog_Raptor",
+		"definition": null,
+		"requiredItemId": null,
+		"builtInEmoteId": null,
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/PetCarriers/PetCarrier_011_Dog_Raptor",
+		"lastUpdate": "2019-11-20T12:50:31Z",
+		"added": "2019-11-20T12:50:31Z"
+	},
+	{
+		"id": "petcarrier_012_drift_fox",
+		"type": "petcarrier",
+		"backendType": "AthenaPetCarrier",
+		"rarity": "epic",
+		"displayRarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"name": "Kitsune",
+		"shortDescription": "Pet",
+		"description": "Two tails, one good friend.",
+		"set": "Drift",
+		"setText": "Part of the Drift set.",
+		"series": null,
+		"backendSeries": null,
+		"images": {
+			"smallIcon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_012_drift_fox/smallicon.png"
+			},
+			"icon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_012_drift_fox/icon.png"
+			},
+			"featured": null,
+			"background": null,
+			"coverArt": null,
+			"decal": null
+		},
+		"variants": [
+			{
+				"channel": "Material",
+				"type": "COLOR",
+				"options": [
+					{
+						"tag": "Mat1",
+						"name": "RIFTSTORM",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_012_drift_fox/variants/material/mat1.png"
+						}
+					},
+					{
+						"tag": "Mat2",
+						"name": "SNOWSTORM",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_012_drift_fox/variants/material/mat2.png"
+						}
+					},
+					{
+						"tag": "Mat3",
+						"name": "BLACK",
+						"image": {
+							"hash": "",
+							"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_012_drift_fox/variants/material/mat3.png"
+						}
+					}
+				]
+			}
+		],
+		"gameplayTags": [
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Set.Drift",
+			"Cosmetics.UserFacingFlags.HasUpgradeQuests",
+			"Cosmetics.Filter.Season.10"
+		],
+		"displayAssetPath": null,
+		"definition": null,
+		"requiredItemId": null,
+		"builtInEmoteId": null,
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/PetCarriers/PetCarrier_012_Drift_Fox",
+		"lastUpdate": "2019-11-20T12:50:30Z",
+		"added": "2019-11-20T12:50:30Z"
+	},
+	{
+		"id": "petcarrier_013_bbqlarry",
+		"type": "petcarrier",
+		"backendType": "AthenaPetCarrier",
+		"rarity": "epic",
+		"displayRarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"name": "Claptrap",
+		"shortDescription": "Pet",
+		"description": "Hyperion Stewart Bot. Friends not included.",
+		"set": "Mayhem",
+		"setText": "Part of the Mayhem set.",
+		"series": null,
+		"backendSeries": null,
+		"images": {
+			"smallIcon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_013_bbqlarry/smallicon.png"
+			},
+			"icon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_013_bbqlarry/icon.png"
+			},
+			"featured": null,
+			"background": null,
+			"coverArt": null,
+			"decal": null
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.ItemShop",
+			"Cosmetics.Set.BarbequeLarry",
+			"Cosmetics.Filter.Season.10"
+		],
+		"displayAssetPath": null,
+		"definition": null,
+		"requiredItemId": null,
+		"builtInEmoteId": null,
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/PetCarriers/PetCarrier_013_BbqLarry",
+		"lastUpdate": "2019-11-20T12:50:30Z",
+		"added": "2019-11-20T12:50:30Z"
+	},
+	{
+		"id": "petcarrier_014_hightowerradish",
+		"type": "petcarrier",
+		"backendType": "AthenaPetCarrier",
+		"rarity": "marvel",
+		"displayRarity": "MARVEL SERIES",
+		"backendRarity": "EFortRarity::Epic",
+		"name": "Rocket",
+		"shortDescription": "Pet",
+		"description": "Just don't call him a raccoon, pal.",
+		"set": "Rocket",
+		"setText": "Part of the Rocket set.",
+		"series": "MARVEL SERIES",
+		"backendSeries": "MarvelSeries",
+		"images": {
+			"smallIcon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_014_hightowerradish/smallicon.png"
+			},
+			"icon": {
+				"hash": "",
+				"url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_014_hightowerradish/icon.png"
+			},
+			"featured": null,
+			"background": null,
+			"coverArt": null,
+			"decal": null
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season14.BattlePass.Paid",
+			"Cosmetics.Filter.Season.14",
+			"Cosmetics.Set.AngleHeard"
+		],
+		"displayAssetPath": null,
+		"definition": null,
+		"requiredItemId": null,
+		"builtInEmoteId": null,
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/PetCarriers/PetCarrier_014_HightowerRadish",
+		"lastUpdate": "2020-08-27T06:07:50Z",
+		"added": "2020-08-27T06:07:50Z"
+	}
+]

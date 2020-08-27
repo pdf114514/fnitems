@@ -1,0 +1,5828 @@
+[
+	{
+		"id": "SPID_000_TestSpray",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_000_TestSpray",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_000_TestSpray/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Test Spray",
+		"description": "Test Spray",
+		"shortDescription": "Test Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.testing"
+		]
+	},
+	{
+		"id": "SPID_001_BasicBanner",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_001_BasicBanner",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_001_BasicBanner/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Personal Banner",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.testing"
+		]
+	},
+	{
+		"id": "SPID_002_XMark",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_002_XMark",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_002_XMark/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "X Mark",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "SPID_003_Arrow",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_003_Arrow",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_003_Arrow/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Arrow",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "SPID_004_ChalkOutline",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_004_ChalkOutline",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_004_ChalkOutline/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Chalk Outline",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "SPID_005_Abstract",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_005_Abstract",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_005_Abstract/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Abstract",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "SPID_006_Rainbow",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_006_Rainbow",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_006_Rainbow/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Rainbow",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "SPID_007_SmileGG",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_007_SmileGG",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_007_SmileGG/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "GG Smiley",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "SPID_008_Hearts",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_008_Hearts",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_008_Hearts/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Hearts",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "SPID_009_Window",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_009_Window",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_009_Window/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Window",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "SPID_010_Tunnel",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_010_Tunnel",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_010_Tunnel/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Tunnel",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "SPID_011_Looted",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_011_Looted",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_011_Looted/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Looted",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "SPID_012_RoyalStroll",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_012_RoyalStroll",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_012_RoyalStroll/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Royal Stroll",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "SPID_013_TrapWarning",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_013_TrapWarning",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_013_TrapWarning/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Trap Warning",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "SPID_014_Raven",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_014_Raven",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_014_Raven/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Raven",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Nevermore",
+		"setText": "Part of the Nevermore set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4",
+			"Cosmetics.Set.Nevermore"
+		]
+	},
+	{
+		"id": "SPID_015_Lips",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_015_Lips",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_015_Lips/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Kiss",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "SPID_016_Ponytail",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_016_Ponytail",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_016_Ponytail/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Mask",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "SPID_017_Splattershot",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_017_Splattershot",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_017_Splattershot/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Teknique",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Aerosol Assassins",
+		"setText": "Part of the Aerosol Assassins set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4",
+			"Cosmetics.Set.AerosolAssassins"
+		]
+	},
+	{
+		"id": "SPID_018_ShadowOps",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_018_ShadowOps",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_018_ShadowOps/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Shadow Ops",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Stealth Syndicate",
+		"setText": "Part of the Stealth Syndicate set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4",
+			"Cosmetics.Set.StealthSyndicate"
+		]
+	},
+	{
+		"id": "SPID_019_Circle",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_019_Circle",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_019_Circle/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Circle",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "SPID_020_ThreeLlamas",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_020_ThreeLlamas",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_020_ThreeLlamas/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Three Llamas",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "SPID_021_DoIt",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_021_DoIt",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_021_DoIt/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Do It!",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "SPID_022_SoloShowdown",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_022_SoloShowdown",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_022_SoloShowdown/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Solo Showdown",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.SoloShowdown",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "SPID_023_E3",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_023_E3",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_023_E3/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "EEE",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.E3",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "SPID_024_Boogie",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_024_Boogie",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_024_Boogie/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Boogie",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "SPID_025_CrazyCastle",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_025_CrazyCastle",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_025_CrazyCastle/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Crazy Castle",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season5.BattlePass.Free",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "SPID_026_DarkViking",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_026_DarkViking",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_026_DarkViking/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Skull & Beard",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Harbinger",
+		"setText": "Part of the Harbinger set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5",
+			"Cosmetics.Set.DarkViking"
+		]
+	},
+	{
+		"id": "SPID_027_Dragonflies",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_027_Dragonflies",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_027_Dragonflies/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Dragonflies",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": []
+	},
+	{
+		"id": "SPID_028_Durrr",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_028_Durrr",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_028_Durrr/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Durrr",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Durrr Burger",
+		"setText": "Part of the Durrr Burger set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.QuestsMetaData.Glyph.Theme.DurrBurger",
+			"Cosmetics.Filter.Season.5",
+			"Cosmetics.Set.DurrrBurger"
+		]
+	},
+	{
+		"id": "SPID_029_LaserShark",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_029_LaserShark",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_029_LaserShark/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Laser Chomp",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Chomp",
+		"setText": "Part of the Chomp set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season5.BattlePass.Free",
+			"Cosmetics.Filter.Season.5",
+			"Cosmetics.Set.Shark"
+		]
+	},
+	{
+		"id": "SPID_030_Luchador",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_030_Luchador",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_030_Luchador/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Lucha GG",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Lucha",
+		"setText": "Part of the Lucha set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5",
+			"Cosmetics.Set.Luchador"
+		]
+	},
+	{
+		"id": "SPID_031_Pixels",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_031_Pixels",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_031_Pixels/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Pixels Royale",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season5.BattlePass.Free",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "SPID_032_PotatoAim",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_032_PotatoAim",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_032_PotatoAim/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Potato Aim",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "SPID_033_FakeDoor",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_033_FakeDoor",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_033_FakeDoor/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Fake Door",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "SPID_034_GoodVibes",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_034_GoodVibes",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_034_GoodVibes/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Good Vibes",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "SPID_035_NordicLlama",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_035_NordicLlama",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_035_NordicLlama/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Norse Llama",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Norse",
+		"setText": "Part of the Norse set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5",
+			"Cosmetics.Set.Viking"
+		]
+	},
+	{
+		"id": "SPID_036_StrawberryPaws",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_036_StrawberryPaws",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_036_StrawberryPaws/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Strawberry Paws",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "SPID_037_Drift",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_037_Drift",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_037_Drift/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Drift",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Drift",
+		"setText": "Part of the Drift set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5",
+			"Cosmetics.Set.Drift"
+		]
+	},
+	{
+		"id": "SPID_038_Sushi",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_038_Sushi",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_038_Sushi/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Sushi",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Sushi",
+		"setText": "Part of the Sushi set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5",
+			"Cosmetics.Set.Sushi"
+		]
+	},
+	{
+		"id": "SPID_039_Yummy",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_039_Yummy",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_039_Yummy/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Yummy",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "SPID_040_Birthday2018",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_040_Birthday2018",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_040_Birthday2018/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Happy Birthday!",
+		"description": "Spray the news! It's Fortnite's first birthday!",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.Birthday.2018",
+			"Cosmetics.Filter.Season.5",
+			"Cosmetics.Filter.Event.Birthday2018"
+		]
+	},
+	{
+		"id": "SPID_041_GC2018",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_041_GC2018",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_041_GC2018/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Distinguished",
+		"description": "Stay fresh.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "SPID_042_LlamaControllers",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_042_LlamaControllers",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_042_LlamaControllers/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Plugged In",
+		"description": "Too many buttons!",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "SPID_043_Flairspray",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_043_Flairspray",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_043_Flairspray/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Kab-llama!",
+		"description": "Caution! Sploding llamas.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "SPID_044_Bling",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_044_Bling",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_044_Bling/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Suited Up",
+		"description": "Luck of the draw.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Getaway Gang",
+		"setText": "Part of the Getaway Gang set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Set.Bling",
+			"Cosmetics.Source.Event.Heist",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "SPID_045_Oni",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_045_Oni",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_045_Oni/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Oni",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Shogun",
+		"setText": "Part of the Shogun set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6",
+			"Cosmetics.Set.SamuraiUltra"
+		]
+	},
+	{
+		"id": "SPID_046_PixelRaven",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_046_PixelRaven",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_046_PixelRaven/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Pixel Raven",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Nevermore",
+		"setText": "Part of the Nevermore set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6",
+			"Cosmetics.Set.Nevermore"
+		]
+	},
+	{
+		"id": "SPID_047_Gremlins",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_047_Gremlins",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_047_Gremlins/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Gremlins",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "SPID_049_CactusMaze",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_049_CactusMaze",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_049_CactusMaze/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Cactus Maze",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "SPID_050_FullMoon",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_050_FullMoon",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_050_FullMoon/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Meow Moon",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "SPID_051_GameOver",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_051_GameOver",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_051_GameOver/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Game Over",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season6.BattlePass.Free",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "SPID_053_GGPotion",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_053_GGPotion",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_053_GGPotion/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "GG Potion",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season6.BattlePass.Free",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "SPID_055_WallCrawler",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_055_WallCrawler",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_055_WallCrawler/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Wallcrawler",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Arachnid",
+		"setText": "Part of the Arachnid set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6",
+			"Cosmetics.Set.BlackWidow"
+		]
+	},
+	{
+		"id": "SPID_056_ManholeCover",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_056_ManholeCover",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_056_ManholeCover/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Manhole Cover",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "SPID_057_CreepyBunny",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_057_CreepyBunny",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_057_CreepyBunny/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Sad Bunny",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Animal Jackets",
+		"setText": "Part of the Animal Jackets set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6",
+			"Cosmetics.Set.AnimalJackets"
+		]
+	},
+	{
+		"id": "SPID_058_Cowgirl",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_058_Cowgirl",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_058_Cowgirl/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Calamity",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Western Wilds",
+		"setText": "Part of the Western Wilds set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6",
+			"Cosmetics.Set.Cowgirl"
+		]
+	},
+	{
+		"id": "SPID_059_DJ",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_059_DJ",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_059_DJ/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "DJ Yonder",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Twin Turntables",
+		"setText": "Part of the Twin Turntables set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6",
+			"Cosmetics.Set.FortniteDJ"
+		]
+	},
+	{
+		"id": "SPID_060_DayOfDead",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_060_DayOfDead",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_060_DayOfDead/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Llama de Muertos",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Muertos",
+		"setText": "Part of the Muertos set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6",
+			"Cosmetics.Set.Muertos"
+		]
+	},
+	{
+		"id": "SPID_061_Spiderweb",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_061_Spiderweb",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_061_Spiderweb/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Spiderweb",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Arachnid",
+		"setText": "Part of the Arachnid set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season6.BattlePass.Free",
+			"Cosmetics.Filter.Season.6",
+			"Cosmetics.Set.BlackWidow"
+		]
+	},
+	{
+		"id": "SPID_062_Werewolf",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_062_Werewolf",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_062_Werewolf/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Dire",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Full Moon",
+		"setText": "Part of the Full Moon set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6",
+			"Cosmetics.Set.Werewolf"
+		]
+	},
+	{
+		"id": "SPID_063_Cowboy",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_063_Cowboy",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_063_Cowboy/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Deadfire",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Western Wilds",
+		"setText": "Part of the Western Wilds set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.Fortnitemares.2018",
+			"Cosmetics.Filter.Season.6",
+			"Cosmetics.Filter.Event.Fortnitemares2018",
+			"Cosmetics.Set.Cowgirl"
+		]
+	},
+	{
+		"id": "SPID_064_S6Lvl100",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_064_S6Lvl100",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_064_S6Lvl100/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Season Level 100",
+		"description": "Recognition for reaching Season Level 100 in Battle Royale Season 6.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season6.LevelUp",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "SPID_065_DiscoBaller",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_065_DiscoBaller",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_065_DiscoBaller/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Disco Baller",
+		"description": "Let them know that you've got moves.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Promo",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "SPID_066_Llamalaxy",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_066_Llamalaxy",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_066_Llamalaxy/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Llamalaxy",
+		"description": "Leave your mark on the galaxy.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Galaxy",
+		"setText": "Part of the Galaxy set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Promo",
+			"Cosmetics.Filter.Season.6",
+			"Cosmetics.Set.Celestial"
+		]
+	},
+	{
+		"id": "SPID_067_GGSnowman",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_067_GGSnowman",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_067_GGSnowman/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "GG Snowman",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season7.BattlePass.Free",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_068_EvilTree",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_068_EvilTree",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_068_EvilTree/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Grumpy Tree",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_069_BagOfCoal",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_069_BagOfCoal",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_069_BagOfCoal/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Bag Of Coal",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_070_Hohoho",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_070_Hohoho",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_070_Hohoho/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Sgt. Winter",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Sgt. Winter",
+		"setText": "Part of the Sgt. Winter set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season7.BattlePass.Free",
+			"Cosmetics.Set.TacticalSanta",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_071_NeonCat",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_071_NeonCat",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_071_NeonCat/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Neon Cat",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_072_Mothhead",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_072_Mothhead",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_072_Mothhead/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Moth",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_073_Porthole",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_073_Porthole",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_073_Porthole/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Porthole",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_074_CuddleHula",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_074_CuddleHula",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_074_CuddleHula/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Cuddle Team Hula",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Royale Hearts",
+		"setText": "Part of the Royale Hearts set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7",
+			"Cosmetics.Set.RoyaleHearts"
+		]
+	},
+	{
+		"id": "SPID_075_MeltingSnowman",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_075_MeltingSnowman",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_075_MeltingSnowman/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Melting Snowman",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season7.BattlePass.Free",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_076_Yeti",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_076_Yeti",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_076_Yeti/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Trog Drawings",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Mountain Myths",
+		"setText": "Part of the Mountain Myths set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Set.Yeti",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_077_Baited",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_077_Baited",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_077_Baited/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Baited",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_078_PixelRamirez",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_078_PixelRamirez",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_078_PixelRamirez/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Pixel Ramirez",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_079_CatGirl",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_079_CatGirl",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_079_CatGirl/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Lynx",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Lynx",
+		"setText": "Part of the Lynx set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Set.NeonCat",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_080_S7Lvl100",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_080_S7Lvl100",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_080_S7Lvl100/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Season Level 100",
+		"description": "Recognition for reaching Season Level 100 in Battle Royale Season 7.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season7.LevelUp",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_081_Bananas",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_081_Bananas",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_081_Bananas/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Bananas",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_082_Ornament",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_082_Ornament",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_082_Ornament/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "GG Ornament",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.14DaysOfFortnite",
+			"Cosmetics.Filter.Season.7",
+			"Cosmetics.Filter.Event.14DaysofFortnite"
+		]
+	},
+	{
+		"id": "SPID_083_Winter",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_083_Winter",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_083_Winter/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Holiday Stormwing",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.14DaysOfFortnite",
+			"Cosmetics.Filter.Season.7",
+			"Cosmetics.Filter.Event.14DaysofFortnite"
+		]
+	},
+	{
+		"id": "SPID_084_Festivus",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_084_Festivus",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_084_Festivus/icon.png",
+			"featured": null,
+			"series": "https://benbotfn.tk/cdn/series/CreatorCollabSeries.png"
+		},
+		"name": "Mello Made It Right",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Marshmello",
+		"setText": "Part of the Marshmello set.",
+		"series": {
+			"name": "Icon Series",
+			"colors": {
+				"Color1": {
+					"r": 27,
+					"g": 226,
+					"b": 229,
+					"a": 255
+				},
+				"Color2": {
+					"r": 6,
+					"g": 149,
+					"b": 151,
+					"a": 255
+				},
+				"Color3": {
+					"r": 0,
+					"g": 18,
+					"b": 42,
+					"a": 255
+				},
+				"Color4": {
+					"r": 0,
+					"g": 22,
+					"b": 22,
+					"a": 255
+				},
+				"Color5": {
+					"r": 0,
+					"g": 1,
+					"b": 6,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.Festivus",
+			"Cosmetics.Filter.Season.7",
+			"Cosmetics.Filter.Event.SquishyConcert",
+			"Cosmetics.Set.Squishy"
+		]
+	},
+	{
+		"id": "SPID_085_ShareTheLove_A",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_085_ShareTheLove_A",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_085_ShareTheLove_A/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Share The Love",
+		"description": "Open Division competitor.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Common",
+		"backendRarity": "EFortRarity::Common",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.Competitive.ShareTheLove",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_086_ShareTheLove_B",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_086_ShareTheLove_B",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_086_ShareTheLove_B/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Share The Love",
+		"description": "Prospect Division competitor.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.Competitive.ShareTheLove",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_087_ShareTheLove_C",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_087_ShareTheLove_C",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_087_ShareTheLove_C/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Share The Love",
+		"description": "Contender Division competitor.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.Competitive.ShareTheLove",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_088_ShareTheLove_D",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_088_ShareTheLove_D",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_088_ShareTheLove_D/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Share The Love",
+		"description": "Champion Division competitor.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.Competitive.ShareTheLove",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_089_ShareTheLove_E",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_089_ShareTheLove_E",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_089_ShareTheLove_E/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Share The Love",
+		"description": "Champion Division Finals competitor.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Legendary",
+		"backendRarity": "EFortRarity::Legendary",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.Competitive.ShareTheLove",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_090_DanceFloorBox",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_090_DanceFloorBox",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_090_DanceFloorBox/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Dance Mat",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "SPID_091_DragonNinja",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_091_DragonNinja",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_091_DragonNinja/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "The Brood",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Brood",
+		"setText": "Part of the Brood set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Set.DragonNinja",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "SPID_092_BananaPeel",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_092_BananaPeel",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_092_BananaPeel/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Peeled",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Banana Bunch",
+		"setText": "Part of the Banana Bunch set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Filter.Season.8",
+			"Cosmetics.Set.Banana"
+		]
+	},
+	{
+		"id": "SPID_093_TheEnd",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_093_TheEnd",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_093_TheEnd/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "The End",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "SPID_094_WootDog",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_094_WootDog",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_094_WootDog/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Woot Bonesy",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "SPID_095_LoveRanger",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_095_LoveRanger",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_095_LoveRanger/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Love Ranger",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Royale Hearts",
+		"setText": "Part of the Royale Hearts set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Set.RoyaleHearts",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "SPID_096_FallenLoveRanger",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_096_FallenLoveRanger",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_096_FallenLoveRanger/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Fallen Love Ranger",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Royale Hearts",
+		"setText": "Part of the Royale Hearts set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Set.RoyaleHearts",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "SPID_097_FireElf",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_097_FireElf",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_097_FireElf/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Ember",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Ashen Guard",
+		"setText": "Part of the Ashen Guard set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Set.FireElf",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "SPID_098_Shiny",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_098_Shiny",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_098_Shiny/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Luxe",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "24K",
+		"setText": "Part of the 24K set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Set.Shiny",
+			"Cosmetics.UserFacingFlags.Spray.Animated",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "SPID_099_Key",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_099_Key",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_099_Key/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Skeleton Key",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Key Force",
+		"setText": "Part of the Key Force set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Set.MasterKey",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "SPID_100_Salty",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_100_Salty",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_100_Salty/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Salty",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "SPID_101_BriteBomber",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_101_BriteBomber",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_101_BriteBomber/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Brite Bomber",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Sunshine And Rainbows",
+		"setText": "Part of the Sunshine And Rainbows set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Set.SunshineAndRainbows",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "SPID_102_GGAztec",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_102_GGAztec",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_102_GGAztec/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "GG Snakes",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Sun Soldiers",
+		"setText": "Part of the Sun Soldiers set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Set.Aztec",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "SPID_103_Mermaid",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_103_Mermaid",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_103_Mermaid/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Mermaid",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Scallywags",
+		"setText": "Part of the Scallywags set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Set.Pirate",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "SPID_104_S8Lvl100",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_104_S8Lvl100",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_104_S8Lvl100/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Season Level 100",
+		"description": "Recognition for reaching Season Level 100 in Battle Royale Season 8.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season8.Levelup",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "SPID_105_Parrot",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_105_Parrot",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_105_Parrot/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Pirate Parrot",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.PirateParty",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "SPID_106_Ashton_Boardwalk",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_106_Ashton_Boardwalk",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_106_Ashton_Boardwalk/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Avengers Logo",
+		"description": "Assemble!",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Avengers",
+		"setText": "Part of the Avengers set.",
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.Ashton.Spray.Boardwalk",
+			"Cosmetics.Set.AshtonBoardwalk",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "SPID_107_Ashton_Jim",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_107_Ashton_Jim",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_107_Ashton_Jim/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Infinity Gauntlet",
+		"description": "Leave a powerful mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Avengers",
+		"setText": "Part of the Avengers set.",
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.Ashton.Spray.Jim",
+			"Cosmetics.Set.AshtonBoardwalk",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "SPID_108_Fate",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_108_Fate",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_108_Fate/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Fate",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Overseer",
+		"setText": "Part of the Overseer set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Set.DarkEagle",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "SPID_109_StrawberryPilot",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_109_StrawberryPilot",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_109_StrawberryPilot/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Rox",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Sky Style",
+		"setText": "Part of the Sky Style set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Set.StrawberryPilot",
+			"Cosmetics.QuestsMetaData.Glyph.Spray.StrawberryPilot",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "SPID_110_Rooster",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_110_Rooster",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_110_Rooster/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Sentinel",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Battle Dynamics",
+		"setText": "Part of the Battle Dynamics set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Set.Rooster",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "SPID_111_Ark",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_111_Ark",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_111_Ark/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Ark",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Eternal Struggle",
+		"setText": "Part of the Eternal Struggle set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Set.EternalStruggle",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "SPID_112_RockPeople",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_112_RockPeople",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_112_RockPeople/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Rock Love",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season9.BattlePass.Free",
+			"Cosmetics.QuestsMetaData.Glyph.RockPeopleSpray",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "SPID_113_NanaNana",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_113_NanaNana",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_113_NanaNana/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Nana Nana",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Banana Bunch",
+		"setText": "Part of the Banana Bunch set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Set.Banana",
+			"Cosmetics.QuestsMetaData.Glyph.Spray.NanaNana",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "SPID_114_Bush",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_114_Bush",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_114_Bush/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Bush Peek",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season9.BattlePass.Free",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "SPID_115_PixelJonesy",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_115_PixelJonesy",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_115_PixelJonesy/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Pixel Jonesy",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "SPID_116_Robot",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_116_Robot",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_116_Robot/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Bot",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.QuestsMetaData.Glyph.Spray.Robot",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "SPID_117_NoSymbol",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_117_NoSymbol",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_117_NoSymbol/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Nope",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "SPID_118_ChevronLeft",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_118_ChevronLeft",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_118_ChevronLeft/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "This way",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "SPID_119_ChevronRight",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_119_ChevronRight",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_119_ChevronRight/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "That way",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "SPID_120_S9Lvl100",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_120_S9Lvl100",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_120_S9Lvl100/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Season Level 100",
+		"description": "Recognition for reaching Season Level 100 in Battle Royale Season 9.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season9.Levelup",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "SPID_121_Sunbird",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_121_Sunbird",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_121_Sunbird/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Sunbird",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Sun Soldiers",
+		"setText": "Part of the Sun Soldiers set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season9.BattlePass.Free",
+			"Cosmetics.Set.Aztec",
+			"Cosmetics.QuestsMetaData.Glyph.Spray.Sunbird",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "SPID_122_VigilanteBall",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_122_VigilanteBall",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_122_VigilanteBall/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Slam Dunk",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Hang Time",
+		"setText": "Part of the Hang Time set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Set.Vigilante",
+			"Cosmetics.Source.Event.CreativePromo.Spray",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "SPID_123_PeelyArms",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_123_PeelyArms",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_123_PeelyArms/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Wings",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Hang Time",
+		"setText": "Part of the Hang Time set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Set.Vigilante",
+			"Cosmetics.Source.Event.CreativePromo.Spray",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "SPID_124_Goat",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_124_Goat",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_124_Goat/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "G.O.A.T.",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Hang Time",
+		"setText": "Part of the Hang Time set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Set.Vigilante",
+			"Cosmetics.Source.Event.CreativePromo.Spray",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "SPID_125_VigilanteFace",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_125_VigilanteFace",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_125_VigilanteFace/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Gameface",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Hang Time",
+		"setText": "Part of the Hang Time set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Set.Vigilante",
+			"Cosmetics.Source.Event.CreativePromo.Spray",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "SPID_126_WorldCup",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_126_WorldCup",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_126_WorldCup/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "World Cup 2019",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "World Cup 2019",
+		"setText": "Part of the World Cup 2019 set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Set.WorldCup2019",
+			"Cosmetics.UserFacingFlags.Spray.Animated",
+			"Cosmetics.Source.Event.WorldCup2019.Spray",
+			"Cosmetics.Filter.Season.9",
+			"Cosmetics.Filter.Event.WorldCup2019"
+		]
+	},
+	{
+		"id": "SPID_127_SummerDays01",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_127_SummerDays01",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_127_SummerDays01/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Sunny",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.14DaysOfSummer.Spray",
+			"Cosmetics.Filter.Season.9",
+			"Cosmetics.Filter.Event.14DaysofSummer"
+		]
+	},
+	{
+		"id": "SPID_128_SummerDays02",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_128_SummerDays02",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_128_SummerDays02/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Surfstick",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Fish Food",
+		"setText": "Part of the Fish Food set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.14DaysOfSummer.Spray",
+			"Cosmetics.Filter.Season.9",
+			"Cosmetics.Filter.Event.14DaysofSummer",
+			"Cosmetics.Set.TeriyakiFish"
+		]
+	},
+	{
+		"id": "SPID_129_Birthday2019",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_129_Birthday2019",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_129_Birthday2019/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "This Many",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "B-Day Bunch",
+		"setText": "Part of the B-Day Bunch set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Set.Birthday2019",
+			"Cosmetics.Source.Event.Birthday.2019",
+			"Cosmetics.Filter.Season.9",
+			"Cosmetics.Filter.Event.Birthday2019"
+		]
+	},
+	{
+		"id": "SPID_130_GameJam2019",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_130_GameJam2019",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_130_GameJam2019/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Game Jam 2019",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Promo",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "SPID_131_Teknique",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_131_Teknique",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_131_Teknique/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Teknique",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Aerosol Assassins",
+		"setText": "Part of the Aerosol Assassins set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Set.AerosolAssassins",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_132_BlackKnight",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_132_BlackKnight",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_132_BlackKnight/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Black Knight",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Fort Knights",
+		"setText": "Part of the Fort Knights set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Set.FortKnights",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_133_Butterfly",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_133_Butterfly",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_133_Butterfly/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Butterfly",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Broken Light",
+		"setText": "Part of the Broken Light set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Filter.Season.10",
+			"Cosmetics.Set.BrokenLight"
+		]
+	},
+	{
+		"id": "SPID_134_DustyDepot",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_134_DustyDepot",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_134_DustyDepot/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Dusty Devastation",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_135_RiskyReels",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_135_RiskyReels",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_135_RiskyReels/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Risky Reels",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_136_RocketLaunch",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_136_RocketLaunch",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_136_RocketLaunch/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Rocket",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_137_RustLord",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_137_RustLord",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_137_RustLord/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Rust Lord",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Storm Scavenger",
+		"setText": "Part of the Storm Scavenger set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Set.StormScavenger",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_138_SparkleSpecialist",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_138_SparkleSpecialist",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_138_SparkleSpecialist/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Sparkle Specialist",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Fortnite Fever",
+		"setText": "Part of the Fortnite Fever set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Set.FortniteFever",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_139_TiltedMap",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_139_TiltedMap",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_139_TiltedMap/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Tilted Map",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_140_MoistyMire",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_140_MoistyMire",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_140_MoistyMire/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Moisty Mire",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_141_S10Level100",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_141_S10Level100",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_141_S10Level100/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Season Level 100",
+		"description": "Recognition for reaching Season Level 100 in Battle Royale Season X.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season10.Levelup",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_142_CubeRune",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_142_CubeRune",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_142_CubeRune/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Kevin Runes",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_143_Drift",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_143_Drift",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_143_Drift/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Drift",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Drift",
+		"setText": "Part of the Drift set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Set.Drift",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_144_VisitorGG",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_144_VisitorGG",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_144_VisitorGG/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Visitor GG",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "The Seven",
+		"setText": "Part of the The Seven set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Filter.Season.10",
+			"Cosmetics.Set.Asteroid"
+		]
+	},
+	{
+		"id": "SPID_145_Comet",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_145_Comet",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_145_Comet/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Comet",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Promo",
+			"Cosmetics.UserFacingFlags.Spray.Animated",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_146_Rocket",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_146_Rocket",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_146_Rocket/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Take Cover",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Promo",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_147_Smoothie",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_147_Smoothie",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_147_Smoothie/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Stay Smooth",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Bunker Days",
+		"setText": "Part of the Bunker Days set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Promo",
+			"Cosmetics.UserFacingFlags.Spray.Animated",
+			"Cosmetics.Filter.Season.10",
+			"Cosmetics.Set.BunkerMan"
+		]
+	},
+	{
+		"id": "SPID_148_Umbrella",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_148_Umbrella",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_148_Umbrella/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Play To Win",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Promo",
+			"Schedule.Source.Season",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "SPID_149_FireIce",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_149_FireIce",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_149_FireIce/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Fire v Ice",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_150_IceDragon",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_150_IceDragon",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_150_IceDragon/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Frostwing",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_151_DarkVoyager",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_151_DarkVoyager",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_151_DarkVoyager/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Pixel Blast",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Space Explorers",
+		"setText": "Part of the Space Explorers set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Set.SpaceExplorers",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_152_DriftRemix",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_152_DriftRemix",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_152_DriftRemix/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Catalyst",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Drift",
+		"setText": "Part of the Drift set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Set.Drift",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_153_KnightRemix",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_153_KnightRemix",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_153_KnightRemix/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Ultima Knight",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Fort Knights",
+		"setText": "Part of the Fort Knights set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Set.FortKnights",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_155_BarbequeLarryBunnyHead",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_155_BarbequeLarryBunnyHead",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_155_BarbequeLarryBunnyHead/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Crunk Bunny",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Mayhem",
+		"setText": "Part of the Mayhem set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Set.BarbequeLarry",
+			"Cosmetics.Source.Event.Oak.Spray",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_157_BarbequeLarryMask",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_157_BarbequeLarryMask",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_157_BarbequeLarryMask/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Psycho",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Mayhem",
+		"setText": "Part of the Mayhem set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.Oak.Spray",
+			"Cosmetics.Set.BarbequeLarry",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_158_ZoneWars",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_158_ZoneWars",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_158_ZoneWars/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Zone Wars",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Zone Wars",
+		"setText": "Part of the Zone Wars set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Challenge",
+			"Cosmetics.Set.ZoneWars",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_159_BlackMonday01_TY6N5",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_159_BlackMonday01_TY6N5",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_159_BlackMonday01_TY6N5/icon.png",
+			"featured": null,
+			"series": "https://benbotfn.tk/cdn/series/DCUSeries.png"
+		},
+		"name": "The Bat",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Gotham City",
+		"setText": "Part of the Gotham City set.",
+		"series": {
+			"name": "DC SERIES",
+			"colors": {
+				"Color1": {
+					"r": 0,
+					"g": 50,
+					"b": 224,
+					"a": 255
+				},
+				"Color2": {
+					"r": 0,
+					"g": 22,
+					"b": 101,
+					"a": 255
+				},
+				"Color3": {
+					"r": 0,
+					"g": 13,
+					"b": 57,
+					"a": 255
+				},
+				"Color4": {
+					"r": 0,
+					"g": 8,
+					"b": 36,
+					"a": 255
+				},
+				"Color5": {
+					"r": 0,
+					"g": 4,
+					"b": 16,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Set.ElectrodeDefect",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_160_BlackMonday02_PM0U6",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_160_BlackMonday02_PM0U6",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_160_BlackMonday02_PM0U6/icon.png",
+			"featured": null,
+			"series": "https://benbotfn.tk/cdn/series/DCUSeries.png"
+		},
+		"name": "Batarang",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Gotham City",
+		"setText": "Part of the Gotham City set.",
+		"series": {
+			"name": "DC SERIES",
+			"colors": {
+				"Color1": {
+					"r": 0,
+					"g": 50,
+					"b": 224,
+					"a": 255
+				},
+				"Color2": {
+					"r": 0,
+					"g": 22,
+					"b": 101,
+					"a": 255
+				},
+				"Color3": {
+					"r": 0,
+					"g": 13,
+					"b": 57,
+					"a": 255
+				},
+				"Color4": {
+					"r": 0,
+					"g": 8,
+					"b": 36,
+					"a": 255
+				},
+				"Color5": {
+					"r": 0,
+					"g": 4,
+					"b": 16,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Set.ElectrodeDefect",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "SPID_161_S11_StandardLogo",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_161_S11_StandardLogo",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_161_S11_StandardLogo/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "E.G.O.",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season11.BattlePass.Free",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "SPID_162_S11_RockClimber",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_162_S11_RockClimber",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_162_S11_RockClimber/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Journey",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Ascension",
+		"setText": "Part of the Ascension set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season11.BattlePass.Paid",
+			"Cosmetics.Set.Mountaineer",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "SPID_163_S11_Bees",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_163_S11_Bees",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_163_S11_Bees/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Bees!",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season11.BattlePass.Paid",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "SPID_164_S11_PinkTeeth",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_164_S11_PinkTeeth",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_164_S11_PinkTeeth/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Pink",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Final Reckoning",
+		"setText": "Part of the Final Reckoning set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season11.BattlePass.Paid",
+			"Cosmetics.Set.GardenBones",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "SPID_165_S11_AlterEgoLogo",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_165_S11_AlterEgoLogo",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_165_S11_AlterEgoLogo/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "A.L.T.E.R.",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season11.BattlePass.Free",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "SPID_166_S11_CrazyEight",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_166_S11_CrazyEight",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_166_S11_CrazyEight/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "8-Ball",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Stripes and Solids",
+		"setText": "Part of the Stripes and Solids set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season11.BattlePass.Free",
+			"Cosmetics.Set.Billiards",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "SPID_167_S11_Pug",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_167_S11_Pug",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_167_S11_Pug/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Doggo",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Grumble Gang",
+		"setText": "Part of the Grumble Gang set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season11.BattlePass.Paid",
+			"Cosmetics.Set.Pug",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "SPID_169_Eucalyptus",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_169_Eucalyptus",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_169_Eucalyptus/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Eucalyptus",
+		"description": "Created by George Rose.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.ItemShop",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "SPID_170_Quokka",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_170_Quokka",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_170_Quokka/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Quokka",
+		"description": "Created by George Rose.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.ItemShop",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "SPID_171_Rose",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_171_Rose",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_171_Rose/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Rose",
+		"description": "Created by George Rose.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.ItemShop",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "SPID_172_Shaka",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_172_Shaka",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_172_Shaka/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Shaka",
+		"description": "Created by George Rose.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.ItemShop",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "SPID_173_ThumbsUp",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_173_ThumbsUp",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_173_ThumbsUp/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Handoff",
+		"description": "Created by George Rose.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.ItemShop",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "SPID_174_Tiger",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_174_Tiger",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_174_Tiger/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Tiger",
+		"description": "Created by George Rose.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.ItemShop",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "SPID_175_S11_Squid",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_175_S11_Squid",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_175_S11_Squid/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Squid Up",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season11.BattlePass.Paid",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "SPID_176_Storm",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_176_Storm",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_176_Storm/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "King's Wrath",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.Fortnitemares.2019",
+			"Cosmetics.Filter.Season.11",
+			"Cosmetics.Filter.Event.Fortnitemares2019"
+		]
+	},
+	{
+		"id": "SPID_177_Mastermind",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_177_Mastermind",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_177_Mastermind/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Spreading Chaos",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Final Reckoning",
+		"setText": "Part of the Final Reckoning set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Event.Fortnitemares.2019",
+			"Cosmetics.Set.GardenBones",
+			"Cosmetics.Filter.Season.11",
+			"Cosmetics.Filter.Event.Fortnitemares2019"
+		]
+	},
+	{
+		"id": "SPID_178_SearchAndDestroy",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_178_SearchAndDestroy",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_178_SearchAndDestroy/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Masq Mark",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Metal Masq",
+		"setText": "Part of the Metal Masq set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Filter.Season.11",
+			"Cosmetics.Source.ItemShop",
+			"Cosmetics.Set.Steel"
+		]
+	},
+	{
+		"id": "SPID_179_S11_FNCS",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_179_S11_FNCS",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_179_S11_FNCS/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Fortnite Champion Series",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Fortnite Champion Series",
+		"setText": "Part of the Fortnite Champion Series set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Set.FNCS",
+			"Cosmetics.Source.FNCS",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "SPID_180_BlueCrackshot",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_180_BlueCrackshot",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_180_BlueCrackshot/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Chillshot",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Nutcracker",
+		"setText": "Part of the Nutcracker set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Filter.Season.11",
+			"Cosmetics.Source.Winterfest.Challenges",
+			"Cosmetics.Set.Nutcracker"
+		]
+	},
+	{
+		"id": "SPID_185_PolarBear",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_185_PolarBear",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_185_PolarBear/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Polar Renegade",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Bear Brigade",
+		"setText": "Part of the Bear Brigade set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Filter.Season.11",
+			"Cosmetics.Set.LionArmy",
+			"Cosmetics.Source.Winterfest.Challenges"
+		]
+	},
+	{
+		"id": "SPID_189_SkullDude",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_189_SkullDude",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_189_SkullDude/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Cash Grab",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Brute Force",
+		"setText": "Part of the Brute Force set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.Season12.BattlePass.Free",
+			"Cosmetics.Set.HardEntry",
+			"Cosmetics.EmoteType.Spray"
+		]
+	},
+	{
+		"id": "SPID_190_TNTina",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_190_TNTina",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_190_TNTina/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Dynamite",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Short Fuse",
+		"setText": "Part of the Short Fuse set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.Season12.BattlePass.Paid",
+			"Cosmetics.Set.SmallLight",
+			"Cosmetics.EmoteType.Spray"
+		]
+	},
+	{
+		"id": "SPID_191_Meowscles",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_191_Meowscles",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_191_Meowscles/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Fishbone",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Swole Cat",
+		"setText": "Part of the Swole Cat set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.Season12.BattlePass.Paid",
+			"Cosmetics.Set.JackedKitty",
+			"Cosmetics.EmoteType.Spray"
+		]
+	},
+	{
+		"id": "SPID_192_AdventureGirl",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_192_AdventureGirl",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_192_AdventureGirl/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Mighty Tree",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Quest Friends",
+		"setText": "Part of the Quest Friends set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.Season12.BattlePass.Paid",
+			"Cosmetics.Set.SearchPals",
+			"Cosmetics.EmoteType.Spray"
+		]
+	},
+	{
+		"id": "SPID_193_Midas",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_193_Midas",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_193_Midas/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Gold Touch",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Golden Ghost",
+		"setText": "Part of the Golden Ghost set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.Season12.BattlePass.Paid",
+			"Cosmetics.Set.SilverSpirit",
+			"Cosmetics.EmoteType.Spray"
+		]
+	},
+	{
+		"id": "SPID_194_DumpsterFire",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_194_DumpsterFire",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_194_DumpsterFire/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Everything's Fine",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.Season12.BattlePass.Free",
+			"Cosmetics.EmoteType.Spray"
+		]
+	},
+	{
+		"id": "SPID_195_Cyclone",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_195_Cyclone",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_195_Cyclone/icon.png",
+			"featured": null,
+			"series": "https://benbotfn.tk/cdn/series/CreatorCollabSeries.png"
+		},
+		"name": "Astro Antidote",
+		"description": "Let it out.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Travis Scott",
+		"setText": "Part of the Travis Scott set.",
+		"series": {
+			"name": "Icon Series",
+			"colors": {
+				"Color1": {
+					"r": 27,
+					"g": 226,
+					"b": 229,
+					"a": 255
+				},
+				"Color2": {
+					"r": 6,
+					"g": 149,
+					"b": 151,
+					"a": 255
+				},
+				"Color3": {
+					"r": 0,
+					"g": 18,
+					"b": 42,
+					"a": 255
+				},
+				"Color4": {
+					"r": 0,
+					"g": 22,
+					"b": 22,
+					"a": 255
+				},
+				"Color5": {
+					"r": 0,
+					"g": 1,
+					"b": 6,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Set.PortraitFolk",
+			"Cosmetics.Source.Event.Cyclone.Challenges",
+			"Cosmetics.EmoteType.Spray"
+		]
+	},
+	{
+		"id": "SPID_196_CarnavalA",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_196_CarnavalA",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_196_CarnavalA/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Cuddle Mask",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Carnaval 2020",
+		"setText": "Part of the Carnaval 2020 set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.ItemShop",
+			"Cosmetics.Set.Capoeira2020",
+			"Cosmetics.EmoteType.Spray"
+		]
+	},
+	{
+		"id": "SPID_197_CarnavalB",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_197_CarnavalB",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_197_CarnavalB/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Carnaval Beat",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Carnaval 2020",
+		"setText": "Part of the Carnaval 2020 set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.ItemShop",
+			"Cosmetics.Set.Capoeira2020",
+			"Cosmetics.EmoteType.Spray"
+		]
+	},
+	{
+		"id": "SPID_198_DarkHeart",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_198_DarkHeart",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_198_DarkHeart/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Thorny Love",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Wild Hearts",
+		"setText": "Part of the Wild Hearts set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Filter.Season.11",
+			"Cosmetics.Set.WildHearts",
+			"Cosmetics.Source.LoveAndWarLTM"
+		]
+	},
+	{
+		"id": "SPID_199_BananaAgent",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_199_BananaAgent",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_199_BananaAgent/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Agent Nana",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Banana Royale",
+		"setText": "Part of the Banana Royale set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.Season12.BattlePass.Paid",
+			"Cosmetics.Set.PotassiumWin",
+			"Cosmetics.EmoteType.Spray"
+		]
+	},
+	{
+		"id": "SPID_200_GoldMeowscles",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_200_GoldMeowscles",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_200_GoldMeowscles/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Pumping Gold",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Swole Cat",
+		"setText": "Part of the Swole Cat set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Set.JackedKitty",
+			"Cosmetics.EmoteType.Spray"
+		]
+	},
+	{
+		"id": "SPID_201_DonutA",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_201_DonutA",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_201_DonutA/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Ride The Corn!",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Deadpool",
+		"setText": "Part of the Deadpool set.",
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Set.PropertySector",
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Donut.Challenges"
+		]
+	},
+	{
+		"id": "SPID_202_DonutB",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_202_DonutB",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_202_DonutB/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Wade Grenade",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Deadpool",
+		"setText": "Part of the Deadpool set.",
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Set.PropertySector",
+			"Cosmetics.Source.Donut.Challenges",
+			"Cosmetics.EmoteType.Spray"
+		]
+	},
+	{
+		"id": "SPID_203_UnicornRain",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_203_UnicornRain",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_203_UnicornRain/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Cloudycorn",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.Season12.BattlePass.Paid",
+			"Cosmetics.EmoteType.Spray"
+		]
+	},
+	{
+		"id": "SPID_204_S12_FNCS",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_204_S12_FNCS",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_204_S12_FNCS/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "FNCS 2020",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Fortnite Champion Series",
+		"setText": "Part of the Fortnite Champion Series set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.FNCS",
+			"Cosmetics.Set.FNCS"
+		]
+	},
+	{
+		"id": "SPID_205_ArLamp",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_205_ArLamp",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_205_ArLamp/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Lantern",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.EmoteType.Spray"
+		]
+	},
+	{
+		"id": "SPID_206_EyeballOctopus",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_206_EyeballOctopus",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_206_EyeballOctopus/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Don't Blink",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Granted.Twitch"
+		]
+	},
+	{
+		"id": "SPID_207_BlackKnight",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_207_BlackKnight",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_207_BlackKnight/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Knight's Helm",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season13.BattlePass.Paid",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "SPID_208_MechanicalEngineer",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_208_MechanicalEngineer",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_208_MechanicalEngineer/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Master Engineer",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season13.BattlePass.Paid",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "SPID_209_OceanRider",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_209_OceanRider",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_209_OceanRider/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Crabby King",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season13.BattlePass.Paid",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "SPID_210_ProfessorPup",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_210_ProfessorPup",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_210_ProfessorPup/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Mecha Fish",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season13.BattlePass.Paid",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "SPID_211_RacerZero",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_211_RacerZero",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_211_RacerZero/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Fade Out",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season13.BattlePass.Paid",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "SPID_212_SandCastle",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_212_SandCastle",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_212_SandCastle/icon.png",
+			"featured": null,
+			"series": "https://benbotfn.tk/cdn/series/DCUSeries.png"
+		},
+		"name": "Trident!",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Aquaman",
+		"setText": "Part of the Aquaman set.",
+		"series": {
+			"name": "DC SERIES",
+			"colors": {
+				"Color1": {
+					"r": 0,
+					"g": 50,
+					"b": 224,
+					"a": 255
+				},
+				"Color2": {
+					"r": 0,
+					"g": 22,
+					"b": 101,
+					"a": 255
+				},
+				"Color3": {
+					"r": 0,
+					"g": 13,
+					"b": 57,
+					"a": 255
+				},
+				"Color4": {
+					"r": 0,
+					"g": 8,
+					"b": 36,
+					"a": 255
+				},
+				"Color5": {
+					"r": 0,
+					"g": 4,
+					"b": 16,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season13.BattlePass.Paid",
+			"Cosmetics.Filter.Season.13",
+			"Cosmetics.Set.SoarClock"
+		]
+	},
+	{
+		"id": "SPID_213_SeasonSpray1",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_213_SeasonSpray1",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_213_SeasonSpray1/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Hammerhead",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season13.BattlePass.Free",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "SPID_214_SeasonSpray2",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_214_SeasonSpray2",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_214_SeasonSpray2/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Meowabunga!",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season13.BattlePass.Paid",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "SPID_215_MeowsclesBox",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_215_MeowsclesBox",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_215_MeowsclesBox/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "I Sits",
+		"description": "A perfect fit. ",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "SPID_216_S13_FNCS",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_216_S13_FNCS",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_216_S13_FNCS/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "FNCS 2:3",
+		"description": "Champion Series CH2 - S3",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Fortnite Champion Series",
+		"setText": "Part of the Fortnite Champion Series set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Filter.Season.13",
+			"Cosmetics.Source.FNCS",
+			"Cosmetics.Set.FNCS"
+		]
+	},
+	{
+		"id": "SPID_217_TheBratHotdog",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_217_TheBratHotdog",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_217_TheBratHotdog/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Dog Eat Dog",
+		"description": "Leave your mark.",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "SPID_218_S14_HighTowerDate",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_218_S14_HighTowerDate",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_218_S14_HighTowerDate/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Tag of Doom",
+		"description": "Leave your mark. ",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season14.BattlePass.Paid"
+		]
+	},
+	{
+		"id": "SPID_219_S14_HighTowerGrape",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_219_S14_HighTowerGrape",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_219_S14_HighTowerGrape/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Groot Glow",
+		"description": "Leave your mark. ",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season14.BattlePass.Paid"
+		]
+	},
+	{
+		"id": "SPID_220_S14_HighTowerHoneyDew",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_220_S14_HighTowerHoneyDew",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_220_S14_HighTowerHoneyDew/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "SHE-HULK SMASH",
+		"description": "Leave your mark. ",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season14.BattlePass.Paid"
+		]
+	},
+	{
+		"id": "SPID_221_S14_HighTowerMango",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_221_S14_HighTowerMango",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_221_S14_HighTowerMango/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "True Mystique",
+		"description": "Leave your mark. ",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season14.BattlePass.Paid"
+		]
+	},
+	{
+		"id": "SPID_222_S14_HighTowerRadish",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_222_S14_HighTowerRadish",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_222_S14_HighTowerRadish/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Rocket Blaster",
+		"description": "Leave your mark. ",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season14.BattlePass.Free"
+		]
+	},
+	{
+		"id": "SPID_223_S14_HighTowerSquash",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_223_S14_HighTowerSquash",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_223_S14_HighTowerSquash/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Punk Ororo ",
+		"description": "Leave your mark. ",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season14.BattlePass.Free"
+		]
+	},
+	{
+		"id": "SPID_224_S14_HighTowerTapas",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_224_S14_HighTowerTapas",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_224_S14_HighTowerTapas/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Mjolnir Strike",
+		"description": "Leave your mark. ",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season14.BattlePass.Paid"
+		]
+	},
+	{
+		"id": "SPID_225_S14_HighTowerTomato",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_225_S14_HighTowerTomato",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_225_S14_HighTowerTomato/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Repulsor Blast",
+		"description": "Leave your mark. ",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season14.BattlePass.Paid"
+		]
+	},
+	{
+		"id": "SPID_226_S14_HighTowerWasabi",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_226_S14_HighTowerWasabi",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/SPID_226_S14_HighTowerWasabi/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Berserker Barrage!",
+		"description": "Leave your mark. ",
+		"shortDescription": "Spray",
+		"backendType": "AthenaSpray",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Spray",
+			"Cosmetics.Source.Season14.BattlePass.Paid"
+		]
+	}
+]

@@ -37,7 +37,7 @@ function copyToClipboard(ct) {
 </thead>
 <tbody class="box">
 {% for i in items.keys() %}
-    <tr>
+    <tr id="{{i}}">
   <th class="box2">
   {% if not items[i]['SmallImage']['assetPath'] == None %}
     <img border="0" src="https://benbotfn.tk/api/v1/exportAsset?path={{items[i]['SmallImage']['assetPath']}}" width="128" height="128" alt="image">

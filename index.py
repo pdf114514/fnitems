@@ -111,7 +111,7 @@ def itemsbbgp(type):
   if type == 'all':
     with open(f'json/bb_all.json', 'r') as itemsf:
       items=json.load(itemsf)
-    return render_template('items3.html', items=items, types=bbtypes)
+    return render_template('items4.html', items=items, types=bbtypes)
   
   with open(f'json/bb_{type}.json', 'r') as itemsf:
     items=json.load(itemsf)
