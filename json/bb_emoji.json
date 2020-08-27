@@ -1,0 +1,4917 @@
+[
+	{
+		"id": "Emoji_100APlus",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_100APlus",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_100APlus/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "100",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": []
+	},
+	{
+		"id": "Emoji_1HP",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_1HP",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_1HP/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "1 HP",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_200IQPlay",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_200IQPlay",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_200IQPlay/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "200 IQ Play",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_200m",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_200m",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_200m/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "200 Meters",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "Emoji_4LeafClover",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_4LeafClover",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_4LeafClover/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Four-leaf Clover",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Green Clover",
+		"setText": "Part of the Green Clover set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Set.GreenClover",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "Emoji_APlus",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_APlus",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_APlus/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "A+",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Free",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_Ace",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Ace",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Ace/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Ace",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season4.BattlePass.Free",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "Emoji_Alarm",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Alarm",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Alarm/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Alarm",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Emoji_Angel",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Angel",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Angel/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Angel",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season4.BattlePass.Free",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "Emoji_AngryVolcano",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_AngryVolcano",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_AngryVolcano/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Angry Volcano",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "Emoji_ArmFlex",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_ArmFlex",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_ArmFlex/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Flex",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season2.BattlePass.Paid",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_AshtonChicago",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_AshtonChicago",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_AshtonChicago/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Captain America\u2019s Shield",
+		"description": "Living legend.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Avengers",
+		"setText": "Part of the Avengers set.",
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Event.Ashton.Emoji.Chicago",
+			"Cosmetics.Set.AshtonBoardwalk",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "Emoji_AshtonTurbo",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_AshtonTurbo",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_AshtonTurbo/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Thor\u2019s Stormbreaker",
+		"description": "Bring the thunder.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Avengers",
+		"setText": "Part of the Avengers set.",
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Event.Ashton.Emoji.Turbo",
+			"Cosmetics.Set.AshtonBoardwalk",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "Emoji_Awww",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Awww",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Awww/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Awww",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_AztecMask",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_AztecMask",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_AztecMask/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Ancient Mask",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Sun Soldiers",
+		"setText": "Part of the Sun Soldiers set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Set.Aztec",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "Emoji_BabySeal",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_BabySeal",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_BabySeal/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Baby Seal",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "Emoji_BadApple",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_BadApple",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_BadApple/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Bad Apple",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Emoji_Baited",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Baited",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Baited/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Baited",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season2.BattlePass.Paid",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_Banana",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Banana",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Banana/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Bananas",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "Emoji_Bang",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Bang",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Bang/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Bang!",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "Emoji_BattleBus",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_BattleBus",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_BattleBus/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Battle Bus",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season6.BattlePass.Free",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "Emoji_Birthday2018",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Birthday2018",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Birthday2018/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Fortnite Birthday!",
+		"description": "Celebrate Fortnite's first birthday!",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Emoji_Birthday2019",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Birthday2019",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Birthday2019/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Birthday Cupcake",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "B-Day Bunch",
+		"setText": "Part of the B-Day Bunch set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Set.Birthday2019",
+			"Cosmetics.Source.Event.Birthday.2019",
+			"Cosmetics.Filter.Season.9",
+			"Cosmetics.Filter.Event.Birthday2019"
+		]
+	},
+	{
+		"id": "Emoji_BlackCat",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_BlackCat",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_BlackCat/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Black Cat",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "Emoji_BoogieBomb",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_BoogieBomb",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_BoogieBomb/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Boogie Bomb",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season10.Levelup",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "Emoji_Boombox",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Boombox",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Boombox/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Boombox",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_Bullseye",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Bullseye",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Bullseye/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Bullseye",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season2.BattlePass.Free",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_Bush",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Bush",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Bush/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Bush",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_Camera",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Camera",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Camera/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Lights, Camera, Action!",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "Emoji_Camper",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Camper",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Camper/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Camper",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "Emoji_Celebrate",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Celebrate",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Celebrate/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Celebrate",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "Emoji_Chicken",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Chicken",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Chicken/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Chicken",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "Emoji_Clapping",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Clapping",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Clapping/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Clapping",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season2.BattlePass.Paid",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_Clown",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Clown",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Clown/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Clown",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "Emoji_Comm",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Comm",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Comm/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": null,
+		"description": null,
+		"shortDescription": null,
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": []
+	},
+	{
+		"id": "Emoji_CoolPepper",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_CoolPepper",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_CoolPepper/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Cool Pepper",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "Emoji_Crabby",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Crabby",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Crabby/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Crabby",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "Emoji_Crackshot",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Crackshot",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Crackshot/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Crackshot",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Nutcracker",
+		"setText": "Part of the Nutcracker set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Set.Nutcracker",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "Emoji_CrossSwords",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_CrossSwords",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_CrossSwords/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Cross Swords",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season10.Levelup",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "Emoji_Cuddle",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Cuddle",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Cuddle/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Cuddly",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Royale Hearts",
+		"setText": "Part of the Royale Hearts set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Set.RoyaleHearts",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "Emoji_CuddleTeamHead",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_CuddleTeamHead",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_CuddleTeamHead/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Cuddle Up",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Royale Hearts",
+		"setText": "Part of the Royale Hearts set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season9.BattlePass.Free",
+			"Cosmetics.QuestsMetaData.Glyph.Emoticon.CuddleTeamHead",
+			"Cosmetics.Set.RoyaleHearts",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "Emoji_DJYonder",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_DJYonder",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_DJYonder/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "DJ Yonder",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Twin Turntables",
+		"setText": "Part of the Twin Turntables set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season10.BattlePass.Free",
+			"Cosmetics.Set.FortniteDJ",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "Emoji_DealWithIt",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_DealWithIt",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_DealWithIt/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Deal With It",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": []
+	},
+	{
+		"id": "Emoji_Disco",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Disco",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Disco/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Dance Party",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season2.BattlePass.Paid",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_DriftHead",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_DriftHead",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_DriftHead/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Driftin'",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Drift",
+		"setText": "Part of the Drift set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Set.Drift",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "Emoji_DurrburgerHead",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_DurrburgerHead",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_DurrburgerHead/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Durrr!",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Durrr Burger",
+		"setText": "Part of the Durrr Burger set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Set.DurrrBurger",
+			"Cosmetics.QuestsMetaData.Glyph.Theme.DurrBurger",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "Emoji_DurrrBurger",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_DurrrBurger",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_DurrrBurger/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Durrr Burger",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Durrr Burger",
+		"setText": "Part of the Durrr Burger set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Set.DurrrBurger",
+			"Cosmetics.QuestsMetaData.Glyph.Theme.DurrBurger",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "Emoji_Dynamite",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Dynamite",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Dynamite/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Dynamite",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "Emoji_Embarrassed",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Embarrassed",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Embarrassed/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Embarrassed",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Emoji_Exclamation",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Exclamation",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Exclamation/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Exclamation",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season2.BattlePass.Paid",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_Explosion",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Explosion",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Explosion/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Explosion",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": []
+	},
+	{
+		"id": "Emoji_FKey",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_FKey",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_FKey/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "F",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "Emoji_Fiery",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Fiery",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Fiery/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Fiery",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Event.Fortnitemares.2018",
+			"Cosmetics.Filter.Season.6",
+			"Cosmetics.Filter.Event.Fortnitemares2018"
+		]
+	},
+	{
+		"id": "Emoji_FistBump",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_FistBump",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_FistBump/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Fist Bump",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_FlamingRage",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_FlamingRage",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_FlamingRage/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Flaming Rage",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_FoamFinger",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_FoamFinger",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_FoamFinger/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Foam Finger",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": []
+	},
+	{
+		"id": "Emoji_Fortnitemares",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Fortnitemares",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Fortnitemares/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Eek!",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Final Reckoning",
+		"setText": "Part of the Final Reckoning set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Filter.Season.11",
+			"Cosmetics.Filter.Event.Fortnitemares2019",
+			"Cosmetics.Set.GardenBones"
+		]
+	},
+	{
+		"id": "Emoji_GG",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_GG",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_GG/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "GG",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": []
+	},
+	{
+		"id": "Emoji_GGJellyfish",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_GGJellyfish",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_GGJellyfish/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "GG Jellyfish",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season8.BattlePass.Free",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "Emoji_GGWreath",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_GGWreath",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_GGWreath/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "GG Wreath",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "Emoji_Ghost",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Ghost",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Ghost/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Ghost",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "Emoji_GingerbreadHappy",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_GingerbreadHappy",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_GingerbreadHappy/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Ginger Gunner",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Gingerbread",
+		"setText": "Part of the Gingerbread set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Set.Gingerbread",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "Emoji_GingerbreadMad",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_GingerbreadMad",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_GingerbreadMad/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Merry Marauder",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Gingerbread",
+		"setText": "Part of the Gingerbread set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Set.Gingerbread",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "Emoji_Go",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Go",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Go/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Go",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Emoji_GoodGame",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_GoodGame",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_GoodGame/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Good Game",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Free",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_Headshot",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Headshot",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Headshot/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Headshot",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": []
+	},
+	{
+		"id": "Emoji_HeartHands",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_HeartHands",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_HeartHands/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Heart Hands",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season2.BattlePass.Free",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_Heartbroken",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Heartbroken",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Heartbroken/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Heartbroken",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_Hoarder",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Hoarder",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Hoarder/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Hoarder",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_HotChocolate",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_HotChocolate",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_HotChocolate/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Hot Chocolate",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season7.BattlePass.Free",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "Emoji_HotDawg",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_HotDawg",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_HotDawg/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Hot Dawg",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_HuskWow",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_HuskWow",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_HuskWow/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Amazed",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "Emoji_ISeeYou",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_ISeeYou",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_ISeeYou/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "I See You",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_IceHeart",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_IceHeart",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_IceHeart/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Icy Heart",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season7.BattlePass.Free",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "Emoji_InLove",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_InLove",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_InLove/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "In Love",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Free",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_Kaboom",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Kaboom",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Kaboom/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Kaboom",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_LOL",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_LOL",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_LOL/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "LOL",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season2.BattlePass.Free",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_LifePreserver",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_LifePreserver",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_LifePreserver/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Life Preserver",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "Emoji_LoveRanger",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_LoveRanger",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_LoveRanger/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Love Ranger",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Royale Hearts",
+		"setText": "Part of the Royale Hearts set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Set.RoyaleHearts",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "Emoji_Lucky",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Lucky",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Lucky/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Lucky",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_MVP",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_MVP",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_MVP/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "MVP",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season2.BattlePass.Paid",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_Majestic",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Majestic",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Majestic/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Majestic",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_Meet",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Meet",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Meet/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "MEEET",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "Emoji_Mistletoe",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Mistletoe",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Mistletoe/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Mistletoe",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "Emoji_Mittens",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Mittens",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Mittens/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Mittens",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "Emoji_Number1",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Number1",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Number1/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "#1",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_OctoPirate",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_OctoPirate",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_OctoPirate/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Octo-Pirate",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "Emoji_OnFire",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_OnFire",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_OnFire/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "On Fire",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season2.BattlePass.Paid",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_PalmTree",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_PalmTree",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_PalmTree/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Palm Tree",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "Emoji_PeaceSign",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_PeaceSign",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_PeaceSign/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Peace",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season2.BattlePass.Paid",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_Penguin",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Penguin",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Penguin/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Penguin",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "Emoji_PickAxe",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_PickAxe",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_PickAxe/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Pickaxe",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_Pizza",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Pizza",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Pizza/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Pizza",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Promo",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "Emoji_Placeholder",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Placeholder",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Placeholder/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Placeholder",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": []
+	},
+	{
+		"id": "Emoji_Plotting",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Plotting",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Plotting/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Plotting",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "Emoji_Plunger",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Plunger",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Plunger/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Plunger",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "Emoji_PoolParty",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_PoolParty",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_PoolParty/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Pool Party",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Emoji_Popcorn",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Popcorn",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Popcorn/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Popcorn",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "Emoji_Positivity",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Positivity",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Positivity/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Positivity",
+		"description": "Have a phenomenal gaming experience!",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Free",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_PotOfGold",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_PotOfGold",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_PotOfGold/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Pot of Gold",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Emoji_PotatoAim",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_PotatoAim",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_PotatoAim/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Potato Aim",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season2.BattlePass.Paid",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_Potion",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Potion",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Potion/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Shield Potion",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_Prickly",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Prickly",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Prickly/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Prickly",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Emoji_RIP",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_RIP",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_RIP/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "RIP",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season2.BattlePass.Paid",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_Rabid",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Rabid",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Rabid/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Rabid",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "Emoji_Rage",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Rage",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Rage/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Rage",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season2.BattlePass.Paid",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_Rainbow",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Rainbow",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Rainbow/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Rainbow",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season4.BattlePass.Free",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "Emoji_RedKnight",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_RedKnight",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_RedKnight/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Red Knight",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Fort Knights",
+		"setText": "Part of the Fort Knights set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Set.FortKnights",
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "Emoji_Rekt",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Rekt",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Rekt/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Rekt",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": []
+	},
+	{
+		"id": "Emoji_RexHead",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_RexHead",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_RexHead/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Rex Roar",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Dino Guard",
+		"setText": "Part of the Dino Guard set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Set.DinoGuard",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "Emoji_Rock",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Rock",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Rock/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Let's Rock",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": []
+	},
+	{
+		"id": "Emoji_RockOn",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_RockOn",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_RockOn/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Let's Rock",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season5.BattlePass.Free",
+			"phoebe.cosmetic.Emoji_RockOn",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Emoji_RocketRide",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_RocketRide",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_RocketRide/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Rocket Ride",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_RustLord",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_RustLord",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_RustLord/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Rust Lord",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Storm Scavenger",
+		"setText": "Part of the Storm Scavenger set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Set.StormScavenger",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "Emoji_S10Lvl100",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S10Lvl100",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S10Lvl100/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Season Level 100",
+		"description": "Recognition for reaching Season Level 100 in Battle Royale Season X.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season10.Levelup",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "Emoji_S11_CheckeredFlag",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S11_CheckeredFlag",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S11_CheckeredFlag/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Checkered Flag",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season11.BattlePass.Paid",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "Emoji_S11_Headshot",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S11_Headshot",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S11_Headshot/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Headshot",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season11.BattlePass.Paid",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "Emoji_S11_HotDrop",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S11_HotDrop",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S11_HotDrop/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Hot Drop",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season11.BattlePass.Paid",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "Emoji_S11_Kiss",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S11_Kiss",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S11_Kiss/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Kiss",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season11.BattlePass.Free",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "Emoji_S11_NoScope",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S11_NoScope",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S11_NoScope/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "No Scope",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season11.BattlePass.Free",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "Emoji_S11_SlurpGG",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S11_SlurpGG",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S11_SlurpGG/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Slurp GG",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Slurp Squad",
+		"setText": "Part of the Slurp Squad set.",
+		"series": {
+			"name": "Slurp Series",
+			"colors": {
+				"Color1": {
+					"r": 3,
+					"g": 242,
+					"b": 237,
+					"a": 255
+				},
+				"Color2": {
+					"r": 10,
+					"g": 179,
+					"b": 107,
+					"a": 255
+				},
+				"Color3": {
+					"r": 0,
+					"g": 139,
+					"b": 224,
+					"a": 255
+				},
+				"Color4": {
+					"r": 3,
+					"g": 72,
+					"b": 255,
+					"a": 255
+				},
+				"Color5": {
+					"r": 3,
+					"g": 66,
+					"b": 179,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season11.BattlePass.Free",
+			"Cosmetics.Set.Goo",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "Emoji_S11_Sweater",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S11_Sweater",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S11_Sweater/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Bundle Up",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Filter.Season.11",
+			"Cosmetics.Source.Winterfest.Challenges"
+		]
+	},
+	{
+		"id": "Emoji_S11_UTurn",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S11_UTurn",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S11_UTurn/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "U-Turn",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season11.BattlePass.Paid",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "Emoji_S11_Wink",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S11_Wink",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S11_Wink/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Wink",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season11.BattlePass.Paid",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "Emoji_S12_AdventureGirl",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S12_AdventureGirl",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S12_AdventureGirl/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Ollie Away!",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Quest Friends",
+		"setText": "Part of the Quest Friends set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.Season12.BattlePass.Paid",
+			"Cosmetics.Set.SearchPals",
+			"Cosmetics.EmoteType.Emoji"
+		]
+	},
+	{
+		"id": "Emoji_S12_Alter",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S12_Alter",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S12_Alter/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "SHADOW",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Ghosts & Shadows",
+		"setText": "Part of the Ghosts & Shadows set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Set.SpiritDarkness",
+			"Cosmetics.Source.Season12.BattlePass.Paid",
+			"Cosmetics.EmoteType.Emoji"
+		]
+	},
+	{
+		"id": "Emoji_S12_BananaAgent",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S12_BananaAgent",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S12_BananaAgent/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Banana Badge",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Banana Royale",
+		"setText": "Part of the Banana Royale set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Set.PotassiumWin",
+			"Cosmetics.EmoteType.Emoji"
+		]
+	},
+	{
+		"id": "Emoji_S12_Ego",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S12_Ego",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S12_Ego/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "GHOST",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Ghosts & Shadows",
+		"setText": "Part of the Ghosts & Shadows set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Set.SpiritDarkness",
+			"Cosmetics.Source.Season12.BattlePass.Paid",
+			"Cosmetics.EmoteType.Emoji"
+		]
+	},
+	{
+		"id": "Emoji_S12_FNCS",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S12_FNCS",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S12_FNCS/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Championship 2020",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Fortnite Champion Series",
+		"setText": "Part of the Fortnite Champion Series set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Set.FNCS",
+			"Cosmetics.Source.FNCS"
+		]
+	},
+	{
+		"id": "Emoji_S12_Meowscles",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S12_Meowscles",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S12_Meowscles/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Meow",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Swole Cat",
+		"setText": "Part of the Swole Cat set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.Season12.BattlePass.Paid",
+			"Cosmetics.Set.JackedKitty",
+			"Cosmetics.EmoteType.Emoji"
+		]
+	},
+	{
+		"id": "Emoji_S12_Midas",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S12_Midas",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S12_Midas/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Golden Vision",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Golden Ghost",
+		"setText": "Part of the Golden Ghost set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.Season12.BattlePass.Paid",
+			"Cosmetics.Set.SilverSpirit",
+			"Cosmetics.EmoteType.Emoji"
+		]
+	},
+	{
+		"id": "Emoji_S12_SkullDude",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S12_SkullDude",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S12_SkullDude/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Cuff 'em",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Brute Force",
+		"setText": "Part of the Brute Force set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.Season12.BattlePass.Free",
+			"Cosmetics.Set.HardEntry",
+			"Cosmetics.EmoteType.Emoji"
+		]
+	},
+	{
+		"id": "Emoji_S12_TNTina",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S12_TNTina",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S12_TNTina/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Heartblast",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Short Fuse",
+		"setText": "Part of the Short Fuse set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.Season12.BattlePass.Paid",
+			"Cosmetics.Set.SmallLight",
+			"Cosmetics.EmoteType.Emoji"
+		]
+	},
+	{
+		"id": "Emoji_S13_BlackKnight",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S13_BlackKnight",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S13_BlackKnight/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Knight Slice",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season13.BattlePass.Paid",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "Emoji_S13_FNCS",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S13_FNCS",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S13_FNCS/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "FNCS 2:3 Emoticon",
+		"description": "Champion Series CH2 - S3",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Fortnite Champion Series",
+		"setText": "Part of the Fortnite Champion Series set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Set.FNCS",
+			"Cosmetics.Source.FNCS",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "Emoji_S13_MechanicalEngineer",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S13_MechanicalEngineer",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S13_MechanicalEngineer/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Ohm's Revenge",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season13.BattlePass.Paid",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "Emoji_S13_OceanRider",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S13_OceanRider",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S13_OceanRider/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Orienteer",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season13.BattlePass.Free",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "Emoji_S13_ProfessorPup",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S13_ProfessorPup",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S13_ProfessorPup/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Cloud Cat",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season13.BattlePass.Paid",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "Emoji_S13_RacerZero",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S13_RacerZero",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S13_RacerZero/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Eternal Bloom",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season13.BattlePass.Paid",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "Emoji_S13_SandCastle",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S13_SandCastle",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S13_SandCastle/icon.png",
+			"featured": null,
+			"series": "https://benbotfn.tk/cdn/series/DCUSeries.png"
+		},
+		"name": "Sea Shaka",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Aquaman",
+		"setText": "Part of the Aquaman set.",
+		"series": {
+			"name": "DC SERIES",
+			"colors": {
+				"Color1": {
+					"r": 0,
+					"g": 50,
+					"b": 224,
+					"a": 255
+				},
+				"Color2": {
+					"r": 0,
+					"g": 22,
+					"b": 101,
+					"a": 255
+				},
+				"Color3": {
+					"r": 0,
+					"g": 13,
+					"b": 57,
+					"a": 255
+				},
+				"Color4": {
+					"r": 0,
+					"g": 8,
+					"b": 36,
+					"a": 255
+				},
+				"Color5": {
+					"r": 0,
+					"g": 4,
+					"b": 16,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season13.BattlePass.Paid",
+			"Cosmetics.Filter.Season.13",
+			"Cosmetics.Set.SoarClock"
+		]
+	},
+	{
+		"id": "Emoji_S13_TacticalScuba",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S13_TacticalScuba",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S13_TacticalScuba/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Sharkmarine",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season13.BattlePass.Paid",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "Emoji_S14_HighTowerDate",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S14_HighTowerDate",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S14_HighTowerDate/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Doom Juice",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season14.BattlePass.Paid"
+		]
+	},
+	{
+		"id": "Emoji_S14_HighTowerGrape",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S14_HighTowerGrape",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S14_HighTowerGrape/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Grootling",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season14.BattlePass.Paid"
+		]
+	},
+	{
+		"id": "Emoji_S14_HighTowerHoneyDew",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S14_HighTowerHoneyDew",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S14_HighTowerHoneyDew/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Gamma Flex",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season14.BattlePass.Free"
+		]
+	},
+	{
+		"id": "Emoji_S14_HighTowerMango",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S14_HighTowerMango",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S14_HighTowerMango/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Mystique Sneak",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season14.BattlePass.Paid"
+		]
+	},
+	{
+		"id": "Emoji_S14_HighTowerSquash",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S14_HighTowerSquash",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S14_HighTowerSquash/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Storm Warning",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season14.BattlePass.Paid"
+		]
+	},
+	{
+		"id": "Emoji_S14_HighTowerTapas",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S14_HighTowerTapas",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S14_HighTowerTapas/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Asgardian",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season14.BattlePass.Paid"
+		]
+	},
+	{
+		"id": "Emoji_S14_HighTowerTomato",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S14_HighTowerTomato",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S14_HighTowerTomato/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Tony-Approved",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season14.BattlePass.Paid"
+		]
+	},
+	{
+		"id": "Emoji_S14_HighTowerWasabi",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S14_HighTowerWasabi",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S14_HighTowerWasabi/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Weapon X",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season14.BattlePass.Paid"
+		]
+	},
+	{
+		"id": "Emoji_S6Lvl100",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S6Lvl100",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S6Lvl100/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Season Level 100",
+		"description": "Recognition for reaching Season Level 100 in Battle Royale Season 6.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season6.LevelUp",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "Emoji_S7Lvl100",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S7Lvl100",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S7Lvl100/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Season Level 100",
+		"description": "Recognition for reaching Season Level 100 in Battle Royale Season 7.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season7.LevelUp",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "Emoji_S8Lvl100",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S8Lvl100",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S8Lvl100/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Season Level 100",
+		"description": "Recognition for reaching Season Level 100 in Battle Royale Season 8.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season8.Levelup",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "Emoji_S9Lvl100",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S9Lvl100",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_S9Lvl100/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Season Level 100",
+		"description": "Recognition for reaching Season Level 100 in Battle Royale Season 9.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "Emoji_Salty",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Salty",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Salty/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Salty",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season2.BattlePass.Paid",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_ScreamingWukong",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_ScreamingWukong",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_ScreamingWukong/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Wukong",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Wukong",
+		"setText": "Part of the Wukong set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Set.Wukong",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "Emoji_SilentMaven",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_SilentMaven",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_SilentMaven/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "...",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Calculator Crew",
+		"setText": "Part of the Calculator Crew set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Filter.Season.9",
+			"Cosmetics.Set.Math"
+		]
+	},
+	{
+		"id": "Emoji_SkepticalFishstix",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_SkepticalFishstix",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_SkepticalFishstix/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Skeptical",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Fish Food",
+		"setText": "Part of the Fish Food set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Set.TeriyakiFish",
+			"Cosmetics.UserFacingFlags.Emoticon.Animated",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "Emoji_SkullBrite",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_SkullBrite",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_SkullBrite/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Skully",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Skull & Bows",
+		"setText": "Part of the Skull & Bows set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Set.SkullBrite",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "Emoji_Skulltrooper",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Skulltrooper",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Skulltrooper/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Skull Trooper",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Skull Squad",
+		"setText": "Part of the Skull Squad set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season9.BattlePass.Free",
+			"Cosmetics.Set.SkullTrooper",
+			"Cosmetics.QuestsMetaData.Glyph.Spray.SkullTrooper",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "Emoji_Snowflake",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Snowflake",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Snowflake/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Snowflake",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Event.14DaysOfFortnite",
+			"Cosmetics.Filter.Season.7",
+			"Cosmetics.Filter.Event.14DaysofFortnite"
+		]
+	},
+	{
+		"id": "Emoji_Snowman",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Snowman",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Snowman/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Snowman",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Event.14DaysOfFortnite",
+			"Cosmetics.Filter.Season.7",
+			"Cosmetics.Filter.Event.14DaysofFortnite"
+		]
+	},
+	{
+		"id": "Emoji_SparkleSpecialist",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_SparkleSpecialist",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_SparkleSpecialist/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Sparkle Specialist",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Fortnite Fever",
+		"setText": "Part of the Fortnite Fever set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Set.FortniteFever",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "Emoji_Spicy",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Spicy",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Spicy/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Spicy",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "Emoji_Stealthy",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Stealthy",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Stealthy/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Stealthy",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season2.BattlePass.Paid",
+			"Cosmetics.Filter.Season.2"
+		]
+	},
+	{
+		"id": "Emoji_Stinky",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Stinky",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Stinky/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Stinky",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Emoji_Stop",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Stop",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Stop/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Stop",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Emoji_Storm",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Storm",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Storm/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Storm",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_Sucker",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Sucker",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Sucker/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Sucker",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_SummerDays",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_SummerDays",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_SummerDays/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Perfect Blend",
+		"description": "So smooth. So cool.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Bunker Days",
+		"setText": "Part of the Bunker Days set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.UserFacingFlags.Emoticon.Animated",
+			"Cosmetics.Source.Event.14DaysOfSummer.Emoji",
+			"Cosmetics.Filter.Season.9",
+			"Cosmetics.Filter.Event.14DaysofSummer",
+			"Cosmetics.Set.BunkerMan"
+		]
+	},
+	{
+		"id": "Emoji_Sun",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Sun",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Sun/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Sunshine",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season8.BattlePass.Free",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "Emoji_SupDood",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_SupDood",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_SupDood/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "IDK",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "Emoji_Sweaty",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Sweaty",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Sweaty/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Sweaty",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "Emoji_TP",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_TP",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_TP/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "TP",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season6.BattlePass.Free",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "Emoji_Tasty",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Tasty",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Tasty/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Tasty",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Emoji_Tattered",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Tattered",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Tattered/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Tattered",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Emoji_Teamwork",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Teamwork",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Teamwork/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Teamwork",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season4.BattlePass.Free",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "Emoji_TechOpsBlue",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_TechOpsBlue",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_TechOpsBlue/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Flail",
+		"description": "Flail away!",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Promo",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "Emoji_Teknique",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Teknique",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Teknique/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Teknique",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Aerosol Assassins",
+		"setText": "Part of the Aerosol Assassins set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Set.AerosolAssassins",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "Emoji_Thief",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Thief",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Thief/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Thief",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_ThumbsDown",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_ThumbsDown",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_ThumbsDown/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Thumbs Down",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_ThumbsUp",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_ThumbsUp",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_ThumbsUp/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Thumbs Up",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_TomatoHead",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_TomatoHead",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_TomatoHead/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Tomatohead",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Pizza Pit",
+		"setText": "Part of the Pizza Pit set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Set.PizzaPit",
+			"Cosmetics.QuestsMetaData.Glyph.Emoticon.TomatoHead",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "Emoji_Trap",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Trap",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Trap/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Trap",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season5.BattlePass.Free",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Emoji_VictoryRoyale",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_VictoryRoyale",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_VictoryRoyale/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Victory Royale",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "Emoji_WhiteFlag",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_WhiteFlag",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_WhiteFlag/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Surrender",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "Emoji_WitchsBrew",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_WitchsBrew",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_WitchsBrew/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "GG Potion",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "Emoji_Wow",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Wow",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_Wow/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Wow",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Emoji_ZZZ",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_ZZZ",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Emoji_ZZZ/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "ZZZ",
+		"description": "Express yourself on the battlefield.",
+		"shortDescription": "Emoticon",
+		"backendType": "AthenaEmoji",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.EmoteType.Emoji",
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	}
+]

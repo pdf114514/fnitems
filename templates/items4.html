@@ -50,7 +50,7 @@ function copyToClipboard(ct) {
 </thead>
 <tbody class="box">
 {% for i in items %}
-    <tr>
+    <tr id="{{i['id']}}">
   <th class="box2" style="background-image: url(/image/{{i['rarity'].lower()}});background-size: cover;">
   {% if not i['icons']['icon'] == None %}
     <img border="0" src="{{i['icons']['icon']}}" width="128" height="128" alt="image">
@@ -62,7 +62,6 @@ function copyToClipboard(ct) {
 {{i['id']}}
 <br><br>
 <button onclick="copyToClipboard('{{i['path'].split('/')[-1]}}')">Copy ID</button>
-</th>
 </th>
 <th class="box2 font1">
 {{ i['id']|length }}

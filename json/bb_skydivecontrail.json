@@ -1,0 +1,2054 @@
+[
+	{
+		"id": "DefaultContrail",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/DefaultContrail",
+		"icons": {
+			"icon": null,
+			"featured": null,
+			"series": null
+		},
+		"name": null,
+		"description": null,
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.DefaultItem"
+		]
+	},
+	{
+		"id": "Trails_ID_001_Disco",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_001_Disco",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_001_Disco/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "All-Star",
+		"description": "Freefall in style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Trails_ID_002_Rainbow",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_002_Rainbow",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_002_Rainbow/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Rainbow",
+		"description": "Freefall in style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Trails_ID_003_Fire",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_003_Fire",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_003_Fire/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Flames",
+		"description": "Freefall in style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Trails_ID_004_BlueStreak",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_004_BlueStreak",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_004_BlueStreak/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Ultramarine",
+		"description": "Freefall in style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"phoebe.cosmetic.Trails_ID_004_BlueStreak",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Trails_ID_005_Bubbles",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_005_Bubbles",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_005_Bubbles/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Bubbles",
+		"description": "Freefall in style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season3.BattlePass.Paid",
+			"Cosmetics.Filter.Season.3"
+		]
+	},
+	{
+		"id": "Trails_ID_007_TP",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_007_TP",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_007_TP/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "TP",
+		"description": "Freefall in style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Trails_ID_008_Lightning",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_008_Lightning",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_008_Lightning/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Lightning",
+		"description": "Freefall in style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "Trails_ID_009_Hearts",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_009_Hearts",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_009_Hearts/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Hearts",
+		"description": "Freefall in style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Royale Hearts",
+		"setText": "Part of the Royale Hearts set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4",
+			"Cosmetics.Set.RoyaleHearts"
+		]
+	},
+	{
+		"id": "Trails_ID_010_RetroScifi",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_010_RetroScifi",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_010_RetroScifi/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Retro Sci-fi",
+		"description": "Freefall in style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "Trails_ID_011_Glitch",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_011_Glitch",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_011_Glitch/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Glitch in the System",
+		"description": "Freefall in style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season5.BattlePass.Free",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Trails_ID_012_Spraypaint",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_012_Spraypaint",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_012_Spraypaint/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Spray Paint",
+		"description": "Freefall in style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Aerosol Assassins",
+		"setText": "Part of the Aerosol Assassins set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4",
+			"Cosmetics.Set.AerosolAssassins"
+		]
+	},
+	{
+		"id": "Trails_ID_013_ShootingStar",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_013_ShootingStar",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_013_ShootingStar/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Shooting Star",
+		"description": "Freefall in style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season4.BattlePass.Paid",
+			"Cosmetics.Filter.Season.4"
+		]
+	},
+	{
+		"id": "Trails_ID_014_Vines",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_014_Vines",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_014_Vines/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Vines",
+		"description": "Freefall in style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Event.S7Overtime",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "Trails_ID_015_GoldenStarfish",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_015_GoldenStarfish",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_015_GoldenStarfish/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Embers",
+		"description": "Freefall in style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Trails_ID_016_Ice",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_016_Ice",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_016_Ice/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Ice Crystals",
+		"description": "Freefall in style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Trails_ID_017_Lanterns",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_017_Lanterns",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_017_Lanterns/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Lanterns",
+		"description": "Freefall in style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Trails_ID_018_Runes",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_018_Runes",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_018_Runes/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Runic",
+		"description": "Freefall in style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season5.BattlePass.Paid",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Trails_ID_019_PSBurnout",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_019_PSBurnout",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_019_PSBurnout/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Artifact",
+		"description": "Freefall in style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Phoebe.Cosmetic.Minus.Zone2",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Trails_ID_020_RavenQuill",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_020_RavenQuill",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_020_RavenQuill/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Dark Feathers",
+		"description": "Freefall in style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Nevermore",
+		"setText": "Part of the Nevermore set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Set.Nevermore",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Trails_ID_021_Bling",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_021_Bling",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_021_Bling/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Cash Flow",
+		"description": "Enjoy the windfall.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Getaway Gang",
+		"setText": "Part of the Getaway Gang set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Set.Bling",
+			"Cosmetics.Filter.Season.5"
+		]
+	},
+	{
+		"id": "Trails_ID_022_GreenSmoke",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_022_GreenSmoke",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_022_GreenSmoke/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Spectral Essence",
+		"description": "Remnants from the other side.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Western Wilds",
+		"setText": "Part of the Western Wilds set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Set.Cowgirl",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "Trails_ID_023_Fireflies",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_023_Fireflies",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_023_Fireflies/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Fireflies",
+		"description": "Light your way.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Red Riding",
+		"setText": "Part of the Red Riding set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Set.RedRiding",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "Trails_ID_024_DieselSmoke",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_024_DieselSmoke",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_024_DieselSmoke/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Exhaust",
+		"description": "Don't breathe in the fumes.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Aviation Age",
+		"setText": "Part of the Aviation Age set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Set.DieselPunk",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "Trails_ID_025_JackOLantern",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_025_JackOLantern",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_025_JackOLantern/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Jack-O-Lantern",
+		"description": "Carved with care.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season6.BattlePass.Free",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "Trails_ID_026_Bats",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_026_Bats",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_026_Bats/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Bats!",
+		"description": "There's so many of them!",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Nite Coven",
+		"setText": "Part of the Nite Coven set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season6.BattlePass.Paid",
+			"Cosmetics.Set.Vampire",
+			"Cosmetics.Filter.Season.6"
+		]
+	},
+	{
+		"id": "Trails_ID_027_Sands",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_027_Sands",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_027_Sands/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Chrono",
+		"description": "Timeless classic. ",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Immortal Sands",
+		"setText": "Part of the Immortal Sands set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Set.MaskedWarrior",
+			"Cosmetics.Source.ItemShop",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "Trails_ID_032_StringLights",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_032_StringLights",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_032_StringLights/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "String Lights",
+		"description": "Festive falling.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "Trails_ID_033_Snowflakes",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_033_Snowflakes",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_033_Snowflakes/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Snowflakes",
+		"description": "Consistently unique.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season7.BattlePass.Free",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "Trails_ID_034_SwirlySmoke",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_034_SwirlySmoke",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_034_SwirlySmoke/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Swirls",
+		"description": "Give it a whirl.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "Trails_ID_036_FiberOptics",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_036_FiberOptics",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_036_FiberOptics/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Fiber Optics",
+		"description": "Fall at the speed of light.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "Trails_ID_037_Glyphs",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_037_Glyphs",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_037_Glyphs/icon.png",
+			"featured": null,
+			"series": "https://benbotfn.tk/cdn/series/CUBESeries.png"
+		},
+		"name": "Glyphs",
+		"description": "Cryptic code.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": "Lightning & Thunderstorms",
+		"setText": "Part of the Lightning & Thunderstorms set.",
+		"series": {
+			"name": "DARK SERIES",
+			"colors": {
+				"Color1": {
+					"r": 255,
+					"g": 20,
+					"b": 142,
+					"a": 255
+				},
+				"Color2": {
+					"r": 157,
+					"g": 0,
+					"b": 108,
+					"a": 255
+				},
+				"Color3": {
+					"r": 97,
+					"g": 0,
+					"b": 100,
+					"a": 255
+				},
+				"Color4": {
+					"r": 29,
+					"g": 2,
+					"b": 51,
+					"a": 255
+				},
+				"Color5": {
+					"r": 10,
+					"g": 4,
+					"b": 10,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Set.DarkBomber",
+			"Cosmetics.Source.Season7.BattlePass.Paid",
+			"Cosmetics.Filter.Season.7"
+		]
+	},
+	{
+		"id": "Trails_ID_043_DiscoBalls",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_043_DiscoBalls",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_043_DiscoBalls/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Disco Dive",
+		"description": "Funkify your fall.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Fortnite Fever",
+		"setText": "Part of the Fortnite Fever set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Winterfest.Challenges",
+			"Cosmetics.Set.FortniteFever",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "Trails_ID_044_Lava",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_044_Lava",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_044_Lava/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Lava",
+		"description": "Eruption imminent.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "Trails_ID_045_Undertow",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_045_Undertow",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_045_Undertow/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Flying Standard",
+		"description": "Fly your flag.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Scallywags",
+		"setText": "Part of the Scallywags set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season8.BattlePass.Free",
+			"Cosmetics.Filter.Season.8",
+			"Cosmetics.Set.Pirate"
+		]
+	},
+	{
+		"id": "Trails_ID_046_Clover",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_046_Clover",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_046_Clover/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Clovers",
+		"description": "Have a lucky landing.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Green Clover",
+		"setText": "Part of the Green Clover set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Set.GreenClover",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "Trails_ID_047_AmmoBelt",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_047_AmmoBelt",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_047_AmmoBelt/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Ballistics",
+		"description": "Extreme bullet drop.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "Trails_ID_048_Spectral",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_048_Spectral",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_048_Spectral/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Phantasm",
+		"description": "Release the spirits of the sea.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Scallywags",
+		"setText": "Part of the Scallywags set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season8.BattlePass.Paid",
+			"Cosmetics.Set.Pirate",
+			"Cosmetics.Filter.Season.8"
+		]
+	},
+	{
+		"id": "Trails_ID_051_NeonTubes",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_051_NeonTubes",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_051_NeonTubes/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Neo Tubes",
+		"description": "Flashy flailing. ",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.QuestsMetaData.Glyph.NeonTubesTrails",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "Trails_ID_054_KpopGlow",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_054_KpopGlow",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_054_KpopGlow/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Vibrant",
+		"description": "Hyper and hypnotic. ",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.QuestsMetaData.Glyph.Contrails.Kpop",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "Trails_ID_055_Bananas",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_055_Bananas",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_055_Bananas/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Bananas!",
+		"description": "Peel out.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Banana Bunch",
+		"setText": "Part of the Banana Bunch set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Set.Banana",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "Trails_ID_056_StormTracker",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_056_StormTracker",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_056_StormTracker/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Lightning strike",
+		"description": "Highly charged. ",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Storm Stalker",
+		"setText": "Part of the Storm Stalker set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Set.StormTracker",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "Trails_ID_057_BattleSuit",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_057_BattleSuit",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_057_BattleSuit/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Plasma Trail",
+		"description": "Beyond white hot. ",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Suit Up",
+		"setText": "Part of the Suit Up set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season9.BattlePass.Paid",
+			"Cosmetics.Set.BattleSuit",
+			"Cosmetics.QuestsMetaData.Glyph.Contrails.BattleSuit",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "Trails_ID_059_Sony2",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_059_Sony2",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_059_Sony2/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Blue Fusion",
+		"description": "Gone in a flash.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Platform.PS4",
+			"Cosmetics.Filter.Season.9"
+		]
+	},
+	{
+		"id": "Trails_ID_063_BeachBalls",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_063_BeachBalls",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_063_BeachBalls/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Beachballs",
+		"description": "Get the party started. ",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Event.14DaysOfSummer.Contrail",
+			"Cosmetics.Filter.Season.9",
+			"Cosmetics.Filter.Event.14DaysofSummer"
+		]
+	},
+	{
+		"id": "Trails_ID_065_DJRemix",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_065_DJRemix",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_065_DJRemix/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Beat Drop",
+		"description": "Here it comes...",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Twin Turntables",
+		"setText": "Part of the Twin Turntables set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Set.FortniteDJ",
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "Trails_ID_066_TacticalHUD",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_066_TacticalHUD",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_066_TacticalHUD/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Overlay",
+		"description": "Heads up diving.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "Trails_ID_068_Popcorn",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_068_Popcorn",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_068_Popcorn/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Popcorn",
+		"description": "Freshly popped.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "Trails_ID_074_DriftLightning",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_074_DriftLightning",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_074_DriftLightning/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Rift Lightning",
+		"description": "Multidimensional dive.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Drift",
+		"setText": "Part of the Drift set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Set.Drift",
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Filter.Season.10"
+		]
+	},
+	{
+		"id": "Trails_ID_075_Celestial",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_075_Celestial",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_075_Celestial/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Celestial",
+		"description": "Dive into infinity.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Galaxy",
+		"setText": "Part of the Galaxy set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season10.BattlePass.Paid",
+			"Cosmetics.Filter.Season.10",
+			"Cosmetics.Set.Celestial"
+		]
+	},
+	{
+		"id": "Trails_ID_076_ReactiveLight",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_076_ReactiveLight",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_076_ReactiveLight/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Spectrum",
+		"description": "Burn through the rainbow.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season11.BattlePass.Paid",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "Trails_ID_077_Billiards",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_077_Billiards",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_077_Billiards/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Billiards",
+		"description": "Put a little spin on it. ",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Stripes and Solids",
+		"setText": "Part of the Stripes and Solids set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season11.BattlePass.Free",
+			"Cosmetics.Set.Billiards",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "Trails_ID_078_SlurpMonster",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_078_SlurpMonster",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_078_SlurpMonster/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Slurpstream",
+		"description": "Drip while you drop. ",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Slurp Squad",
+		"setText": "Part of the Slurp Squad set.",
+		"series": {
+			"name": "Slurp Series",
+			"colors": {
+				"Color1": {
+					"r": 3,
+					"g": 242,
+					"b": 237,
+					"a": 255
+				},
+				"Color2": {
+					"r": 10,
+					"g": 179,
+					"b": 107,
+					"a": 255
+				},
+				"Color3": {
+					"r": 0,
+					"g": 139,
+					"b": 224,
+					"a": 255
+				},
+				"Color4": {
+					"r": 3,
+					"g": 72,
+					"b": 255,
+					"a": 255
+				},
+				"Color5": {
+					"r": 3,
+					"g": 66,
+					"b": 179,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season11.BattlePass.Paid",
+			"Cosmetics.Set.Goo",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "Trails_ID_079_ZeroPoint",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_079_ZeroPoint",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_079_ZeroPoint/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Zero Point",
+		"description": "Zero in on the target.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Zero Point",
+		"setText": "Part of the Zero Point set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season11.BattlePass.Paid",
+			"Cosmetics.Set.ZeroPoint",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "Trails_ID_080_DNAHelix",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_080_DNAHelix",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_080_DNAHelix/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "DNA",
+		"description": "Genetically engineered for optimum style.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season11.BattlePass.Paid",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "Trails_ID_081_MissingLink",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_081_MissingLink",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_081_MissingLink/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Loose Links",
+		"description": "Who wants a dog?",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Missing Link",
+		"setText": "Part of the Missing Link set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Set.LostConnection",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "Trails_ID_082_HolidayGarland",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_082_HolidayGarland",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_082_HolidayGarland/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Holly and Divey",
+		"description": "Deck your falls.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": [
+			{
+				"channel": "Particle",
+				"type": "STYLE",
+				"options": [
+					{
+						"tag": "Particle1",
+						"name": "GARLAND",
+						"image": "https://benbotfn.tk/cdn/images/Trails_ID_082_HolidayGarland/variant/Particle/Particle1.png",
+						"startUnlocked": true,
+						"isDefault": true,
+						"hideIfNotOwned": false
+					},
+					{
+						"tag": "Particle2",
+						"name": "SHINY GARLAND",
+						"image": "https://benbotfn.tk/cdn/images/Trails_ID_082_HolidayGarland/variant/Particle/Particle2.png",
+						"startUnlocked": true,
+						"isDefault": false,
+						"hideIfNotOwned": false
+					},
+					{
+						"tag": "Particle3",
+						"name": "FESTIVE GARLAND",
+						"image": "https://benbotfn.tk/cdn/images/Trails_ID_082_HolidayGarland/variant/Particle/Particle3.png",
+						"startUnlocked": true,
+						"isDefault": false,
+						"hideIfNotOwned": false
+					}
+				]
+			}
+		],
+		"gameplayTags": [
+			"Cosmetics.UserFacingFlags.HasVariants",
+			"Cosmetics.Source.Winterfest.Presents",
+			"Cosmetics.Filter.Season.11"
+		]
+	},
+	{
+		"id": "Trails_ID_083_AlphabetSoup",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_083_AlphabetSoup",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_083_AlphabetSoup/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Alphabet Soup",
+		"description": "Mmm... Fortnite.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.Season12.BattlePass.Paid"
+		]
+	},
+	{
+		"id": "Trails_ID_084_Briefcase",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_084_Briefcase",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_084_Briefcase/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Getaway Case",
+		"description": "Cash out.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Ghosts & Shadows",
+		"setText": "Part of the Ghosts & Shadows set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.Season12.BattlePass.Paid",
+			"Cosmetics.Set.SpiritDarkness"
+		]
+	},
+	{
+		"id": "Trails_ID_085_Candy",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_085_Candy",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_085_Candy/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Bon Bon",
+		"description": "Have a sweet flight.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Wild Hearts",
+		"setText": "Part of the Wild Hearts set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.Season12.BattlePass.Paid",
+			"Cosmetics.Set.WildHearts"
+		]
+	},
+	{
+		"id": "Trails_ID_086_SnowStorm",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_086_SnowStorm",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_086_SnowStorm/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Flaky",
+		"description": "Fall with the flakes.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.Season12.BattlePass.Free"
+		]
+	},
+	{
+		"id": "Trails_ID_087_TNTina",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_087_TNTina",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_087_TNTina/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Boom Drop",
+		"description": "You'll love it, it's a blast.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Short Fuse",
+		"setText": "Part of the Short Fuse set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.Season12.BattlePass.Paid",
+			"Cosmetics.Set.SmallLight"
+		]
+	},
+	{
+		"id": "Trails_ID_088_Informer",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_088_Informer",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_088_Informer/icon.png",
+			"featured": "https://benbotfn.tk/cdn/images/Trails_ID_088_Informer/featured.png",
+			"series": null
+		},
+		"name": "Synth Streak",
+		"description": "Synthesize your dive.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Parallel Future",
+		"setText": "Part of the Parallel Future set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Filter.Season.12",
+			"Cosmetics.Source.ItemShop",
+			"Cosmetics.Set.LateralDestiny"
+		]
+	},
+	{
+		"id": "Trails_ID_089_BlackKnight",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_089_BlackKnight",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_089_BlackKnight/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Knight Flight",
+		"description": "Let your banner fly.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": "Honor Shining",
+		"setText": "Part of the Honor Shining set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season13.BattlePass.Paid",
+			"Cosmetics.Filter.Season.13",
+			"Cosmetics.Set.GlowingGlory"
+		]
+	},
+	{
+		"id": "Trails_ID_090_Constellation",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_090_Constellation",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_090_Constellation/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Stardrop",
+		"description": "Countless Constellations.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season13.BattlePass.Free",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "Trails_ID_091_Longshorts",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_091_Longshorts",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_091_Longshorts/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Down Arrow",
+		"description": "Going down?",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season13.BattlePass.Paid",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "Trails_ID_092_SchoolOfFish",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_092_SchoolOfFish",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_092_SchoolOfFish/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Sky Swimmers",
+		"description": "These fish are very lost.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season13.BattlePass.Paid",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "Trails_ID_093_SpaceWanderer",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_093_SpaceWanderer",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_093_SpaceWanderer/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Photon",
+		"description": "Follow the light.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season13.BattlePass.Paid",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "Trails_ID_094_WaterSpray",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_094_WaterSpray",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_094_WaterSpray/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Waterfall",
+		"description": "Dive damply.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Uncommon",
+		"backendRarity": "EFortRarity::Uncommon",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season13.BattlePass.Paid",
+			"Cosmetics.Filter.Season.13"
+		]
+	},
+	{
+		"id": "Trails_ID_095_HightowerDate",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_095_HightowerDate",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_095_HightowerDate/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Doom Drop",
+		"description": "Doom from above!",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season14.BattlePass.Paid",
+			"Cosmetics.Set.StrollPeanut",
+			"Cosmetics.Filter.Season.14"
+		]
+	},
+	{
+		"id": "Trails_ID_096_HightowerGrape",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_096_HightowerGrape",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_096_HightowerGrape/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Sap Light",
+		"description": "Aglow with ancient and ennobled sap.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season14.BattlePass.Paid",
+			"Cosmetics.Set.CoalMonarch",
+			"Cosmetics.Filter.Season.14"
+		]
+	},
+	{
+		"id": "Trails_ID_097_HightowerSpeedlines",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_097_HightowerSpeedlines",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_097_HightowerSpeedlines/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Zip Ribbons",
+		"description": "Zippy.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season14.BattlePass.Free",
+			"Cosmetics.Filter.Season.14"
+		]
+	},
+	{
+		"id": "Trails_ID_098_HightowerSquash",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_098_HightowerSquash",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_098_HightowerSquash/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Storm's Strike",
+		"description": "Consider this your Storm Warning.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season14.BattlePass.Paid",
+			"Cosmetics.Set.ComedyElbow",
+			"Cosmetics.Filter.Season.14"
+		]
+	},
+	{
+		"id": "Trails_ID_099_HightowerTapas",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_099_HightowerTapas",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_099_HightowerTapas/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Bifrost Glow",
+		"description": "Straight from Asgard.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Epic",
+		"backendRarity": "EFortRarity::Epic",
+		"set": null,
+		"setText": null,
+		"series": {
+			"name": "MARVEL SERIES",
+			"colors": {
+				"Color1": {
+					"r": 216,
+					"g": 3,
+					"b": 4,
+					"a": 255
+				},
+				"Color2": {
+					"r": 171,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color3": {
+					"r": 116,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				},
+				"Color4": {
+					"r": 31,
+					"g": 1,
+					"b": 1,
+					"a": 255
+				},
+				"Color5": {
+					"r": 5,
+					"g": 0,
+					"b": 0,
+					"a": 255
+				}
+			}
+		},
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.Season14.BattlePass.Free",
+			"Cosmetics.Set.JusticeSin",
+			"Cosmetics.Filter.Season.14"
+		]
+	},
+	{
+		"id": "Trails_ID_31_GreenFlame",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_31_GreenFlame",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_ID_31_GreenFlame/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Virulent Flames",
+		"description": "Coming in hot.",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Rare",
+		"backendRarity": "EFortRarity::Rare",
+		"set": "Western Wilds",
+		"setText": "Part of the Western Wilds set.",
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Set.Cowgirl",
+			"Cosmetics.Source.Event.Fortnitemares.2018",
+			"Cosmetics.Filter.Season.6",
+			"Cosmetics.Filter.Event.Fortnitemares2018"
+		]
+	},
+	{
+		"id": "Trails_Random",
+		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_Random",
+		"icons": {
+			"icon": "https://benbotfn.tk/cdn/images/Trails_Random/icon.png",
+			"featured": null,
+			"series": null
+		},
+		"name": "Random",
+		"description": "Randomly chooses between favorite Contrails (or all owned Contrails if nothing is marked as a favorite)",
+		"shortDescription": "Contrail",
+		"backendType": "AthenaSkyDiveContrail",
+		"rarity": "Common",
+		"backendRarity": "EFortRarity::Common",
+		"set": null,
+		"setText": null,
+		"series": null,
+		"variants": null,
+		"gameplayTags": [
+			"Cosmetics.Source.DefaultItem"
+		]
+	}
+]
