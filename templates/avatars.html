@@ -1,0 +1,54 @@
+<head>
+  <title>Fortnite Items</title>
+  <meta name="description" content="@pdf114514">
+  <link id="favicon" rel="icon" href="https://fortnite-api.com/images/cosmetics/br/cid_005_athena_commando_m_default/icon.png" type="image/x-icon">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/css/style.css">
+  <script src="https://code.jquery.com/jquery-3.5.0.min.js"></script>
+  <script>
+function copyToClipboard(ct) {
+  var $temp = $("<input>");
+  $("body").append($temp);
+  $temp.val(ct).select();
+  document.execCommand("copy");
+  $temp.remove();
+  //alert(`Copied! : ${ct}`);
+}
+</script>
+</head>
+<body bgcolor="#222222" text="#fff">
+<!--<div class="list">
+  <iframe src="/list"></iframe>
+  </div>-->
+<div class="menu">
+{% for i in types %}<a href="{{i}}">{{i}}</a> {% endfor %} <a href="/">back to main</a>
+</div>
+<table border="1">
+<thead>
+    <tr>
+        <th>Image</th>
+        <th>ID</th>
+        <th>Name</th>
+    </tr>
+</thead>
+<tbody class="box">
+{% for id, name in avatars.items() %}
+    <tr id="{{id}}">
+  <th class="box2">
+    <img border="0" src="https://cdn2.unrealengine.com/Kairos/portraits/{{id}}.png?preview=1" width="128" height="128" alt="image">
+</th>
+<th class="box2 font1">
+{{id}}
+<br><br>
+<button onclick="copyToClipboard('{{id}}')">Copy ID</button>
+</th>
+<th class="box2 font1">
+{{name}}
+</th>
+<tr>
+{% endfor %}
+</tbody>
+</table>
+</body>

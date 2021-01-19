@@ -27,7 +27,7 @@ def addvisit():
         info=json.load(f)
     info['visitedcount']=info.get('visitedcount', 0)+1
     with open('json/info.json', 'w', encoding="utf-8") as f:
-        json.dump(info, f, indent='\t')
+        json.dump(info, f, indent='    ')
   
 @app.route('/')
 def rootgp():addvisit();return render_template('root.html', types=[*types, *subtypes], updated=json.load(open('json/info.json', 'r', encoding="utf-8")).get('updated', 'Err'))
@@ -64,6 +64,12 @@ def leakidgp():
     items=json.load(itemsf)
   return Markup('<br>'.join([i.get('id') for i in items]))
 
+@app.route('/avatar')
+def avatars():
+    with open('json/avatars.json') as f:
+        data=json.load(f)
+    return render_template('avatars.html', avatars=data)
+
 @app.route('/playlist')
 def playlistgp():
   #with open('newitem.json') as itemsf:
@@ -99,7 +105,7 @@ def itemsgp(type):
     return render_template('pm.html', types=[*types, *subtypes], mps=mps, none=None, type=type)
   if type == 'banner':
     with open('json/bb_banner.json', 'r') as bnsf:
-      bns=json.load(bnsf)
+      bns=json.load(bnsf) #__fm__
     return render_template('banner.html', items=bns, types=[*types, *subtypes])
   return render_template('items3.html', items=items, types=[*types, *subtypes], type=type)
 
@@ -137,26 +143,35 @@ def apiloop():
       print('writing fortnite-api...')
       for t in types:
         with open(f'json/{t}.json', 'w', encoding="utf-8") as f:
-          json.dump(sorted([i for i in all if i["type"] == t], key=lambda x:x['id'], reverse=False), f, indent='\t')
+          json.dump(sorted([i for i in all if i["type"] == t], key=lambda x:x['id'], reverse=False), f, indent='    ')
       else:
         with open('json/all.json', 'w', encoding="utf-8") as f:
-          json.dump(sorted(all, key=lambda x:x['id'], reverse=False), f, indent='\t')
+          json.dump(sorted(all, key=lambda x:x['id'], reverse=False), f, indent='    ')
       print('writed fortnite-api')
     except Exception as e:
-        print('Api roop error:', e)
+        print('Api loop error:', e)
     try:
       print('getting from benbotfn...')
       bball=requests.get('https://benbotfn.tk/api/v1/cosmetics/br').json()
       bbupcoming=requests.get('https://benbotfn.tk/api/v1/newCosmetics').json()['items']
       bbmusicpath=requests.get('https://benbotfn.tk/api/v1/files/search?path=FortniteGame/Content/Athena/Sounds/MusicPacks/').json()
-      bbbanner=requests.get('https://benbotfn.tk/api/v1/exportAsset?path=FortniteGame/Content/Banners/BannerIcons').json()
+      #bbbanner=requests.get('https://benbotfn.tk/api/v1/exportAsset?path=FortniteGame/Content/Banners/BannerIcons').json()
+      #bbbanner=requests.get('https://github.com/pdf114514/fnitems/raw/master/json/bb_banner.json').json()
+      _bbbanner=requests.get('https://fortnite-api.com/v1/banners').json()['data']
+      bbbanner={}
+      for i in _bbbanner:
+        bbbanner[i['id']]={
+          'SmallImage':{'assetPath':i['images']['smallIcon']},
+          'DisplayName':{'finalText':i['devName']},
+          'DisplayDescription':{'finalText':i['description']}
+		    }
       print('writing benbotfn...')
       for t in bbtypes:
         with open(f'json/bb_{t}.json', 'w', encoding="utf-8") as f:
-          json.dump(sorted([i for i in bball if i["backendType"].lower().replace('athena', '') == t], key=lambda x:x['id'], reverse=False), f, indent='\t')
+          json.dump(sorted([i for i in bball if i["backendType"].lower().replace('athena', '') == t], key=lambda x:x['id'], reverse=False), f, indent='    ')
       else:
         with open('json/bb_all.json', 'w', encoding="utf-8") as f:
-          json.dump(sorted(bball, key=lambda x:x['id'], reverse=False), f, indent='\t')
+          json.dump(sorted(bball, key=lambda x:x['id'], reverse=False), f, indent='    ')
       with open('json/newitem.json', 'w', encoding="utf-8") as f:
         #ul=[i.get('id', 'None') for i in bbupcoming]
         #ul.sort()
@@ -165,16 +180,16 @@ def apiloop():
         #  for j in bbupcoming:
         #    if i in j.items:rl.append(j)
         #
-        json.dump(sorted(bbupcoming, key=lambda x:x['id'], reverse=False), f, indent='\t')
+        json.dump(sorted(bbupcoming, key=lambda x:x['id'], reverse=False), f, indent='    ')
       mps={}
       for i in bbmusicpath:
         if not '_cue' in i.lower():
           i=i.replace('FortniteGame', 'Game')
           mps.update({i.split('/')[-1].replace('.uasset', '').replace('Musicpack_', '').replace('MusicPack_', '').replace('Athena_', ''):i})
       with open('json/bb_mp.json', 'w', encoding="utf-8") as f:
-        json.dump(mps, f, indent='\t')
+        json.dump(mps, f, indent='    ')
       with open('json/bb_banner.json', 'w', encoding="utf-8") as f:
-        json.dump(bbbanner, f, indent='\t')
+        json.dump(bbbanner, f, indent='    ')
       print('writed benbotfn')
       
       if not os.path.isfile('json/info.json'):
@@ -184,8 +199,10 @@ def apiloop():
               info=json.load(f)
       info.update({'updated':time.ctime()})
       with open('json/info.json', 'w', encoding="utf-8") as f:
-          json.dump(info, f, indent='\t')
+          json.dump(info, f, indent='    ')
           
+      with open('json/avatars.json', 'w', encoding='utf-8') as f:
+          json.dump(requests.get('https://cdn2.unrealengine.com/Kairos/data/avatars.json').json(), f, indent='    ')
       time.sleep(600)
     except Exception as e:
       print('Error on apiloop:', e)

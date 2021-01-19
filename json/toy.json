@@ -1,762 +1,762 @@
 [
-	{
-		"id": "toy_001_basketball",
-		"type": "toy",
-		"backendType": "AthenaToy",
-		"rarity": "rare",
-		"displayRarity": "Rare",
-		"backendRarity": "EFortRarity::Rare",
-		"name": "Basketball",
-		"shortDescription": "Toy",
-		"description": "Shoot a three!",
-		"set": null,
-		"setText": null,
-		"series": null,
-		"backendSeries": null,
-		"images": {
-			"smallIcon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_001_basketball/smallicon.png"
-			},
-			"icon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_001_basketball/icon.png"
-			},
-			"featured": null,
-			"background": null,
-			"coverArt": null,
-			"decal": null
-		},
-		"variants": null,
-		"gameplayTags": [
-			"Cosmetics.EmoteType.Toy",
-			"Cosmetics.Source.Season5.BattlePass.Paid",
-			"Cosmetics.Filter.Season.5"
-		],
-		"displayAssetPath": null,
-		"definition": null,
-		"requiredItemId": null,
-		"builtInEmoteId": null,
-		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_001_Basketball",
-		"lastUpdate": "2019-11-20T12:49:34Z",
-		"added": "2019-11-20T12:49:34Z"
-	},
-	{
-		"id": "toy_002_golfball",
-		"type": "toy",
-		"backendType": "AthenaToy",
-		"rarity": "rare",
-		"displayRarity": "Rare",
-		"backendRarity": "EFortRarity::Rare",
-		"name": "Golf Ball",
-		"shortDescription": "Toy",
-		"description": "Fore!",
-		"set": null,
-		"setText": null,
-		"series": null,
-		"backendSeries": null,
-		"images": {
-			"smallIcon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_002_golfball/smallicon.png"
-			},
-			"icon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_002_golfball/icon.png"
-			},
-			"featured": null,
-			"background": null,
-			"coverArt": null,
-			"decal": null
-		},
-		"variants": null,
-		"gameplayTags": [
-			"Cosmetics.EmoteType.Toy",
-			"Cosmetics.Source.Season5.BattlePass.Paid",
-			"Cosmetics.Filter.Season.5"
-		],
-		"displayAssetPath": null,
-		"definition": null,
-		"requiredItemId": null,
-		"builtInEmoteId": null,
-		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_002_Golfball",
-		"lastUpdate": "2019-11-20T12:49:33Z",
-		"added": "2019-11-20T12:49:33Z"
-	},
-	{
-		"id": "toy_003_beachball",
-		"type": "toy",
-		"backendType": "AthenaToy",
-		"rarity": "rare",
-		"displayRarity": "Rare",
-		"backendRarity": "EFortRarity::Rare",
-		"name": "Beach Ball",
-		"shortDescription": "Toy",
-		"description": "Summer fun!",
-		"set": null,
-		"setText": null,
-		"series": null,
-		"backendSeries": null,
-		"images": {
-			"smallIcon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_003_beachball/smallicon.png"
-			},
-			"icon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_003_beachball/icon.png"
-			},
-			"featured": null,
-			"background": null,
-			"coverArt": null,
-			"decal": null
-		},
-		"variants": null,
-		"gameplayTags": [
-			"Cosmetics.EmoteType.Toy",
-			"Cosmetics.Source.Season5.BattlePass.Paid",
-			"Cosmetics.Filter.Season.5"
-		],
-		"displayAssetPath": null,
-		"definition": null,
-		"requiredItemId": null,
-		"builtInEmoteId": null,
-		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_003_BeachBall",
-		"lastUpdate": "2019-11-20T12:48:12Z",
-		"added": "2019-11-20T12:48:12Z"
-	},
-	{
-		"id": "toy_004_basketballelite",
-		"type": "toy",
-		"backendType": "AthenaToy",
-		"rarity": "epic",
-		"displayRarity": "Epic",
-		"backendRarity": "EFortRarity::Epic",
-		"name": "Fancy Basketball",
-		"shortDescription": "Toy",
-		"description": "From downtown!",
-		"set": null,
-		"setText": null,
-		"series": null,
-		"backendSeries": null,
-		"images": {
-			"smallIcon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_004_basketballelite/smallicon.png"
-			},
-			"icon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_004_basketballelite/icon.png"
-			},
-			"featured": null,
-			"background": null,
-			"coverArt": null,
-			"decal": null
-		},
-		"variants": null,
-		"gameplayTags": [
-			"Cosmetics.EmoteType.Toy",
-			"Cosmetics.Source.Season5.BattlePass.Paid",
-			"Cosmetics.Filter.Season.5"
-		],
-		"displayAssetPath": null,
-		"definition": null,
-		"requiredItemId": null,
-		"builtInEmoteId": null,
-		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_004_BasketballElite",
-		"lastUpdate": "2019-11-20T12:49:34Z",
-		"added": "2019-11-20T12:49:34Z"
-	},
-	{
-		"id": "toy_005_golfballelite",
-		"type": "toy",
-		"backendType": "AthenaToy",
-		"rarity": "epic",
-		"displayRarity": "Epic",
-		"backendRarity": "EFortRarity::Epic",
-		"name": "Fancy Golf Ball",
-		"shortDescription": "Toy",
-		"description": "Sink the putt!",
-		"set": null,
-		"setText": null,
-		"series": null,
-		"backendSeries": null,
-		"images": {
-			"smallIcon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_005_golfballelite/smallicon.png"
-			},
-			"icon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_005_golfballelite/icon.png"
-			},
-			"featured": null,
-			"background": null,
-			"coverArt": null,
-			"decal": null
-		},
-		"variants": null,
-		"gameplayTags": [
-			"Cosmetics.EmoteType.Toy",
-			"Cosmetics.Source.Season5.BattlePass.Paid",
-			"Cosmetics.Filter.Season.5"
-		],
-		"displayAssetPath": null,
-		"definition": null,
-		"requiredItemId": null,
-		"builtInEmoteId": null,
-		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_005_GolfballElite",
-		"lastUpdate": "2019-11-20T12:49:33Z",
-		"added": "2019-11-20T12:49:33Z"
-	},
-	{
-		"id": "toy_006_beachballelite",
-		"type": "toy",
-		"backendType": "AthenaToy",
-		"rarity": "epic",
-		"displayRarity": "Epic",
-		"backendRarity": "EFortRarity::Epic",
-		"name": "Fancy Beach Ball",
-		"shortDescription": "Toy",
-		"description": "Perfectly inflated.",
-		"set": null,
-		"setText": null,
-		"series": null,
-		"backendSeries": null,
-		"images": {
-			"smallIcon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_006_beachballelite/smallicon.png"
-			},
-			"icon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_006_beachballelite/icon.png"
-			},
-			"featured": null,
-			"background": null,
-			"coverArt": null,
-			"decal": null
-		},
-		"variants": null,
-		"gameplayTags": [
-			"Cosmetics.EmoteType.Toy",
-			"Cosmetics.Source.Season5.BattlePass.Paid",
-			"Cosmetics.Filter.Season.5"
-		],
-		"displayAssetPath": null,
-		"definition": null,
-		"requiredItemId": null,
-		"builtInEmoteId": null,
-		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_006_BeachBallElite",
-		"lastUpdate": "2019-11-20T12:49:33Z",
-		"added": "2019-11-20T12:49:33Z"
-	},
-	{
-		"id": "toy_007_tomato",
-		"type": "toy",
-		"backendType": "AthenaToy",
-		"rarity": "rare",
-		"displayRarity": "Rare",
-		"backendRarity": "EFortRarity::Rare",
-		"name": "Tomato",
-		"shortDescription": "Toy",
-		"description": "Splat!",
-		"set": null,
-		"setText": null,
-		"series": null,
-		"backendSeries": null,
-		"images": {
-			"smallIcon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_007_tomato/smallicon.png"
-			},
-			"icon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_007_tomato/icon.png"
-			},
-			"featured": null,
-			"background": null,
-			"coverArt": null,
-			"decal": null
-		},
-		"variants": null,
-		"gameplayTags": [
-			"Cosmetics.EmoteType.Toy",
-			"Cosmetics.Source.Season6.BattlePass.Paid",
-			"Cosmetics.Filter.Season.6"
-		],
-		"displayAssetPath": null,
-		"definition": null,
-		"requiredItemId": null,
-		"builtInEmoteId": null,
-		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_007_Tomato",
-		"lastUpdate": "2019-11-20T12:49:33Z",
-		"added": "2019-11-20T12:49:33Z"
-	},
-	{
-		"id": "toy_008_tomatoelite",
-		"type": "toy",
-		"backendType": "AthenaToy",
-		"rarity": "epic",
-		"displayRarity": "Epic",
-		"backendRarity": "EFortRarity::Epic",
-		"name": "Fancy Tomato",
-		"shortDescription": "Toy",
-		"description": "Saucy!",
-		"set": "Pizza Pit",
-		"setText": "Part of the Pizza Pit set.",
-		"series": null,
-		"backendSeries": null,
-		"images": {
-			"smallIcon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_008_tomatoelite/smallicon.png"
-			},
-			"icon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_008_tomatoelite/icon.png"
-			},
-			"featured": null,
-			"background": null,
-			"coverArt": null,
-			"decal": null
-		},
-		"variants": null,
-		"gameplayTags": [
-			"Cosmetics.EmoteType.Toy",
-			"Cosmetics.Source.Season6.BattlePass.Paid",
-			"Cosmetics.Set.PizzaPit",
-			"Cosmetics.Filter.Season.6"
-		],
-		"displayAssetPath": null,
-		"definition": null,
-		"requiredItemId": null,
-		"builtInEmoteId": null,
-		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_008_TomatoElite",
-		"lastUpdate": "2019-11-20T12:49:33Z",
-		"added": "2019-11-20T12:49:33Z"
-	},
-	{
-		"id": "toy_009_burgerelite",
-		"type": "toy",
-		"backendType": "AthenaToy",
-		"rarity": "rare",
-		"displayRarity": "Rare",
-		"backendRarity": "EFortRarity::Rare",
-		"name": "Fancy Burger",
-		"shortDescription": "Toy",
-		"description": "Extra Greasy.",
-		"set": "Durrr Burger",
-		"setText": "Part of the Durrr Burger set.",
-		"series": null,
-		"backendSeries": null,
-		"images": {
-			"smallIcon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_009_burgerelite/smallicon.png"
-			},
-			"icon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_009_burgerelite/icon.png"
-			},
-			"featured": null,
-			"background": null,
-			"coverArt": null,
-			"decal": null
-		},
-		"variants": null,
-		"gameplayTags": [
-			"Cosmetics.EmoteType.Toy",
-			"Cosmetics.Source.Season7.BattlePass.Paid",
-			"Cosmetics.Set.DurrrBurger",
-			"Cosmetics.Filter.Season.7"
-		],
-		"displayAssetPath": null,
-		"definition": null,
-		"requiredItemId": null,
-		"builtInEmoteId": null,
-		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_009_BurgerElite",
-		"lastUpdate": "2019-11-20T12:49:33Z",
-		"added": "2019-11-20T12:49:33Z"
-	},
-	{
-		"id": "toy_010_icepuck",
-		"type": "toy",
-		"backendType": "AthenaToy",
-		"rarity": "rare",
-		"displayRarity": "Rare",
-		"backendRarity": "EFortRarity::Rare",
-		"name": "Ice Puck",
-		"shortDescription": "Toy",
-		"description": "Drop the puck.",
-		"set": null,
-		"setText": null,
-		"series": null,
-		"backendSeries": null,
-		"images": {
-			"smallIcon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_010_icepuck/smallicon.png"
-			},
-			"icon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_010_icepuck/icon.png"
-			},
-			"featured": null,
-			"background": null,
-			"coverArt": null,
-			"decal": null
-		},
-		"variants": null,
-		"gameplayTags": [
-			"Cosmetics.EmoteType.Toy",
-			"Cosmetics.Source.Season7.BattlePass.Paid",
-			"Cosmetics.Filter.Season.7"
-		],
-		"displayAssetPath": null,
-		"definition": null,
-		"requiredItemId": null,
-		"builtInEmoteId": null,
-		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_010_IcePuck",
-		"lastUpdate": "2019-11-20T12:49:33Z",
-		"added": "2019-11-20T12:49:33Z"
-	},
-	{
-		"id": "toy_011_snowball",
-		"type": "toy",
-		"backendType": "AthenaToy",
-		"rarity": "rare",
-		"displayRarity": "Rare",
-		"backendRarity": "EFortRarity::Rare",
-		"name": "Snowball",
-		"shortDescription": "Toy",
-		"description": "Packed and ready for impact.",
-		"set": null,
-		"setText": null,
-		"series": null,
-		"backendSeries": null,
-		"images": {
-			"smallIcon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_011_snowball/smallicon.png"
-			},
-			"icon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_011_snowball/icon.png"
-			},
-			"featured": null,
-			"background": null,
-			"coverArt": null,
-			"decal": null
-		},
-		"variants": null,
-		"gameplayTags": [
-			"Cosmetics.EmoteType.Toy",
-			"Cosmetics.Source.Event.14DaysOfFortnite",
-			"Cosmetics.Filter.Season.7",
-			"Cosmetics.Filter.Event.14DaysofFortnite"
-		],
-		"displayAssetPath": null,
-		"definition": null,
-		"requiredItemId": null,
-		"builtInEmoteId": null,
-		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_011_Snowball",
-		"lastUpdate": "2019-11-20T12:48:11Z",
-		"added": "2019-11-20T12:48:11Z"
-	},
-	{
-		"id": "toy_012_americanfootball",
-		"type": "toy",
-		"backendType": "AthenaToy",
-		"rarity": "rare",
-		"displayRarity": "Rare",
-		"backendRarity": "EFortRarity::Rare",
-		"name": "Pigskin",
-		"shortDescription": "Toy",
-		"description": "Go long...",
-		"set": "Fourth Down",
-		"setText": "Part of the Fourth Down set.",
-		"series": null,
-		"backendSeries": null,
-		"images": {
-			"smallIcon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_012_americanfootball/smallicon.png"
-			},
-			"icon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_012_americanfootball/icon.png"
-			},
-			"featured": null,
-			"background": null,
-			"coverArt": null,
-			"decal": null
-		},
-		"variants": null,
-		"gameplayTags": [
-			"Cosmetics.EmoteType.Toy",
-			"Cosmetics.Set.Football",
-			"Cosmetics.Filter.Season.7"
-		],
-		"displayAssetPath": null,
-		"definition": null,
-		"requiredItemId": null,
-		"builtInEmoteId": null,
-		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_012_AmericanFootball",
-		"lastUpdate": "2019-11-20T12:49:33Z",
-		"added": "2019-11-20T12:49:33Z"
-	},
-	{
-		"id": "toy_014_bouncyball",
-		"type": "toy",
-		"backendType": "AthenaToy",
-		"rarity": "rare",
-		"displayRarity": "Rare",
-		"backendRarity": "EFortRarity::Rare",
-		"name": "Bouncy Ball",
-		"shortDescription": "Toy",
-		"description": "Boing boing!",
-		"set": null,
-		"setText": null,
-		"series": null,
-		"backendSeries": null,
-		"images": {
-			"smallIcon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_014_bouncyball/smallicon.png"
-			},
-			"icon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_014_bouncyball/icon.png"
-			},
-			"featured": null,
-			"background": null,
-			"coverArt": null,
-			"decal": null
-		},
-		"variants": null,
-		"gameplayTags": [
-			"Cosmetics.EmoteType.Toy",
-			"Cosmetics.Source.Season8.BattlePass.Paid",
-			"Cosmetics.Filter.Season.8"
-		],
-		"displayAssetPath": null,
-		"definition": null,
-		"requiredItemId": null,
-		"builtInEmoteId": null,
-		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_014_BouncyBall",
-		"lastUpdate": "2019-11-20T12:49:33Z",
-		"added": "2019-11-20T12:49:33Z"
-	},
-	{
-		"id": "toy_015_bottle",
-		"type": "toy",
-		"backendType": "AthenaToy",
-		"rarity": "rare",
-		"displayRarity": "Rare",
-		"backendRarity": "EFortRarity::Rare",
-		"name": "Bottle Flip",
-		"shortDescription": "Toy",
-		"description": "Give it a flip!",
-		"set": null,
-		"setText": null,
-		"series": null,
-		"backendSeries": null,
-		"images": {
-			"smallIcon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_015_bottle/smallicon.png"
-			},
-			"icon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_015_bottle/icon.png"
-			},
-			"featured": null,
-			"background": null,
-			"coverArt": null,
-			"decal": null
-		},
-		"variants": null,
-		"gameplayTags": [
-			"Cosmetics.EmoteType.Toy",
-			"Cosmetics.Source.Season10.BattlePass.Paid",
-			"Cosmetics.Filter.Season.10"
-		],
-		"displayAssetPath": null,
-		"definition": null,
-		"requiredItemId": null,
-		"builtInEmoteId": null,
-		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_015_Bottle",
-		"lastUpdate": "2019-11-20T12:49:33Z",
-		"added": "2019-11-20T12:49:33Z"
-	},
-	{
-		"id": "toy_017_flyingdisc",
-		"type": "toy",
-		"backendType": "AthenaToy",
-		"rarity": "rare",
-		"displayRarity": "Rare",
-		"backendRarity": "EFortRarity::Rare",
-		"name": "Flying Disc",
-		"shortDescription": "Toy",
-		"description": "Let it fly.",
-		"set": null,
-		"setText": null,
-		"series": null,
-		"backendSeries": null,
-		"images": {
-			"smallIcon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_017_flyingdisc/smallicon.png"
-			},
-			"icon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_017_flyingdisc/icon.png"
-			},
-			"featured": null,
-			"background": null,
-			"coverArt": null,
-			"decal": null
-		},
-		"variants": null,
-		"gameplayTags": [
-			"Cosmetics.EmoteType.Toy",
-			"Cosmetics.Source.Season9.BattlePass.Paid",
-			"Cosmetics.Filter.Season.9"
-		],
-		"displayAssetPath": null,
-		"definition": null,
-		"requiredItemId": null,
-		"builtInEmoteId": null,
-		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_017_FlyingDisc",
-		"lastUpdate": "2019-11-20T12:49:34Z",
-		"added": "2019-11-20T12:49:34Z"
-	},
-	{
-		"id": "toy_018_fancyflyingdisc",
-		"type": "toy",
-		"backendType": "AthenaToy",
-		"rarity": "epic",
-		"displayRarity": "Epic",
-		"backendRarity": "EFortRarity::Epic",
-		"name": "Fancy Flying Disc",
-		"shortDescription": "Toy",
-		"description": "Throw the glow.",
-		"set": null,
-		"setText": null,
-		"series": null,
-		"backendSeries": null,
-		"images": {
-			"smallIcon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_018_fancyflyingdisc/smallicon.png"
-			},
-			"icon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_018_fancyflyingdisc/icon.png"
-			},
-			"featured": null,
-			"background": null,
-			"coverArt": null,
-			"decal": null
-		},
-		"variants": null,
-		"gameplayTags": [
-			"Cosmetics.EmoteType.Toy",
-			"Cosmetics.Source.Season9.BattlePass.Paid",
-			"Cosmetics.Filter.Season.9"
-		],
-		"displayAssetPath": null,
-		"definition": null,
-		"requiredItemId": null,
-		"builtInEmoteId": null,
-		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_018_FancyFlyingDisc",
-		"lastUpdate": "2019-11-20T12:49:34Z",
-		"added": "2019-11-20T12:49:34Z"
-	},
-	{
-		"id": "toy_019_waterballoon",
-		"type": "toy",
-		"backendType": "AthenaToy",
-		"rarity": "rare",
-		"displayRarity": "Rare",
-		"backendRarity": "EFortRarity::Rare",
-		"name": "Water Balloon",
-		"shortDescription": "Toy",
-		"description": "Incoming!",
-		"set": null,
-		"setText": null,
-		"series": null,
-		"backendSeries": null,
-		"images": {
-			"smallIcon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_019_waterballoon/smallicon.png"
-			},
-			"icon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_019_waterballoon/icon.png"
-			},
-			"featured": null,
-			"background": null,
-			"coverArt": null,
-			"decal": null
-		},
-		"variants": null,
-		"gameplayTags": [
-			"Cosmetics.EmoteType.Toy",
-			"Cosmetics.Source.Event.14DaysOfSummer.Toy",
-			"Cosmetics.Filter.Season.9",
-			"Cosmetics.Filter.Event.14DaysofSummer"
-		],
-		"displayAssetPath": null,
-		"definition": null,
-		"requiredItemId": null,
-		"builtInEmoteId": null,
-		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_019_WaterBalloon",
-		"lastUpdate": "2019-11-20T12:49:33Z",
-		"added": "2019-11-20T12:49:33Z"
-	},
-	{
-		"id": "toy_020_bottle_fancy",
-		"type": "toy",
-		"backendType": "AthenaToy",
-		"rarity": "epic",
-		"displayRarity": "Epic",
-		"backendRarity": "EFortRarity::Epic",
-		"name": "Fancy Flip",
-		"shortDescription": "Toy",
-		"description": "Sparkling or still standing?",
-		"set": null,
-		"setText": null,
-		"series": null,
-		"backendSeries": null,
-		"images": {
-			"smallIcon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_020_bottle_fancy/smallicon.png"
-			},
-			"icon": {
-				"hash": "",
-				"url": "https://fortnite-api.com/images/cosmetics/br/toy_020_bottle_fancy/icon.png"
-			},
-			"featured": null,
-			"background": null,
-			"coverArt": null,
-			"decal": null
-		},
-		"variants": null,
-		"gameplayTags": [
-			"Cosmetics.EmoteType.Toy",
-			"Cosmetics.Source.Season10.BattlePass.Paid",
-			"Cosmetics.Filter.Season.10"
-		],
-		"displayAssetPath": null,
-		"definition": null,
-		"requiredItemId": null,
-		"builtInEmoteId": null,
-		"path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_020_Bottle_Fancy",
-		"lastUpdate": "2019-11-20T12:49:33Z",
-		"added": "2019-11-20T12:49:33Z"
-	}
+    {
+        "id": "toy_001_basketball",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Basketball",
+        "shortDescription": "Toy",
+        "description": "Shoot a three!",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_001_basketball/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_001_basketball/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Source.Season5.BattlePass.Paid",
+            "Cosmetics.Filter.Season.5"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_001_Basketball",
+        "lastUpdate": "2019-11-20T12:49:34Z",
+        "added": "2019-11-20T12:49:34Z"
+    },
+    {
+        "id": "toy_002_golfball",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Golf Ball",
+        "shortDescription": "Toy",
+        "description": "Fore!",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_002_golfball/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_002_golfball/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Source.Season5.BattlePass.Paid",
+            "Cosmetics.Filter.Season.5"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_002_Golfball",
+        "lastUpdate": "2019-11-20T12:49:33Z",
+        "added": "2019-11-20T12:49:33Z"
+    },
+    {
+        "id": "toy_003_beachball",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Beach Ball",
+        "shortDescription": "Toy",
+        "description": "Summer fun!",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_003_beachball/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_003_beachball/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Source.Season5.BattlePass.Paid",
+            "Cosmetics.Filter.Season.5"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_003_BeachBall",
+        "lastUpdate": "2019-11-20T12:48:12Z",
+        "added": "2019-11-20T12:48:12Z"
+    },
+    {
+        "id": "toy_004_basketballelite",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Fancy Basketball",
+        "shortDescription": "Toy",
+        "description": "From downtown!",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_004_basketballelite/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_004_basketballelite/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Source.Season5.BattlePass.Paid",
+            "Cosmetics.Filter.Season.5"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_004_BasketballElite",
+        "lastUpdate": "2019-11-20T12:49:34Z",
+        "added": "2019-11-20T12:49:34Z"
+    },
+    {
+        "id": "toy_005_golfballelite",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Fancy Golf Ball",
+        "shortDescription": "Toy",
+        "description": "Sink the putt!",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_005_golfballelite/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_005_golfballelite/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Source.Season5.BattlePass.Paid",
+            "Cosmetics.Filter.Season.5"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_005_GolfballElite",
+        "lastUpdate": "2019-11-20T12:49:33Z",
+        "added": "2019-11-20T12:49:33Z"
+    },
+    {
+        "id": "toy_006_beachballelite",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Fancy Beach Ball",
+        "shortDescription": "Toy",
+        "description": "Perfectly inflated.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_006_beachballelite/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_006_beachballelite/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Source.Season5.BattlePass.Paid",
+            "Cosmetics.Filter.Season.5"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_006_BeachBallElite",
+        "lastUpdate": "2019-11-20T12:49:33Z",
+        "added": "2019-11-20T12:49:33Z"
+    },
+    {
+        "id": "toy_007_tomato",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Tomato",
+        "shortDescription": "Toy",
+        "description": "Splat!",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_007_tomato/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_007_tomato/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Source.Season6.BattlePass.Paid",
+            "Cosmetics.Filter.Season.6"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_007_Tomato",
+        "lastUpdate": "2019-11-20T12:49:33Z",
+        "added": "2019-11-20T12:49:33Z"
+    },
+    {
+        "id": "toy_008_tomatoelite",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Fancy Tomato",
+        "shortDescription": "Toy",
+        "description": "Saucy!",
+        "set": "Pizza Pit",
+        "setText": "Part of the Pizza Pit set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_008_tomatoelite/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_008_tomatoelite/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Source.Season6.BattlePass.Paid",
+            "Cosmetics.Set.PizzaPit",
+            "Cosmetics.Filter.Season.6"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_008_TomatoElite",
+        "lastUpdate": "2019-11-20T12:49:33Z",
+        "added": "2019-11-20T12:49:33Z"
+    },
+    {
+        "id": "toy_009_burgerelite",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Fancy Burger",
+        "shortDescription": "Toy",
+        "description": "Extra Greasy.",
+        "set": "Durrr Burger",
+        "setText": "Part of the Durrr Burger set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_009_burgerelite/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_009_burgerelite/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Source.Season7.BattlePass.Paid",
+            "Cosmetics.Set.DurrrBurger",
+            "Cosmetics.Filter.Season.7"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_009_BurgerElite",
+        "lastUpdate": "2019-11-20T12:49:33Z",
+        "added": "2019-11-20T12:49:33Z"
+    },
+    {
+        "id": "toy_010_icepuck",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Ice Puck",
+        "shortDescription": "Toy",
+        "description": "Drop the puck.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_010_icepuck/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_010_icepuck/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Source.Season7.BattlePass.Paid",
+            "Cosmetics.Filter.Season.7"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_010_IcePuck",
+        "lastUpdate": "2019-11-20T12:49:33Z",
+        "added": "2019-11-20T12:49:33Z"
+    },
+    {
+        "id": "toy_011_snowball",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Snowball",
+        "shortDescription": "Toy",
+        "description": "Packed and ready for impact.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_011_snowball/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_011_snowball/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Source.Event.14DaysOfFortnite",
+            "Cosmetics.Filter.Season.7",
+            "Cosmetics.Filter.Event.14DaysofFortnite"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_011_Snowball",
+        "lastUpdate": "2019-11-20T12:48:11Z",
+        "added": "2019-11-20T12:48:11Z"
+    },
+    {
+        "id": "toy_012_americanfootball",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Pigskin",
+        "shortDescription": "Toy",
+        "description": "Go long...",
+        "set": "Fourth Down",
+        "setText": "Part of the Fourth Down set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_012_americanfootball/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_012_americanfootball/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Set.Football",
+            "Cosmetics.Filter.Season.7"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_012_AmericanFootball",
+        "lastUpdate": "2019-11-20T12:49:33Z",
+        "added": "2019-11-20T12:49:33Z"
+    },
+    {
+        "id": "toy_014_bouncyball",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Bouncy Ball",
+        "shortDescription": "Toy",
+        "description": "Boing boing!",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_014_bouncyball/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_014_bouncyball/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Source.Season8.BattlePass.Paid",
+            "Cosmetics.Filter.Season.8"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_014_BouncyBall",
+        "lastUpdate": "2019-11-20T12:49:33Z",
+        "added": "2019-11-20T12:49:33Z"
+    },
+    {
+        "id": "toy_015_bottle",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Bottle Flip",
+        "shortDescription": "Toy",
+        "description": "Give it a flip!",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_015_bottle/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_015_bottle/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Source.Season10.BattlePass.Paid",
+            "Cosmetics.Filter.Season.10"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_015_Bottle",
+        "lastUpdate": "2019-11-20T12:49:33Z",
+        "added": "2019-11-20T12:49:33Z"
+    },
+    {
+        "id": "toy_017_flyingdisc",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Flying Disc",
+        "shortDescription": "Toy",
+        "description": "Let it fly.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_017_flyingdisc/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_017_flyingdisc/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Source.Season9.BattlePass.Paid",
+            "Cosmetics.Filter.Season.9"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_017_FlyingDisc",
+        "lastUpdate": "2019-11-20T12:49:34Z",
+        "added": "2019-11-20T12:49:34Z"
+    },
+    {
+        "id": "toy_018_fancyflyingdisc",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Fancy Flying Disc",
+        "shortDescription": "Toy",
+        "description": "Throw the glow.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_018_fancyflyingdisc/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_018_fancyflyingdisc/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Source.Season9.BattlePass.Paid",
+            "Cosmetics.Filter.Season.9"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_018_FancyFlyingDisc",
+        "lastUpdate": "2019-11-20T12:49:34Z",
+        "added": "2019-11-20T12:49:34Z"
+    },
+    {
+        "id": "toy_019_waterballoon",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Water Balloon",
+        "shortDescription": "Toy",
+        "description": "Incoming!",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_019_waterballoon/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_019_waterballoon/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Source.Event.14DaysOfSummer.Toy",
+            "Cosmetics.Filter.Season.9",
+            "Cosmetics.Filter.Event.14DaysofSummer"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_019_WaterBalloon",
+        "lastUpdate": "2019-11-20T12:49:33Z",
+        "added": "2019-11-20T12:49:33Z"
+    },
+    {
+        "id": "toy_020_bottle_fancy",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Fancy Flip",
+        "shortDescription": "Toy",
+        "description": "Sparkling or still standing?",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_020_bottle_fancy/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_020_bottle_fancy/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Source.Season10.BattlePass.Paid",
+            "Cosmetics.Filter.Season.10"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_020_Bottle_Fancy",
+        "lastUpdate": "2019-11-20T12:49:33Z",
+        "added": "2019-11-20T12:49:33Z"
+    }
 ]
