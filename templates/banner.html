@@ -25,6 +25,7 @@ function copyToClipboard(ct) {
 <div class="menu">
 {% for i in types %}<a href="{{i}}">{{i}}</a> {% endfor %} <a href="/">back to main</a>
 </div>
+<!--<p>ちょっと古いけど我慢してね!!!</p>-->
 <table border="1">
 <thead>
     <tr>
@@ -40,7 +41,8 @@ function copyToClipboard(ct) {
     <tr id="{{i}}">
   <th class="box2">
   {% if not items[i]['SmallImage']['assetPath'] == None %}
-    <img border="0" src="https://benbotfn.tk/api/v1/exportAsset?path={{items[i]['SmallImage']['assetPath']}}" width="128" height="128" alt="image">
+    <!--<img border="0" src="https://benbotfn.tk/api/v1/exportAsset?path={{items[i]['SmallImage']['assetPath']}}" width="128" height="128" alt="image">-->
+	<img border="0" src="{{items[i]['SmallImage']['assetPath']}}" width="128" height="128" alt="image">
   {% else %}
     <img border="0" src="/image/none" width="128" height="128" alt="image">
   {% endif %}
