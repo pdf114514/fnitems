@@ -13083,6 +13083,90 @@
         "added": "2020-12-15T11:25:12Z"
     },
     {
+        "id": "glider_id_271_combatdoll",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Spikey Jet",
+        "shortDescription": "Glider",
+        "description": "A lot of heart, and a little edge.",
+        "set": "Original Outlaws",
+        "setText": "Part of the Original Outlaws set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_271_combatdoll/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_271_combatdoll/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.InitialBandits"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_271_CombatDoll",
+        "lastUpdate": "2021-01-13T09:40:21Z",
+        "added": "2021-01-13T09:40:21Z"
+    },
+    {
+        "id": "glider_id_272_streetfashioneclipsefemale",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "shadow",
+        "displayRarity": "Shadow Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Sky Shadow",
+        "shortDescription": "Glider",
+        "description": "Shadow style signature stripe glider.",
+        "set": "Street Shadows",
+        "setText": "Part of the Street Shadows set.",
+        "series": "Shadow Series",
+        "backendSeries": "ShadowSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_272_streetfashioneclipsefemale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_272_streetfashioneclipsefemale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.RMT.NextGenStarterPack",
+            "Cosmetics.Set.RoadShade"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_272_StreetFashionEclipseFemale",
+        "lastUpdate": "2021-01-13T09:40:21Z",
+        "added": "2021-01-13T09:40:21Z"
+    },
+    {
         "id": "glider_mig",
         "type": "glider",
         "backendType": "AthenaGlider",

@@ -4868,6 +4868,44 @@
         "added": "2019-11-20T12:49:33Z"
     },
     {
+        "id": "emoji_s11_wintersnowball",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Snow Strike",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s11_wintersnowball/smallicon.png"
+            },
+            "icon": null,
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S11_WinterSnowball",
+        "lastUpdate": "2021-01-13T09:40:21Z",
+        "added": "2021-01-13T09:40:21Z"
+    },
+    {
         "id": "emoji_s12_adventuregirl",
         "type": "emoji",
         "backendType": "AthenaEmoji",
@@ -7310,7 +7348,7 @@
         "rarity": "starwars",
         "displayRarity": "Star Wars Series",
         "backendRarity": "EFortRarity::Epic",
-        "name": "Mando",
+        "name": "This is the way",
         "shortDescription": "Emoticon",
         "description": "Express yourself on the battlefield.",
         "set": null,
@@ -7387,6 +7425,131 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S15_Flapjack",
         "lastUpdate": "2020-12-08T19:08:39Z",
         "added": "2020-12-08T19:08:39Z"
+    },
+    {
+        "id": "emoji_s15_fncs",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "FNCS 2:5",
+        "shortDescription": "Emoticon",
+        "description": "Champion Series CH2 - S5.",
+        "set": "Fortnite Champion Series",
+        "setText": "Part of the Fortnite Champion Series set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s15_fncs/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s15_fncs/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.FNCS",
+            "Cosmetics.Set.FNCS"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S15_FNCS",
+        "lastUpdate": "2021-01-20T09:26:07Z",
+        "added": "2021-01-20T09:26:07Z"
+    },
+    {
+        "id": "emoji_s15_futurepink",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Trinity Impact",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s15_futurepink/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s15_futurepink/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S15_FuturePink",
+        "lastUpdate": "2021-01-20T09:26:07Z",
+        "added": "2021-01-20T09:26:07Z"
+    },
+    {
+        "id": "emoji_s15_futurepinkorange",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Trinity Overload",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s15_futurepinkorange/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s15_futurepinkorange/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S15_FuturePinkOrange",
+        "lastUpdate": "2021-01-20T09:26:07Z",
+        "added": "2021-01-20T09:26:07Z"
     },
     {
         "id": "emoji_s15_futuresamurai",
@@ -7585,6 +7748,48 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S15_Lexa",
         "lastUpdate": "2020-12-08T19:08:39Z",
         "added": "2020-12-08T19:08:39Z"
+    },
+    {
+        "id": "emoji_s15_nightmare",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Plasma Caster Reticle",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s15_nightmare/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s15_nightmare/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.Season15.BattlePass.Paid.Additional"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S15_Nightmare",
+        "lastUpdate": "2021-01-13T09:40:21Z",
+        "added": "2021-01-13T09:40:21Z"
     },
     {
         "id": "emoji_s15_spacefighter",

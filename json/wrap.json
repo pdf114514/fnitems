@@ -13095,7 +13095,10 @@
                 "hash": "",
                 "url": "https://fortnite-api.com/images/cosmetics/br/wrap_312_confettilights/icon.png"
             },
-            "featured": null,
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_312_confettilights/featured.png"
+            },
             "background": null,
             "coverArt": null,
             "decal": null
@@ -13138,7 +13141,10 @@
                 "hash": "",
                 "url": "https://fortnite-api.com/images/cosmetics/br/wrap_313_metalflakes/icon.png"
             },
-            "featured": null,
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_313_metalflakes/featured.png"
+            },
             "background": null,
             "coverArt": null,
             "decal": null
@@ -13179,7 +13185,10 @@
                 "hash": "",
                 "url": "https://fortnite-api.com/images/cosmetics/br/wrap_314_neon/icon.png"
             },
-            "featured": null,
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_314_neon/featured.png"
+            },
             "background": null,
             "coverArt": null,
             "decal": null
@@ -13223,7 +13232,10 @@
                 "hash": "",
                 "url": "https://fortnite-api.com/images/cosmetics/br/wrap_315_neonxmassign/icon.png"
             },
-            "featured": null,
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_315_neonxmassign/featured.png"
+            },
             "background": null,
             "coverArt": null,
             "decal": null
@@ -13242,6 +13254,231 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_315_NeonXmasSign",
         "lastUpdate": "2020-12-15T11:25:12Z",
         "added": "2020-12-15T11:25:12Z"
+    },
+    {
+        "id": "wrap_316_combatdoll",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Hearts & Bullets",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": "Original Outlaws",
+        "setText": "Part of the Original Outlaws set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_316_combatdoll/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_316_combatdoll/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_316_combatdoll/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.InitialBandits"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_316_CombatDoll",
+        "lastUpdate": "2021-01-13T09:40:21Z",
+        "added": "2021-01-13T09:40:21Z"
+    },
+    {
+        "id": "wrap_317_groovysplash",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Far Out",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_317_groovysplash/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_317_groovysplash/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_317_groovysplash/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.UserFacingFlags.Wrap.Animated",
+            "Cosmetics.UserFacingFlags.Reactive.WeaponFire"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_317_GroovySplash",
+        "lastUpdate": "2021-01-13T09:40:21Z",
+        "added": "2021-01-13T09:40:21Z"
+    },
+    {
+        "id": "wrap_318_immiscible",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Warp Field",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_318_immiscible/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_318_immiscible/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_318_immiscible/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.UserFacingFlags.Wrap.Animated"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_318_Immiscible",
+        "lastUpdate": "2021-01-13T09:40:21Z",
+        "added": "2021-01-13T09:40:21Z"
+    },
+    {
+        "id": "wrap_319_nightmare_31a6d",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Hunter's Arsenal",
+        "shortDescription": "Wrap",
+        "description": "What's the matter? CIA got you pushing too many pencils?",
+        "set": "Jungle Hunter",
+        "setText": "Part of the Jungle Hunter set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_319_nightmare_31a6d/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_319_nightmare_31a6d/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.Season15.BattlePass.Paid.Additional",
+            "Cosmetics.Set.ForestTracker",
+            "Cosmetics.UserFacingFlags.Reactive.WeaponFire"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_319_Nightmare_31A6D",
+        "lastUpdate": "2021-01-20T09:26:07Z",
+        "added": "2021-01-20T09:26:07Z"
+    },
+    {
+        "id": "wrap_320_stars",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Starmapping",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": "Edge Factor",
+        "setText": "Part of the Edge Factor set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_320_stars/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_320_stars/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_320_stars/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.EndAspect",
+            "Cosmetics.UserFacingFlags.Wrap.Animated"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_320_Stars",
+        "lastUpdate": "2021-01-13T09:40:21Z",
+        "added": "2021-01-13T09:40:21Z"
     },
     {
         "id": "wrap_catburglargameplay",

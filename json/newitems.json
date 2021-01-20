@@ -1,0 +1,122 @@
+[
+   {
+      "name": "Punt!",
+      "description": "Leave your mark.",
+      "id": "SPID_243_AFL_Winter",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/SPID_243_AFL_Winter/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Hunter's Arsenal",
+      "description": "What's the matter? CIA got you pushing too many pencils?",
+      "id": "Wrap_319_Nightmare_31A6D",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Wrap_319_Nightmare_31A6D/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Trinity Impact",
+      "description": "Express yourself on the battlefield.",
+      "id": "Emoji_S15_FuturePink",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Emoji_S15_FuturePink/icon.png"
+         }
+      }
+   },
+   {
+      "name": "FNCS 2:5",
+      "description": "Champion Series CH2 - S5.",
+      "id": "Emoji_S15_FNCS",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Emoji_S15_FNCS/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Bio-helmet Online",
+      "description": "They'll never see you coming.",
+      "id": "EID_Nightmare_MS3AQ",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/EID_Nightmare_MS3AQ/icon.png"
+         }
+      }
+   },
+   {
+      "name": null,
+      "description": null,
+      "id": "EID_Nightmare_NPC_M6EXP",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/EID_Nightmare_NPC_M6EXP/icon.png"
+         }
+      }
+   },
+   {
+      "name": "FNCS 2:5",
+      "description": "Champion Series CH2 - S5.",
+      "id": "SPID_242_S15_FNCS",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/SPID_242_S15_FNCS/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Trinity Overload",
+      "description": "Express yourself on the battlefield.",
+      "id": "Emoji_S15_FuturePinkOrange",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Emoji_S15_FuturePinkOrange/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Hunter's Trophy",
+      "description": "Grim keepsake from a far-off world.",
+      "id": "BID_688_Nightmare_S85HI",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/BID_688_Nightmare_S85HI/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Predator",
+      "description": "The demon who makes trophies of men.",
+      "id": "CID_991_Athena_Commando_M_Nightmare_NM1C8",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/CID_991_Athena_Commando_M_Nightmare_NM1C8/icon.png"
+         }
+      }
+   },
+   {
+      "name": "The Hunt",
+      "description": "There's something in those trees.",
+      "id": "LSID_270_Nightmare_IZN91",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/LSID_270_Nightmare_IZN91/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Yautja Wristblades",
+      "description": "The most honorable way to take down one's prey.",
+      "id": "Pickaxe_ID_540_NightmareMale_7OSOH",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Pickaxe_ID_540_NightmareMale_7OSOH/icon.png"
+         }
+      }
+   }
+]
