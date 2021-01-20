@@ -924,7 +924,8 @@
         "gameplayTags": [
             "Cosmetics.Source.Season15.BattlePass.Paid",
             "Cosmetics.Filter.Season.15",
-            "Cosmetics.Set.ProcessNotebook"
+            "Cosmetics.Set.ProcessNotebook",
+            "Cosmetics.UserFacingFlags.BuiltInEmote"
         ],
         "displayAssetPath": null,
         "definition": null,

@@ -11482,7 +11482,7 @@
         "rarity": "starwars",
         "displayRarity": "Star Wars Series",
         "backendRarity": "EFortRarity::Uncommon",
-        "name": "The Gunslinger",
+        "name": "Mando",
         "shortDescription": "Loading Screen",
         "description": "Created by Matteo Scalera.",
         "set": null,
@@ -11648,6 +11648,93 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_269_Holiday2",
         "lastUpdate": "2020-12-15T11:25:12Z",
         "added": "2020-12-15T11:25:12Z"
+    },
+    {
+        "id": "lsid_270_nightmare_izn91",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "The Hunt",
+        "shortDescription": "Loading Screen",
+        "description": "There's something in those trees.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_270_nightmare_izn91/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_270_nightmare_izn91/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_270_nightmare_izn91/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.Season15.BattlePass.Paid.Additional"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_270_Nightmare_IZN91",
+        "lastUpdate": "2021-01-20T09:26:07Z",
+        "added": "2021-01-20T09:26:07Z"
+    },
+    {
+        "id": "lsid_271_fncs_s15_champaxe",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "The Axe of Destiny",
+        "shortDescription": "Loading Screen",
+        "description": "Champions only.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_271_fncs_s15_champaxe/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_271_fncs_s15_champaxe/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_271_fncs_s15_champaxe/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_271_FNCS_S15_ChampAxe",
+        "lastUpdate": "2021-01-13T09:40:21Z",
+        "added": "2021-01-13T09:40:21Z"
     },
     {
         "id": "lsid_defaultbg",

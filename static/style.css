@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "CustomFont";
+    src: url("/static/customfont.woff2") format("woff2");
+}
+
+body {
+    background-color: #222222;
+    color: #fff;
+    font-family: CustomFont, Consolas, 'Courier New', Courier, monospace;
+}
+
+#menu {
+    padding: 10px;
+    margin-bottom: 10px;
+    position: fixed;
+    background-color: rgba(237, 247, 255, 0.55);
+    margin-right: 10px;
+    border: 5px solid #ffdd50;
+    bottom:0;
+    right:0;
+}

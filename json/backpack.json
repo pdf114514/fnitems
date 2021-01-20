@@ -7127,7 +7127,8 @@
         "gameplayTags": [
             "Cosmetics.Source.ItemShop",
             "Cosmetics.Set.Moth",
-            "Cosmetics.Filter.Season.6"
+            "Cosmetics.Filter.Season.6",
+            "Cosmetics.Backpack.IsCape"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -12436,7 +12437,7 @@
                     },
                     {
                         "tag": "Mat21",
-                        "name": "HIDDEN ROLE",
+                        "name": "THE SPY WITHIN",
                         "image": {
                             "hash": "",
                             "url": "https://fortnite-api.com/images/cosmetics/br/bid_278_vigilanteboard/variants/material/mat21.png"
@@ -14278,7 +14279,8 @@
         "gameplayTags": [
             "Cosmetics.Set.FortniteFever",
             "Cosmetics.Source.Season10.BattlePass.Paid",
-            "Cosmetics.Filter.Season.10"
+            "Cosmetics.Filter.Season.10",
+            "Cosmetics.Backpack.IsCape"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -18749,6 +18751,14 @@
                             "hash": "",
                             "url": "https://fortnite-api.com/images/cosmetics/br/bid_408_weepingwoods/variants/parts/stage3.png"
                         }
+                    },
+                    {
+                        "tag": "Stage4",
+                        "name": "WINTER",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/bid_408_weepingwoods/variants/parts/stage4.png"
+                        }
                     }
                 ]
             }
@@ -19022,7 +19032,8 @@
         "gameplayTags": [
             "Cosmetics.Filter.Season.11",
             "Cosmetics.Source.ItemShop",
-            "Cosmetics.Set.TurningSolstice"
+            "Cosmetics.Set.TurningSolstice",
+            "Cosmetics.Backpack.IsCape"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -20862,7 +20873,7 @@
         "variants": null,
         "gameplayTags": [
             "Cosmetics.Set.BandageNinja",
-            "Cosmetics.Filter.Season.14"
+            "Cosmetics.Filter.Season.15"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -21182,7 +21193,8 @@
             "Cosmetics.Source.ItemShop",
             "Cosmetics.Filter.Season.12",
             "Cosmetics.Set.GoldScore",
-            "Phoebe.Cosmetic.Minus.Zone2"
+            "Phoebe.Cosmetic.Minus.Zone2",
+            "Cosmetics.Backpack.IsCape"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -25317,6 +25329,14 @@
                         "image": {
                             "hash": "",
                             "url": "https://fortnite-api.com/images/cosmetics/br/bid_542_foam/variants/material/mat2.png"
+                        }
+                    },
+                    {
+                        "tag": "Mat3",
+                        "name": "Orange",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/bid_542_foam/variants/material/mat3.png"
                         }
                     }
                 ]
@@ -30621,8 +30641,8 @@
         "variants": null,
         "gameplayTags": [
             "Cosmetics.Source.ItemShop",
-            "Cosmetics.Filter.Season.14",
-            "Cosmetics.Set.Stuffed"
+            "Cosmetics.Set.Stuffed",
+            "Cosmetics.Filter.Season.15"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -31859,8 +31879,8 @@
         "name": "Holly Jolly Hatchet",
         "shortDescription": "Back Bling",
         "description": "Honed for maximum cheer.",
-        "set": null,
-        "setText": null,
+        "set": "Cold Snap",
+        "setText": "Part of the Cold Snap set.",
         "series": null,
         "backendSeries": null,
         "images": {
@@ -31880,7 +31900,8 @@
         "variants": null,
         "gameplayTags": [
             "Cosmetics.Source.ItemShop",
-            "Cosmetics.Filter.Season.15"
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.CoolBreak"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -32552,6 +32573,213 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_686_TiramisuMale_1YMN4",
         "lastUpdate": "2020-12-21T18:12:33Z",
         "added": "2020-12-21T18:12:33Z"
+    },
+    {
+        "id": "bid_687_grilledcheese_c9fb6",
+        "type": "backpack",
+        "backendType": "AthenaBackpack",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Balls of Power",
+        "shortDescription": "Back Bling",
+        "description": "Powerful artifacts from another world.",
+        "set": "TheGrefg",
+        "setText": "Part of the TheGrefg set.",
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/bid_687_grilledcheese_c9fb6/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/bid_687_grilledcheese_c9fb6/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.Reactive",
+            "Cosmetics.Set.WarDefeat"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_687_GrilledCheese_C9FB6",
+        "lastUpdate": "2021-01-13T15:54:59Z",
+        "added": "2021-01-13T15:54:59Z"
+    },
+    {
+        "id": "bid_688_nightmare_s85hi",
+        "type": "backpack",
+        "backendType": "AthenaBackpack",
+        "rarity": "legendary",
+        "displayRarity": "Legendary",
+        "backendRarity": "EFortRarity::Legendary",
+        "name": "Hunter's Trophy",
+        "shortDescription": "Back Bling",
+        "description": "Grim keepsake from a far-off world.",
+        "set": "Jungle Hunter",
+        "setText": "Part of the Jungle Hunter set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/bid_688_nightmare_s85hi/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/bid_688_nightmare_s85hi/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.ForestTracker"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_688_Nightmare_S85HI",
+        "lastUpdate": "2021-01-20T09:26:07Z",
+        "added": "2021-01-20T09:26:07Z"
+    },
+    {
+        "id": "bid_691_lexamale",
+        "type": "backpack",
+        "backendType": "AthenaBackpack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Mechafusion Jumpkit",
+        "shortDescription": "Back Bling",
+        "description": "Even a little mechafusion goes a long way.",
+        "set": "Y-Labs Rescue",
+        "setText": "Part of the Y-Labs Rescue set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/bid_691_lexamale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/bid_691_lexamale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.LabSave"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_691_LexaMale",
+        "lastUpdate": "2021-01-13T09:40:21Z",
+        "added": "2021-01-13T09:40:21Z"
+    },
+    {
+        "id": "bid_695_streetfashioneclipse",
+        "type": "backpack",
+        "backendType": "AthenaBackpack",
+        "rarity": "shadow",
+        "displayRarity": "Shadow Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Blackout Bag",
+        "shortDescription": "Back Bling",
+        "description": "They'll never know what's up.",
+        "set": null,
+        "setText": null,
+        "series": "Shadow Series",
+        "backendSeries": "ShadowSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/bid_695_streetfashioneclipse/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/bid_695_streetfashioneclipse/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_695_StreetFashionEclipse",
+        "lastUpdate": "2021-01-13T09:40:21Z",
+        "added": "2021-01-13T09:40:21Z"
+    },
+    {
+        "id": "bid_696_combatdoll",
+        "type": "backpack",
+        "backendType": "AthenaBackpack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Prickly Heart",
+        "shortDescription": "Back Bling",
+        "description": "Cute and spiky.",
+        "set": "Original Outlaws",
+        "setText": "Part of the Original Outlaws set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/bid_696_combatdoll/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/bid_696_combatdoll/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.InitialBandits"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_696_CombatDoll",
+        "lastUpdate": "2021-01-13T09:40:21Z",
+        "added": "2021-01-13T09:40:21Z"
     },
     {
         "id": "bid_npc_hightowerdate",

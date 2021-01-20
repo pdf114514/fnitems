@@ -36825,6 +36825,14 @@
                             "hash": "",
                             "url": "https://fortnite-api.com/images/cosmetics/br/cid_611_athena_commando_m_weepingwoods/variants/parts/stage3.png"
                         }
+                    },
+                    {
+                        "tag": "Stage4",
+                        "name": "Winter Bushranger",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_611_athena_commando_m_weepingwoods/variants/parts/stage4.png"
+                        }
                     }
                 ]
             }
@@ -39517,8 +39525,8 @@
         },
         "variants": null,
         "gameplayTags": [
-            "Cosmetics.Filter.Season.14",
-            "Cosmetics.Set.BandageNinja"
+            "Cosmetics.Set.BandageNinja",
+            "Cosmetics.Filter.Season.15"
         ],
         "displayAssetPath": null,
         "definition": "hid_660_athena_commando_f_bandageninjablue",
@@ -58883,7 +58891,7 @@
         "rarity": "uncommon",
         "displayRarity": "Uncommon",
         "backendRarity": "EFortRarity::Uncommon",
-        "name": "Backscatter",
+        "name": "Trinity",
         "shortDescription": "Outfit",
         "description": "Never stand still, give as hard as you get.",
         "set": "Diffuse Force",
@@ -58907,11 +58915,35 @@
             "coverArt": null,
             "decal": null
         },
-        "variants": null,
+        "variants": [
+            {
+                "channel": "Material",
+                "type": "COLOR",
+                "options": [
+                    {
+                        "tag": "Mat1",
+                        "name": "DEFAULT",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_933_athena_commando_f_futurepink/variants/material/mat1.png"
+                        }
+                    },
+                    {
+                        "tag": "Mat2",
+                        "name": "ORANGE",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_933_athena_commando_f_futurepink/variants/material/mat2.png"
+                        }
+                    }
+                ]
+            }
+        ],
         "gameplayTags": [
             "Cosmetics.Source.ItemShop",
             "Cosmetics.Filter.Season.14",
-            "Cosmetics.Set.ThinGroup"
+            "Cosmetics.Set.ThinGroup",
+            "Cosmetics.UserFacingFlags.HasVariants"
         ],
         "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_CID_933_Athena_Commando_F_FuturePink",
         "definition": "hid_933_athena_commando_f_futurepink",
@@ -59093,8 +59125,8 @@
         "variants": null,
         "gameplayTags": [
             "Cosmetics.Source.ItemShop",
-            "Cosmetics.Filter.Season.14",
-            "Cosmetics.Set.Stuffed"
+            "Cosmetics.Set.Stuffed",
+            "Cosmetics.Filter.Season.15"
         ],
         "displayAssetPath": null,
         "definition": "hid_936_athena_commando_f_raidersilver",
@@ -66386,7 +66418,10 @@
                 "hash": "",
                 "url": "https://fortnite-api.com/images/cosmetics/br/cid_964_athena_commando_m_historian_869bc/icon.png"
             },
-            "featured": null,
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_964_athena_commando_m_historian_869bc/featured.png"
+            },
             "background": null,
             "coverArt": null,
             "decal": null
@@ -66981,7 +67016,10 @@
                 "hash": "",
                 "url": "https://fortnite-api.com/images/cosmetics/br/cid_971_athena_commando_m_jupiter_s0z6m/icon.png"
             },
-            "featured": null,
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_971_athena_commando_m_jupiter_s0z6m/featured.png"
+            },
             "background": null,
             "coverArt": null,
             "decal": null
@@ -67910,6 +67948,2600 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_988_Athena_Commando_M_Tiramisu_5KHZP",
         "lastUpdate": "2020-12-21T18:12:33Z",
         "added": "2020-12-21T18:12:33Z"
+    },
+    {
+        "id": "cid_990_athena_commando_m_grilledcheese_snx4k",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "TheGrefg",
+        "shortDescription": "Outfit",
+        "description": "And you thought he'd never get here.",
+        "set": "TheGrefg",
+        "setText": "Part of the TheGrefg set.",
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_990_athena_commando_m_grilledcheese_snx4k/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_990_athena_commando_m_grilledcheese_snx4k/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_990_athena_commando_m_grilledcheese_snx4k/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.Reactive",
+            "Cosmetics.Set.WarDefeat"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_990_athena_commando_m_grilledcheese",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_990_Athena_Commando_M_GrilledCheese_SNX4K",
+        "lastUpdate": "2021-01-13T15:54:59Z",
+        "added": "2021-01-13T15:54:59Z"
+    },
+    {
+        "id": "cid_991_athena_commando_m_nightmare_nm1c8",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "legendary",
+        "displayRarity": "Legendary",
+        "backendRarity": "EFortRarity::Legendary",
+        "name": "Predator",
+        "shortDescription": "Outfit",
+        "description": "The demon who makes trophies of men.",
+        "set": "Jungle Hunter",
+        "setText": "Part of the Jungle Hunter set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_991_athena_commando_m_nightmare_nm1c8/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_991_athena_commando_m_nightmare_nm1c8/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_991_athena_commando_m_nightmare_nm1c8/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Variant.ForceLoadAllParts",
+            "Cosmetics.Exclusives.Nightmare",
+            "Cosmetics.UserFacingFlags.BuiltInEmote",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.QuestsMetaData.Outfit.Nightmare",
+            "Cosmetics.Set.ForestTracker"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_991_athena_commando_m_nightmare",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_991_Athena_Commando_M_Nightmare_NM1C8",
+        "lastUpdate": "2021-01-20T09:26:07Z",
+        "added": "2021-01-20T09:26:07Z"
+    },
+    {
+        "id": "cid_994_athena_commando_m_lexa",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Orin",
+        "shortDescription": "Outfit",
+        "description": "On the hunt for his long lost twin.",
+        "set": "Y-Labs Rescue",
+        "setText": "Part of the Y-Labs Rescue set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_994_athena_commando_m_lexa/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_994_athena_commando_m_lexa/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_994_athena_commando_m_lexa/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.LabSave"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_994_athena_commando_m_lexa",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_994_Athena_Commando_M_Lexa",
+        "lastUpdate": "2021-01-13T09:40:21Z",
+        "added": "2021-01-13T09:40:21Z"
+    },
+    {
+        "id": "cid_995_athena_commando_m_globalfb_h5oij",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Midfield Master",
+        "shortDescription": "Outfit",
+        "description": "Take charge.",
+        "set": "Set_01",
+        "setText": "Part of the Set_01 set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Material",
+                "type": "TEAMS",
+                "options": [
+                    {
+                        "tag": "011",
+                        "name": "LOS ANGELES FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/011.png"
+                        }
+                    },
+                    {
+                        "tag": "001",
+                        "name": "MANCHESTER CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/001.png"
+                        }
+                    },
+                    {
+                        "tag": "002",
+                        "name": "AC MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/002.png"
+                        }
+                    },
+                    {
+                        "tag": "003",
+                        "name": "ATLANTA UNITED FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/003.png"
+                        }
+                    },
+                    {
+                        "tag": "004",
+                        "name": "BAHIA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/004.png"
+                        }
+                    },
+                    {
+                        "tag": "005",
+                        "name": "BORUSSIA M\u00d6NCHENGLADBACH",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/005.png"
+                        }
+                    },
+                    {
+                        "tag": "006",
+                        "name": "CELTIC FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/006.png"
+                        }
+                    },
+                    {
+                        "tag": "007",
+                        "name": "CEREZO OSAKA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/007.png"
+                        }
+                    },
+                    {
+                        "tag": "008",
+                        "name": "INTER MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/008.png"
+                        }
+                    },
+                    {
+                        "tag": "009",
+                        "name": "JUVENTUS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/009.png"
+                        }
+                    },
+                    {
+                        "tag": "010",
+                        "name": "SPORTING CP",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/010.png"
+                        }
+                    },
+                    {
+                        "tag": "012",
+                        "name": "MELBOURNE CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/012.png"
+                        }
+                    },
+                    {
+                        "tag": "014",
+                        "name": "RANGERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/014.png"
+                        }
+                    },
+                    {
+                        "tag": "015",
+                        "name": "AS ROMA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/015.png"
+                        }
+                    },
+                    {
+                        "tag": "016",
+                        "name": "SANTOS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/016.png"
+                        }
+                    },
+                    {
+                        "tag": "017",
+                        "name": "FC SCHALKE 04",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/017.png"
+                        }
+                    },
+                    {
+                        "tag": "018",
+                        "name": "SEATTLE SOUNDERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/018.png"
+                        }
+                    },
+                    {
+                        "tag": "019",
+                        "name": "SEVILLA FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/019.png"
+                        }
+                    },
+                    {
+                        "tag": "020",
+                        "name": "SYDNEY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/020.png"
+                        }
+                    },
+                    {
+                        "tag": "021",
+                        "name": "WEST HAM UNITED",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/021.png"
+                        }
+                    },
+                    {
+                        "tag": "022",
+                        "name": "WESTERN SYDNEY WANDERERS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/022.png"
+                        }
+                    },
+                    {
+                        "tag": "023",
+                        "name": "VFL WOLFSBURG",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/023.png"
+                        }
+                    },
+                    {
+                        "tag": "024",
+                        "name": "WOLVERHAMPTON WANDERERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_995_athena_commando_m_globalfb_h5oij/variants/material/024.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.EntryCurtain"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_995_athena_commando_m_globalfb",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_995_Athena_Commando_M_GlobalFB_H5OIJ",
+        "lastUpdate": "2021-01-19T18:45:28Z",
+        "added": "2021-01-19T18:45:28Z"
+    },
+    {
+        "id": "cid_996_athena_commando_m_globalfb_b_rved4",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Sgt. Sweeper",
+        "shortDescription": "Outfit",
+        "description": "Make the move.",
+        "set": "Set_01",
+        "setText": "Part of the Set_01 set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Material",
+                "type": "TEAMS",
+                "options": [
+                    {
+                        "tag": "010",
+                        "name": "SPORTING CP",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/010.png"
+                        }
+                    },
+                    {
+                        "tag": "001",
+                        "name": "MANCHESTER CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/001.png"
+                        }
+                    },
+                    {
+                        "tag": "002",
+                        "name": "AC MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/002.png"
+                        }
+                    },
+                    {
+                        "tag": "003",
+                        "name": "ATLANTA UNITED FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/003.png"
+                        }
+                    },
+                    {
+                        "tag": "004",
+                        "name": "BAHIA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/004.png"
+                        }
+                    },
+                    {
+                        "tag": "005",
+                        "name": "BORUSSIA M\u00d6NCHENGLADBACH",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/005.png"
+                        }
+                    },
+                    {
+                        "tag": "006",
+                        "name": "CELTIC FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/006.png"
+                        }
+                    },
+                    {
+                        "tag": "007",
+                        "name": "CEREZO OSAKA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/007.png"
+                        }
+                    },
+                    {
+                        "tag": "008",
+                        "name": "INTER MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/008.png"
+                        }
+                    },
+                    {
+                        "tag": "009",
+                        "name": "JUVENTUS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/009.png"
+                        }
+                    },
+                    {
+                        "tag": "011",
+                        "name": "LOS ANGELES FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/011.png"
+                        }
+                    },
+                    {
+                        "tag": "012",
+                        "name": "MELBOURNE CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/012.png"
+                        }
+                    },
+                    {
+                        "tag": "014",
+                        "name": "RANGERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/014.png"
+                        }
+                    },
+                    {
+                        "tag": "015",
+                        "name": "AS ROMA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/015.png"
+                        }
+                    },
+                    {
+                        "tag": "016",
+                        "name": "SANTOS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/016.png"
+                        }
+                    },
+                    {
+                        "tag": "017",
+                        "name": "FC SCHALKE 04",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/017.png"
+                        }
+                    },
+                    {
+                        "tag": "018",
+                        "name": "SEATTLE SOUNDERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/018.png"
+                        }
+                    },
+                    {
+                        "tag": "019",
+                        "name": "SEVILLA FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/019.png"
+                        }
+                    },
+                    {
+                        "tag": "020",
+                        "name": "SYDNEY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/020.png"
+                        }
+                    },
+                    {
+                        "tag": "021",
+                        "name": "WEST HAM UNITED",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/021.png"
+                        }
+                    },
+                    {
+                        "tag": "022",
+                        "name": "WESTERN SYDNEY WANDERERS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/022.png"
+                        }
+                    },
+                    {
+                        "tag": "023",
+                        "name": "VFL WOLFSBURG",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/023.png"
+                        }
+                    },
+                    {
+                        "tag": "024",
+                        "name": "WOLVERHAMPTON WANDERERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_996_athena_commando_m_globalfb_b_rved4/variants/material/024.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.EntryCurtain"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_996_athena_commando_m_globalfb_b",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_996_Athena_Commando_M_GlobalFB_B_RVED4",
+        "lastUpdate": "2021-01-19T18:45:28Z",
+        "added": "2021-01-19T18:45:28Z"
+    },
+    {
+        "id": "cid_997_athena_commando_m_globalfb_c_n6i4h",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Galactico",
+        "shortDescription": "Outfit",
+        "description": "The world will know your name.",
+        "set": "Set_01",
+        "setText": "Part of the Set_01 set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Material",
+                "type": "TEAMS",
+                "options": [
+                    {
+                        "tag": "012",
+                        "name": "MELBOURNE CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/012.png"
+                        }
+                    },
+                    {
+                        "tag": "001",
+                        "name": "MANCHESTER CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/001.png"
+                        }
+                    },
+                    {
+                        "tag": "002",
+                        "name": "AC MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/002.png"
+                        }
+                    },
+                    {
+                        "tag": "003",
+                        "name": "ATLANTA UNITED FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/003.png"
+                        }
+                    },
+                    {
+                        "tag": "004",
+                        "name": "BAHIA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/004.png"
+                        }
+                    },
+                    {
+                        "tag": "005",
+                        "name": "BORUSSIA M\u00d6NCHENGLADBACH",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/005.png"
+                        }
+                    },
+                    {
+                        "tag": "006",
+                        "name": "CELTIC FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/006.png"
+                        }
+                    },
+                    {
+                        "tag": "007",
+                        "name": "CEREZO OSAKA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/007.png"
+                        }
+                    },
+                    {
+                        "tag": "008",
+                        "name": "INTER MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/008.png"
+                        }
+                    },
+                    {
+                        "tag": "009",
+                        "name": "JUVENTUS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/009.png"
+                        }
+                    },
+                    {
+                        "tag": "010",
+                        "name": "SPORTING CP",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/010.png"
+                        }
+                    },
+                    {
+                        "tag": "011",
+                        "name": "LOS ANGELES FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/011.png"
+                        }
+                    },
+                    {
+                        "tag": "014",
+                        "name": "RANGERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/014.png"
+                        }
+                    },
+                    {
+                        "tag": "015",
+                        "name": "AS ROMA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/015.png"
+                        }
+                    },
+                    {
+                        "tag": "016",
+                        "name": "SANTOS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/016.png"
+                        }
+                    },
+                    {
+                        "tag": "017",
+                        "name": "FC SCHALKE 04",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/017.png"
+                        }
+                    },
+                    {
+                        "tag": "018",
+                        "name": "SEATTLE SOUNDERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/018.png"
+                        }
+                    },
+                    {
+                        "tag": "019",
+                        "name": "SEVILLA FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/019.png"
+                        }
+                    },
+                    {
+                        "tag": "020",
+                        "name": "SYDNEY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/020.png"
+                        }
+                    },
+                    {
+                        "tag": "021",
+                        "name": "WEST HAM UNITED",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/021.png"
+                        }
+                    },
+                    {
+                        "tag": "022",
+                        "name": "WESTERN SYDNEY WANDERERS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/022.png"
+                        }
+                    },
+                    {
+                        "tag": "023",
+                        "name": "VFL WOLFSBURG",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/023.png"
+                        }
+                    },
+                    {
+                        "tag": "024",
+                        "name": "WOLVERHAMPTON WANDERERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_997_athena_commando_m_globalfb_c_n6i4h/variants/material/024.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.EntryCurtain"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_997_athena_commando_m_globalfb_c",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_997_Athena_Commando_M_GlobalFB_C_N6I4H",
+        "lastUpdate": "2021-01-19T18:45:28Z",
+        "added": "2021-01-19T18:45:28Z"
+    },
+    {
+        "id": "cid_998_athena_commando_m_globalfb_d_utib8",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Power Poacher",
+        "shortDescription": "Outfit",
+        "description": "It's yours. Take it.",
+        "set": "Set_01",
+        "setText": "Part of the Set_01 set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Material",
+                "type": "TEAMS",
+                "options": [
+                    {
+                        "tag": "007",
+                        "name": "CEREZO OSAKA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/007.png"
+                        }
+                    },
+                    {
+                        "tag": "001",
+                        "name": "MANCHESTER CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/001.png"
+                        }
+                    },
+                    {
+                        "tag": "002",
+                        "name": "AC MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/002.png"
+                        }
+                    },
+                    {
+                        "tag": "003",
+                        "name": "ATLANTA UNITED FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/003.png"
+                        }
+                    },
+                    {
+                        "tag": "004",
+                        "name": "BAHIA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/004.png"
+                        }
+                    },
+                    {
+                        "tag": "005",
+                        "name": "BORUSSIA M\u00d6NCHENGLADBACH",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/005.png"
+                        }
+                    },
+                    {
+                        "tag": "006",
+                        "name": "CELTIC FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/006.png"
+                        }
+                    },
+                    {
+                        "tag": "008",
+                        "name": "INTER MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/008.png"
+                        }
+                    },
+                    {
+                        "tag": "009",
+                        "name": "JUVENTUS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/009.png"
+                        }
+                    },
+                    {
+                        "tag": "010",
+                        "name": "SPORTING CP",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/010.png"
+                        }
+                    },
+                    {
+                        "tag": "011",
+                        "name": "LOS ANGELES FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/011.png"
+                        }
+                    },
+                    {
+                        "tag": "012",
+                        "name": "MELBOURNE CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/012.png"
+                        }
+                    },
+                    {
+                        "tag": "014",
+                        "name": "RANGERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/014.png"
+                        }
+                    },
+                    {
+                        "tag": "015",
+                        "name": "AS ROMA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/015.png"
+                        }
+                    },
+                    {
+                        "tag": "016",
+                        "name": "SANTOS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/016.png"
+                        }
+                    },
+                    {
+                        "tag": "017",
+                        "name": "FC SCHALKE 04",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/017.png"
+                        }
+                    },
+                    {
+                        "tag": "018",
+                        "name": "SEATTLE SOUNDERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/018.png"
+                        }
+                    },
+                    {
+                        "tag": "019",
+                        "name": "SEVILLA FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/019.png"
+                        }
+                    },
+                    {
+                        "tag": "020",
+                        "name": "SYDNEY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/020.png"
+                        }
+                    },
+                    {
+                        "tag": "021",
+                        "name": "WEST HAM UNITED",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/021.png"
+                        }
+                    },
+                    {
+                        "tag": "022",
+                        "name": "WESTERN SYDNEY WANDERERS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/022.png"
+                        }
+                    },
+                    {
+                        "tag": "023",
+                        "name": "VFL WOLFSBURG",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/023.png"
+                        }
+                    },
+                    {
+                        "tag": "024",
+                        "name": "WOLVERHAMPTON WANDERERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_998_athena_commando_m_globalfb_d_utib8/variants/material/024.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.EntryCurtain"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_998_athena_commando_m_globalfb_d",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_998_Athena_Commando_M_GlobalFB_D_UTIB8",
+        "lastUpdate": "2021-01-19T18:45:28Z",
+        "added": "2021-01-19T18:45:28Z"
+    },
+    {
+        "id": "cid_999_athena_commando_m_globalfb_e_oisu6",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Breakaway",
+        "shortDescription": "Outfit",
+        "description": "Always be aggressive.",
+        "set": "Set_01",
+        "setText": "Part of the Set_01 set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Material",
+                "type": "TEAMS",
+                "options": [
+                    {
+                        "tag": "001",
+                        "name": "MANCHESTER CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/001.png"
+                        }
+                    },
+                    {
+                        "tag": "002",
+                        "name": "AC MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/002.png"
+                        }
+                    },
+                    {
+                        "tag": "003",
+                        "name": "ATLANTA UNITED FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/003.png"
+                        }
+                    },
+                    {
+                        "tag": "004",
+                        "name": "BAHIA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/004.png"
+                        }
+                    },
+                    {
+                        "tag": "005",
+                        "name": "BORUSSIA M\u00d6NCHENGLADBACH",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/005.png"
+                        }
+                    },
+                    {
+                        "tag": "006",
+                        "name": "CELTIC FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/006.png"
+                        }
+                    },
+                    {
+                        "tag": "007",
+                        "name": "CEREZO OSAKA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/007.png"
+                        }
+                    },
+                    {
+                        "tag": "008",
+                        "name": "INTER MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/008.png"
+                        }
+                    },
+                    {
+                        "tag": "009",
+                        "name": "JUVENTUS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/009.png"
+                        }
+                    },
+                    {
+                        "tag": "010",
+                        "name": "SPORTING CP",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/010.png"
+                        }
+                    },
+                    {
+                        "tag": "011",
+                        "name": "LOS ANGELES FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/011.png"
+                        }
+                    },
+                    {
+                        "tag": "012",
+                        "name": "MELBOURNE CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/012.png"
+                        }
+                    },
+                    {
+                        "tag": "014",
+                        "name": "RANGERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/014.png"
+                        }
+                    },
+                    {
+                        "tag": "015",
+                        "name": "AS ROMA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/015.png"
+                        }
+                    },
+                    {
+                        "tag": "016",
+                        "name": "SANTOS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/016.png"
+                        }
+                    },
+                    {
+                        "tag": "017",
+                        "name": "FC SCHALKE 04",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/017.png"
+                        }
+                    },
+                    {
+                        "tag": "018",
+                        "name": "SEATTLE SOUNDERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/018.png"
+                        }
+                    },
+                    {
+                        "tag": "019",
+                        "name": "SEVILLA FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/019.png"
+                        }
+                    },
+                    {
+                        "tag": "020",
+                        "name": "SYDNEY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/020.png"
+                        }
+                    },
+                    {
+                        "tag": "021",
+                        "name": "WEST HAM UNITED",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/021.png"
+                        }
+                    },
+                    {
+                        "tag": "022",
+                        "name": "WESTERN SYDNEY WANDERERS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/022.png"
+                        }
+                    },
+                    {
+                        "tag": "023",
+                        "name": "VFL WOLFSBURG",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/023.png"
+                        }
+                    },
+                    {
+                        "tag": "024",
+                        "name": "WOLVERHAMPTON WANDERERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_999_athena_commando_m_globalfb_e_oisu6/variants/material/024.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.EntryCurtain"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_999_athena_commando_m_globalfb_e",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_999_Athena_Commando_M_GlobalFB_E_OISU6",
+        "lastUpdate": "2021-01-19T18:45:28Z",
+        "added": "2021-01-19T18:45:28Z"
+    },
+    {
+        "id": "cid_a_001_athena_commando_f_globalfb_hdl2w",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Striker Specialist",
+        "shortDescription": "Outfit",
+        "description": "Bring it home.",
+        "set": "Set_01",
+        "setText": "Part of the Set_01 set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Material",
+                "type": "TEAMS",
+                "options": [
+                    {
+                        "tag": "009",
+                        "name": "JUVENTUS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/009.png"
+                        }
+                    },
+                    {
+                        "tag": "001",
+                        "name": "MANCHESTER CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/001.png"
+                        }
+                    },
+                    {
+                        "tag": "002",
+                        "name": "AC MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/002.png"
+                        }
+                    },
+                    {
+                        "tag": "003",
+                        "name": "ATLANTA UNITED FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/003.png"
+                        }
+                    },
+                    {
+                        "tag": "004",
+                        "name": "BAHIA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/004.png"
+                        }
+                    },
+                    {
+                        "tag": "005",
+                        "name": "BORUSSIA M\u00d6NCHENGLADBACH",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/005.png"
+                        }
+                    },
+                    {
+                        "tag": "006",
+                        "name": "CELTIC FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/006.png"
+                        }
+                    },
+                    {
+                        "tag": "007",
+                        "name": "CEREZO OSAKA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/007.png"
+                        }
+                    },
+                    {
+                        "tag": "008",
+                        "name": "INTER MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/008.png"
+                        }
+                    },
+                    {
+                        "tag": "010",
+                        "name": "SPORTING CP",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/010.png"
+                        }
+                    },
+                    {
+                        "tag": "011",
+                        "name": "LOS ANGELES FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/011.png"
+                        }
+                    },
+                    {
+                        "tag": "012",
+                        "name": "MELBOURNE CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/012.png"
+                        }
+                    },
+                    {
+                        "tag": "014",
+                        "name": "RANGERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/014.png"
+                        }
+                    },
+                    {
+                        "tag": "015",
+                        "name": "AS ROMA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/015.png"
+                        }
+                    },
+                    {
+                        "tag": "016",
+                        "name": "SANTOS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/016.png"
+                        }
+                    },
+                    {
+                        "tag": "017",
+                        "name": "FC SCHALKE 04",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/017.png"
+                        }
+                    },
+                    {
+                        "tag": "018",
+                        "name": "SEATTLE SOUNDERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/018.png"
+                        }
+                    },
+                    {
+                        "tag": "019",
+                        "name": "SEVILLA FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/019.png"
+                        }
+                    },
+                    {
+                        "tag": "020",
+                        "name": "SYDNEY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/020.png"
+                        }
+                    },
+                    {
+                        "tag": "021",
+                        "name": "WEST HAM UNITED",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/021.png"
+                        }
+                    },
+                    {
+                        "tag": "022",
+                        "name": "WESTERN SYDNEY WANDERERS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/022.png"
+                        }
+                    },
+                    {
+                        "tag": "023",
+                        "name": "VFL WOLFSBURG",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/023.png"
+                        }
+                    },
+                    {
+                        "tag": "024",
+                        "name": "WOLVERHAMPTON WANDERERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_f_globalfb_hdl2w/variants/material/024.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.EntryCurtain"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_001_athena_commando_f_globalfb",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_001_Athena_Commando_F_GlobalFB_HDL2W",
+        "lastUpdate": "2021-01-19T18:45:28Z",
+        "added": "2021-01-19T18:45:28Z"
+    },
+    {
+        "id": "cid_a_002_athena_commando_f_globalfb_b_0ch64",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Shot Stopper",
+        "shortDescription": "Outfit",
+        "description": "Nothing gets by you.",
+        "set": "Set_01",
+        "setText": "Part of the Set_01 set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Material",
+                "type": "TEAMS",
+                "options": [
+                    {
+                        "tag": "017",
+                        "name": "FC SCHALKE 04",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/017.png"
+                        }
+                    },
+                    {
+                        "tag": "001",
+                        "name": "MANCHESTER CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/001.png"
+                        }
+                    },
+                    {
+                        "tag": "002",
+                        "name": "AC MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/002.png"
+                        }
+                    },
+                    {
+                        "tag": "003",
+                        "name": "ATLANTA UNITED FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/003.png"
+                        }
+                    },
+                    {
+                        "tag": "004",
+                        "name": "BAHIA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/004.png"
+                        }
+                    },
+                    {
+                        "tag": "005",
+                        "name": "BORUSSIA M\u00d6NCHENGLADBACH",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/005.png"
+                        }
+                    },
+                    {
+                        "tag": "006",
+                        "name": "CELTIC FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/006.png"
+                        }
+                    },
+                    {
+                        "tag": "007",
+                        "name": "CEREZO OSAKA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/007.png"
+                        }
+                    },
+                    {
+                        "tag": "008",
+                        "name": "INTER MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/008.png"
+                        }
+                    },
+                    {
+                        "tag": "009",
+                        "name": "JUVENTUS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/009.png"
+                        }
+                    },
+                    {
+                        "tag": "010",
+                        "name": "SPORTING CP",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/010.png"
+                        }
+                    },
+                    {
+                        "tag": "011",
+                        "name": "LOS ANGELES FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/011.png"
+                        }
+                    },
+                    {
+                        "tag": "012",
+                        "name": "MELBOURNE CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/012.png"
+                        }
+                    },
+                    {
+                        "tag": "014",
+                        "name": "RANGERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/014.png"
+                        }
+                    },
+                    {
+                        "tag": "015",
+                        "name": "AS ROMA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/015.png"
+                        }
+                    },
+                    {
+                        "tag": "016",
+                        "name": "SANTOS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/016.png"
+                        }
+                    },
+                    {
+                        "tag": "018",
+                        "name": "SEATTLE SOUNDERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/018.png"
+                        }
+                    },
+                    {
+                        "tag": "019",
+                        "name": "SEVILLA FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/019.png"
+                        }
+                    },
+                    {
+                        "tag": "020",
+                        "name": "SYDNEY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/020.png"
+                        }
+                    },
+                    {
+                        "tag": "021",
+                        "name": "WEST HAM UNITED",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/021.png"
+                        }
+                    },
+                    {
+                        "tag": "022",
+                        "name": "WESTERN SYDNEY WANDERERS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/022.png"
+                        }
+                    },
+                    {
+                        "tag": "023",
+                        "name": "VFL WOLFSBURG",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/023.png"
+                        }
+                    },
+                    {
+                        "tag": "024",
+                        "name": "WOLVERHAMPTON WANDERERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f_globalfb_b_0ch64/variants/material/024.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.EntryCurtain"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_002_athena_commando_f_globalfb_b",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_002_Athena_Commando_F_GlobalFB_B_0CH64",
+        "lastUpdate": "2021-01-19T18:45:28Z",
+        "added": "2021-01-19T18:45:28Z"
+    },
+    {
+        "id": "cid_a_003_athena_commando_f_globalfb_c_j4h5j",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Derby Dominator",
+        "shortDescription": "Outfit",
+        "description": "Leave your rivals in the dust.",
+        "set": "Set_01",
+        "setText": "Part of the Set_01 set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Material",
+                "type": "TEAMS",
+                "options": [
+                    {
+                        "tag": "019",
+                        "name": "SEVILLA FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/019.png"
+                        }
+                    },
+                    {
+                        "tag": "001",
+                        "name": "MANCHESTER CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/001.png"
+                        }
+                    },
+                    {
+                        "tag": "002",
+                        "name": "AC MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/002.png"
+                        }
+                    },
+                    {
+                        "tag": "003",
+                        "name": "ATLANTA UNITED FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/003.png"
+                        }
+                    },
+                    {
+                        "tag": "004",
+                        "name": "BAHIA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/004.png"
+                        }
+                    },
+                    {
+                        "tag": "005",
+                        "name": "BORUSSIA M\u00d6NCHENGLADBACH",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/005.png"
+                        }
+                    },
+                    {
+                        "tag": "006",
+                        "name": "CELTIC FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/006.png"
+                        }
+                    },
+                    {
+                        "tag": "007",
+                        "name": "CEREZO OSAKA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/007.png"
+                        }
+                    },
+                    {
+                        "tag": "008",
+                        "name": "INTER MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/008.png"
+                        }
+                    },
+                    {
+                        "tag": "009",
+                        "name": "JUVENTUS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/009.png"
+                        }
+                    },
+                    {
+                        "tag": "010",
+                        "name": "SPORTING CP",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/010.png"
+                        }
+                    },
+                    {
+                        "tag": "011",
+                        "name": "LOS ANGELES FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/011.png"
+                        }
+                    },
+                    {
+                        "tag": "012",
+                        "name": "MELBOURNE CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/012.png"
+                        }
+                    },
+                    {
+                        "tag": "014",
+                        "name": "RANGERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/014.png"
+                        }
+                    },
+                    {
+                        "tag": "015",
+                        "name": "AS ROMA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/015.png"
+                        }
+                    },
+                    {
+                        "tag": "016",
+                        "name": "SANTOS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/016.png"
+                        }
+                    },
+                    {
+                        "tag": "017",
+                        "name": "FC SCHALKE 04",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/017.png"
+                        }
+                    },
+                    {
+                        "tag": "018",
+                        "name": "SEATTLE SOUNDERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/018.png"
+                        }
+                    },
+                    {
+                        "tag": "020",
+                        "name": "SYDNEY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/020.png"
+                        }
+                    },
+                    {
+                        "tag": "021",
+                        "name": "WEST HAM UNITED",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/021.png"
+                        }
+                    },
+                    {
+                        "tag": "022",
+                        "name": "WESTERN SYDNEY WANDERERS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/022.png"
+                        }
+                    },
+                    {
+                        "tag": "023",
+                        "name": "VFL WOLFSBURG",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/023.png"
+                        }
+                    },
+                    {
+                        "tag": "024",
+                        "name": "WOLVERHAMPTON WANDERERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_003_athena_commando_f_globalfb_c_j4h5j/variants/material/024.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.EntryCurtain"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_003_athena_commando_f_globalfb_c",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_003_Athena_Commando_F_GlobalFB_C_J4H5J",
+        "lastUpdate": "2021-01-19T18:45:28Z",
+        "added": "2021-01-19T18:45:28Z"
+    },
+    {
+        "id": "cid_a_004_athena_commando_f_globalfb_d_62oz5",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Tiki Tackler",
+        "shortDescription": "Outfit",
+        "description": "Teamwork works.",
+        "set": "Set_01",
+        "setText": "Part of the Set_01 set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Material",
+                "type": "TEAMS",
+                "options": [
+                    {
+                        "tag": "002",
+                        "name": "AC MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/002.png"
+                        }
+                    },
+                    {
+                        "tag": "001",
+                        "name": "MANCHESTER CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/001.png"
+                        }
+                    },
+                    {
+                        "tag": "003",
+                        "name": "ATLANTA UNITED FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/003.png"
+                        }
+                    },
+                    {
+                        "tag": "004",
+                        "name": "BAHIA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/004.png"
+                        }
+                    },
+                    {
+                        "tag": "005",
+                        "name": "BORUSSIA M\u00d6NCHENGLADBACH",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/005.png"
+                        }
+                    },
+                    {
+                        "tag": "006",
+                        "name": "CELTIC FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/006.png"
+                        }
+                    },
+                    {
+                        "tag": "007",
+                        "name": "CEREZO OSAKA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/007.png"
+                        }
+                    },
+                    {
+                        "tag": "008",
+                        "name": "INTER MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/008.png"
+                        }
+                    },
+                    {
+                        "tag": "009",
+                        "name": "JUVENTUS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/009.png"
+                        }
+                    },
+                    {
+                        "tag": "010",
+                        "name": "SPORTING CP",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/010.png"
+                        }
+                    },
+                    {
+                        "tag": "011",
+                        "name": "LOS ANGELES FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/011.png"
+                        }
+                    },
+                    {
+                        "tag": "012",
+                        "name": "MELBOURNE CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/012.png"
+                        }
+                    },
+                    {
+                        "tag": "014",
+                        "name": "RANGERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/014.png"
+                        }
+                    },
+                    {
+                        "tag": "015",
+                        "name": "AS ROMA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/015.png"
+                        }
+                    },
+                    {
+                        "tag": "016",
+                        "name": "SANTOS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/016.png"
+                        }
+                    },
+                    {
+                        "tag": "017",
+                        "name": "FC SCHALKE 04",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/017.png"
+                        }
+                    },
+                    {
+                        "tag": "018",
+                        "name": "SEATTLE SOUNDERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/018.png"
+                        }
+                    },
+                    {
+                        "tag": "019",
+                        "name": "SEVILLA FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/019.png"
+                        }
+                    },
+                    {
+                        "tag": "020",
+                        "name": "SYDNEY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/020.png"
+                        }
+                    },
+                    {
+                        "tag": "021",
+                        "name": "WEST HAM UNITED",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/021.png"
+                        }
+                    },
+                    {
+                        "tag": "022",
+                        "name": "WESTERN SYDNEY WANDERERS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/022.png"
+                        }
+                    },
+                    {
+                        "tag": "023",
+                        "name": "VFL WOLFSBURG",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/023.png"
+                        }
+                    },
+                    {
+                        "tag": "024",
+                        "name": "WOLVERHAMPTON WANDERERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_004_athena_commando_f_globalfb_d_62oz5/variants/material/024.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.EntryCurtain"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_004_athena_commando_f_globalfb_d",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_004_Athena_Commando_F_GlobalFB_D_62OZ5",
+        "lastUpdate": "2021-01-19T18:45:28Z",
+        "added": "2021-01-19T18:45:28Z"
+    },
+    {
+        "id": "cid_a_005_athena_commando_f_globalfb_e_gth5i",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Pitch Patroller",
+        "shortDescription": "Outfit",
+        "description": "When you're the best, it shows.",
+        "set": "Set_01",
+        "setText": "Part of the Set_01 set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Material",
+                "type": "TEAMS",
+                "options": [
+                    {
+                        "tag": "016",
+                        "name": "SANTOS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/016.png"
+                        }
+                    },
+                    {
+                        "tag": "001",
+                        "name": "MANCHESTER CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/001.png"
+                        }
+                    },
+                    {
+                        "tag": "002",
+                        "name": "AC MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/002.png"
+                        }
+                    },
+                    {
+                        "tag": "003",
+                        "name": "ATLANTA UNITED FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/003.png"
+                        }
+                    },
+                    {
+                        "tag": "004",
+                        "name": "BAHIA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/004.png"
+                        }
+                    },
+                    {
+                        "tag": "005",
+                        "name": "BORUSSIA M\u00d6NCHENGLADBACH",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/005.png"
+                        }
+                    },
+                    {
+                        "tag": "006",
+                        "name": "CELTIC FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/006.png"
+                        }
+                    },
+                    {
+                        "tag": "007",
+                        "name": "CEREZO OSAKA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/007.png"
+                        }
+                    },
+                    {
+                        "tag": "008",
+                        "name": "INTER MILAN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/008.png"
+                        }
+                    },
+                    {
+                        "tag": "009",
+                        "name": "JUVENTUS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/009.png"
+                        }
+                    },
+                    {
+                        "tag": "010",
+                        "name": "SPORTING CP",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/010.png"
+                        }
+                    },
+                    {
+                        "tag": "011",
+                        "name": "LOS ANGELES FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/011.png"
+                        }
+                    },
+                    {
+                        "tag": "012",
+                        "name": "MELBOURNE CITY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/012.png"
+                        }
+                    },
+                    {
+                        "tag": "014",
+                        "name": "RANGERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/014.png"
+                        }
+                    },
+                    {
+                        "tag": "015",
+                        "name": "AS ROMA",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/015.png"
+                        }
+                    },
+                    {
+                        "tag": "017",
+                        "name": "FC SCHALKE 04",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/017.png"
+                        }
+                    },
+                    {
+                        "tag": "018",
+                        "name": "SEATTLE SOUNDERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/018.png"
+                        }
+                    },
+                    {
+                        "tag": "019",
+                        "name": "SEVILLA FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/019.png"
+                        }
+                    },
+                    {
+                        "tag": "020",
+                        "name": "SYDNEY FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/020.png"
+                        }
+                    },
+                    {
+                        "tag": "021",
+                        "name": "WEST HAM UNITED",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/021.png"
+                        }
+                    },
+                    {
+                        "tag": "022",
+                        "name": "WESTERN SYDNEY WANDERERS",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/022.png"
+                        }
+                    },
+                    {
+                        "tag": "023",
+                        "name": "VFL WOLFSBURG",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/023.png"
+                        }
+                    },
+                    {
+                        "tag": "024",
+                        "name": "WOLVERHAMPTON WANDERERS FC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_005_athena_commando_f_globalfb_e_gth5i/variants/material/024.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.EntryCurtain"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_005_athena_commando_f_globalfb_e",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_005_Athena_Commando_F_GlobalFB_E_GTH5I",
+        "lastUpdate": "2021-01-19T18:45:28Z",
+        "added": "2021-01-19T18:45:28Z"
+    },
+    {
+        "id": "cid_a_007_athena_commando_f_streetfashioneclipse",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "shadow",
+        "displayRarity": "Shadow Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Ruby Shadows",
+        "shortDescription": "Outfit",
+        "description": "Sometimes you gotta go dark.",
+        "set": null,
+        "setText": null,
+        "series": "Shadow Series",
+        "backendSeries": "ShadowSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_007_athena_commando_f_streetfashioneclipse/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_007_athena_commando_f_streetfashioneclipse/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_007_athena_commando_f_streetfashioneclipse",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_007_Athena_Commando_F_StreetFashionEclipse",
+        "lastUpdate": "2021-01-13T09:40:21Z",
+        "added": "2021-01-13T09:40:21Z"
+    },
+    {
+        "id": "cid_a_008_athena_commando_f_combatdoll",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Tess",
+        "shortDescription": "Outfit",
+        "description": "Your best friend or your worst enemy.",
+        "set": "Original Outlaws",
+        "setText": "Part of the Original Outlaws set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_008_athena_commando_f_combatdoll/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_008_athena_commando_f_combatdoll/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_008_athena_commando_f_combatdoll/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.InitialBandits"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_008_athena_commando_f_combatdoll",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_008_Athena_Commando_F_CombatDoll",
+        "lastUpdate": "2021-01-13T09:40:21Z",
+        "added": "2021-01-13T09:40:21Z"
     },
     {
         "id": "cid_npc_athena_commando_f_henchmanspydark",
@@ -68913,7 +71545,7 @@
         "rarity": "epic",
         "displayRarity": "Epic",
         "backendRarity": "EFortRarity::Epic",
-        "name": "I.O. Trooper",
+        "name": "IO Trooper",
         "shortDescription": "Outfit",
         "description": "Elite commando from the Imagined Order.",
         "set": null,

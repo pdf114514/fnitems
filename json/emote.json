@@ -3495,7 +3495,7 @@
         "rarity": "starwars",
         "displayRarity": "Star Wars Series",
         "backendRarity": "EFortRarity::Epic",
-        "name": "Hover Pram Control",
+        "name": "Hover-Pram Control",
         "shortDescription": "Emote",
         "description": "Keep him close.",
         "set": null,
@@ -6981,6 +6981,49 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_GothDance",
         "lastUpdate": "2019-11-20T12:49:44Z",
         "added": "2019-11-20T12:49:44Z"
+    },
+    {
+        "id": "eid_grilledcheese_n31c9",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Controller Crew",
+        "shortDescription": "Emote",
+        "description": "Two sticks. One heart.",
+        "set": "TheGrefg",
+        "setText": "Part of the TheGrefg set.",
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_grilledcheese_n31c9/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_grilledcheese_n31c9/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.WarDefeat"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_GrilledCheese_N31C9",
+        "lastUpdate": "2021-01-13T15:54:59Z",
+        "added": "2021-01-13T15:54:59Z"
     },
     {
         "id": "eid_groovejam",
@@ -12356,6 +12399,92 @@
         "added": "2020-03-31T06:11:29Z"
     },
     {
+        "id": "eid_nightmare_ms3aq",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "legendary",
+        "displayRarity": "Legendary",
+        "backendRarity": "EFortRarity::Legendary",
+        "name": "Bio-helmet Online",
+        "shortDescription": "Emote",
+        "description": "They'll never see you coming.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_nightmare_ms3aq/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_nightmare_ms3aq/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Emote.ActivationTrigger.RemoveDisguise",
+            "Cosmetics.UserFacingFlags.BuiltInEmote",
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Nightmare_MS3AQ",
+        "lastUpdate": "2021-01-20T09:26:07Z",
+        "added": "2021-01-20T09:26:07Z"
+    },
+    {
+        "id": "eid_nightmare_npc_m6exp",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "null",
+        "shortDescription": "Emote",
+        "description": "null",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_nightmare_npc_m6exp/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_nightmare_npc_m6exp/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Emote.ActivationTrigger.RemoveDisguise",
+            "Cosmetics.UserFacingFlags.BuiltInEmote"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Nightmare_NPC_M6EXP",
+        "lastUpdate": "2021-01-20T09:26:07Z",
+        "added": "2021-01-20T09:26:07Z"
+    },
+    {
         "id": "eid_nodheadpapayacomms",
         "type": "emote",
         "backendType": "AthenaDance",
@@ -15025,8 +15154,8 @@
         "gameplayTags": [
             "Cosmetics.EmoteType.Dance",
             "Cosmetics.Source.ItemShop",
-            "Cosmetics.Filter.Season.12",
-            "Cosmetics.UserFacingFlags.Synced"
+            "Cosmetics.UserFacingFlags.Synced",
+            "Cosmetics.Filter.Season.15"
         ],
         "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_EID_SecretHandshake",
         "definition": null,
@@ -15067,7 +15196,8 @@
         "variants": null,
         "gameplayTags": [
             "Cosmetics.EmoteType.Dance",
-            "Cosmetics.Source.ItemShop"
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -15108,7 +15238,8 @@
         "variants": null,
         "gameplayTags": [
             "Cosmetics.EmoteType.Dance",
-            "Cosmetics.Source.ItemShop"
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -15149,7 +15280,8 @@
         "variants": null,
         "gameplayTags": [
             "Cosmetics.EmoteType.Dance",
-            "Cosmetics.Source.ItemShop"
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -15190,7 +15322,8 @@
         "variants": null,
         "gameplayTags": [
             "Cosmetics.EmoteType.Dance",
-            "Cosmetics.Source.ItemShop"
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -16144,6 +16277,49 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_SoccerJuggling",
         "lastUpdate": "2019-11-20T12:49:42Z",
         "added": "2019-11-20T12:49:42Z"
+    },
+    {
+        "id": "eid_soccertraversal",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Fancy Footwork",
+        "shortDescription": "Emote",
+        "description": "Keep 'em guessing all the way to the goal.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_soccertraversal/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_soccertraversal/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.Emote.Traversal"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_SoccerTraversal",
+        "lastUpdate": "2021-01-13T09:40:21Z",
+        "added": "2021-01-13T09:40:21Z"
     },
     {
         "id": "eid_somethingstinks",

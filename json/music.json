@@ -3271,6 +3271,49 @@
         "added": "2020-12-15T11:25:12Z"
     },
     {
+        "id": "musicpack_074_planetaryvibe",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Orbital Overload",
+        "shortDescription": "Music",
+        "description": "Press play and rise up above.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_074_planetaryvibe/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_074_planetaryvibe/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_074_planetaryvibe/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_074_PlanetaryVibe",
+        "lastUpdate": "2021-01-13T09:40:21Z",
+        "added": "2021-01-13T09:40:21Z"
+    },
+    {
         "id": "musicpack_random",
         "type": "music",
         "backendType": "AthenaMusicPack",
