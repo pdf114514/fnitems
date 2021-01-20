@@ -44,6 +44,7 @@ async def mainloop(session: ClientSession):
                     'name':item['name'],
                     'description':item['description'],
                     'id':item['id'],
+                    'rarity':item['rarity'].lower(),
                     'images':{
                         'icon':{
                             'url':item['icons']['icon']
@@ -56,6 +57,7 @@ async def mainloop(session: ClientSession):
                     'name':_avatars[avatarid],
                     'description':'',
                     'id':avatarid,
+                    'rarity':'common',
                     'images':{
                         'icon':{
                             'url':f'https://cdn2.unrealengine.com/Kairos/portraits/{avatarid}.png?preview=1'
