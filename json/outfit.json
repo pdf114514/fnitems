@@ -19175,7 +19175,10 @@
                 "hash": "",
                 "url": "https://fortnite-api.com/images/cosmetics/br/cid_287_athena_commando_m_arcticsniper/icon.png"
             },
-            "featured": null,
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_287_athena_commando_m_arcticsniper/featured.png"
+            },
             "background": null,
             "coverArt": null,
             "decal": null
@@ -21535,11 +21538,35 @@
             "coverArt": null,
             "decal": null
         },
-        "variants": null,
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "DEFAULT",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_334_athena_commando_m_scrapyard/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "CATBASH",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_334_athena_commando_m_scrapyard/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
         "gameplayTags": [
             "Cosmetics.Source.ItemShop",
             "Cosmetics.Set.Scrapyard",
-            "Cosmetics.Filter.Season.7"
+            "Cosmetics.Filter.Season.7",
+            "Cosmetics.UserFacingFlags.HasVariants"
         ],
         "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_CID_334_Athena_Commando_M_Scrapyard",
         "definition": "hid_334_athena_commando_m_scrapyard",
@@ -21580,11 +21607,35 @@
             "coverArt": null,
             "decal": null
         },
-        "variants": null,
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "DEFAULT",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_335_athena_commando_f_scrapyard/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "INK",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_335_athena_commando_f_scrapyard/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
         "gameplayTags": [
             "Cosmetics.Source.ItemShop",
             "Cosmetics.Set.Scrapyard",
-            "Cosmetics.Filter.Season.7"
+            "Cosmetics.Filter.Season.7",
+            "Cosmetics.UserFacingFlags.HasVariants"
         ],
         "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_CID_335_Athena_Commando_F_Scrapyard",
         "definition": "hid_335_athena_commando_f_scrapyard",
@@ -22290,7 +22341,10 @@
                 "hash": "",
                 "url": "https://fortnite-api.com/images/cosmetics/br/cid_347_athena_commando_m_pirateprogressive/icon.png"
             },
-            "featured": null,
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_347_athena_commando_m_pirateprogressive/featured.png"
+            },
             "background": null,
             "coverArt": null,
             "decal": null
@@ -33301,10 +33355,34 @@
             "coverArt": null,
             "decal": null
         },
-        "variants": null,
+        "variants": [
+            {
+                "channel": "Material",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Mat1",
+                        "name": "DEFAULT",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_545_athena_commando_f_sushininja/variants/material/mat1.png"
+                        }
+                    },
+                    {
+                        "tag": "Mat2",
+                        "name": "BLUE JADE",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_545_athena_commando_f_sushininja/variants/material/mat2.png"
+                        }
+                    }
+                ]
+            }
+        ],
         "gameplayTags": [
             "Cosmetics.Source.ItemShop",
-            "Cosmetics.Filter.Season.10"
+            "Cosmetics.Filter.Season.10",
+            "Cosmetics.UserFacingFlags.HasVariants"
         ],
         "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_CID_545_Athena_Commando_F_SushiNinja",
         "definition": "hid_545_athena_commando_f_sushininja",
@@ -35437,6 +35515,22 @@
                             "hash": "",
                             "url": "https://fortnite-api.com/images/cosmetics/br/cid_586_athena_commando_f_punkdevil/variants/parts/stage2.png"
                         }
+                    },
+                    {
+                        "tag": "Stage3",
+                        "name": "Auric Haze",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_586_athena_commando_f_punkdevil/variants/parts/stage3.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage4",
+                        "name": "Tough Luck Haze",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_586_athena_commando_f_punkdevil/variants/parts/stage4.png"
+                        }
                     }
                 ]
             }
@@ -36205,7 +36299,10 @@
                 "hash": "",
                 "url": "https://fortnite-api.com/images/cosmetics/br/cid_601_athena_commando_f_palespooky/icon.png"
             },
-            "featured": null,
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_601_athena_commando_f_palespooky/featured.png"
+            },
             "background": null,
             "coverArt": null,
             "decal": null
@@ -42676,7 +42773,10 @@
                 "hash": "",
                 "url": "https://fortnite-api.com/images/cosmetics/br/cid_708_athena_commando_m_soldierslurp/icon.png"
             },
-            "featured": null,
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_708_athena_commando_m_soldierslurp/featured.png"
+            },
             "background": null,
             "coverArt": null,
             "decal": null
@@ -43009,6 +43109,74 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_712_Athena_Commando_M_Spy",
         "lastUpdate": "2020-04-29T06:13:35Z",
         "added": "2020-04-29T06:13:35Z"
+    },
+    {
+        "id": "cid_713_athena_commando_m_maskedwarriorspring",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Xander",
+        "shortDescription": "Outfit",
+        "description": "Sovereign of the shifting sands.",
+        "set": "Immortal Sands",
+        "setText": "Part of the Immortal Sands set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_713_athena_commando_m_maskedwarriorspring/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_713_athena_commando_m_maskedwarriorspring/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_713_athena_commando_m_maskedwarriorspring/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "DEFAULT",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_713_athena_commando_m_maskedwarriorspring/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "MASK OFF",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_713_athena_commando_m_maskedwarriorspring/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.MaskedWarrior",
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_713_athena_commando_m_maskedwarriorspring",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_713_Athena_Commando_M_MaskedWarriorSpring",
+        "lastUpdate": "2021-02-16T09:22:57Z",
+        "added": "2021-02-16T09:22:57Z"
     },
     {
         "id": "cid_714_athena_commando_m_anarchyacresfarmer",
@@ -45195,7 +45363,9 @@
             "Cosmetics.Source.ItemShop",
             "Cosmetics.Filter.Season.12",
             "Cosmetics.UserFacingFlags.HasVariants",
-            "Cosmetics.Set.SmallCrimson"
+            "Cosmetics.Set.SmallCrimson",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
         ],
         "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_CID_753_Athena_Commando_F_Hostile",
         "definition": "hid_753_athena_commando_f_hostile",
@@ -45604,8 +45774,8 @@
         "name": "Nightlife",
         "shortDescription": "Outfit",
         "description": "The life of the afterparty.",
-        "set": null,
-        "setText": null,
+        "set": "Party Patrol",
+        "setText": "Part of the Party Patrol set.",
         "series": null,
         "backendSeries": null,
         "images": {
@@ -46084,7 +46254,10 @@
                 "hash": "",
                 "url": "https://fortnite-api.com/images/cosmetics/br/cid_770_athena_commando_f_mechanicalengineer/icon.png"
             },
-            "featured": null,
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_770_athena_commando_f_mechanicalengineer/featured.png"
+            },
             "background": null,
             "coverArt": null,
             "decal": null
@@ -48876,8 +49049,8 @@
         "name": "Party Star",
         "shortDescription": "Outfit",
         "description": "All eyes on you.",
-        "set": null,
-        "setText": null,
+        "set": "Party Patrol",
+        "setText": "Part of the Party Patrol set.",
         "series": null,
         "backendSeries": null,
         "images": {
@@ -48946,8 +49119,8 @@
         "name": "Party Diva",
         "shortDescription": "Outfit",
         "description": "Only the best.",
-        "set": null,
-        "setText": null,
+        "set": "Party Patrol",
+        "setText": "Part of the Party Patrol set.",
         "series": null,
         "backendSeries": null,
         "images": {
@@ -49016,8 +49189,8 @@
         "name": "Party MVP",
         "shortDescription": "Outfit",
         "description": "There can be only one.",
-        "set": null,
-        "setText": null,
+        "set": "Party Patrol",
+        "setText": "Part of the Party Patrol set.",
         "series": null,
         "backendSeries": null,
         "images": {
@@ -55410,8 +55583,8 @@
         "name": "Victoria Saint",
         "shortDescription": "Outfit",
         "description": "Vampire-hunter of the Old West.",
-        "set": null,
-        "setText": null,
+        "set": "Night Hunter",
+        "setText": "Part of the Night Hunter set.",
         "series": null,
         "backendSeries": null,
         "images": {
@@ -58338,7 +58511,7 @@
         "variants": null,
         "gameplayTags": [
             "Cosmetics.Source.ItemShop",
-            "Cosmetics.Filter.Season.14"
+            "Cosmetics.Filter.Season.15"
         ],
         "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_CID_926_Athena_Commando_F_StreetFashionDiamond",
         "definition": "hid_926_athena_commando_f_streetfashiondiamond",
@@ -58891,7 +59064,7 @@
         "rarity": "uncommon",
         "displayRarity": "Uncommon",
         "backendRarity": "EFortRarity::Uncommon",
-        "name": "Trinity",
+        "name": "Trinity Trooper",
         "shortDescription": "Outfit",
         "description": "Never stand still, give as hard as you get.",
         "set": "Diffuse Force",
@@ -58941,9 +59114,9 @@
         ],
         "gameplayTags": [
             "Cosmetics.Source.ItemShop",
-            "Cosmetics.Filter.Season.14",
             "Cosmetics.Set.ThinGroup",
-            "Cosmetics.UserFacingFlags.HasVariants"
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Filter.Season.16"
         ],
         "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_CID_933_Athena_Commando_F_FuturePink",
         "definition": "hid_933_athena_commando_f_futurepink",
@@ -66042,7 +66215,9 @@
             "Cosmetics.Character.RestrictCape",
             "Cosmetics.UserFacingFlags.HasUpgradeQuests",
             "Cosmetics.Set.ProcessNotebook",
-            "Cosmetics.Filter.Season.15"
+            "Cosmetics.Filter.Season.15",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
         ],
         "displayAssetPath": null,
         "definition": "hid_960_athena_commando_m_cosmos",
@@ -66187,7 +66362,9 @@
             "Cosmetics.Filter.Season.15",
             "Cosmetics.Exclusives.Shapeshifter",
             "Cosmetics.Set.CrazyLung",
-            "Cosmetics.UserFacingFlags.Enlightened"
+            "Cosmetics.UserFacingFlags.Enlightened",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
         ],
         "displayAssetPath": null,
         "definition": "hid_961_athena_commando_f_shapeshifter",
@@ -66930,10 +67107,7 @@
                 "hash": "",
                 "url": "https://fortnite-api.com/images/cosmetics/br/cid_969_athena_commando_m_snowmanfashion/icon.png"
             },
-            "featured": {
-                "hash": "",
-                "url": "https://fortnite-api.com/images/cosmetics/br/cid_969_athena_commando_m_snowmanfashion/featured.png"
-            },
+            "featured": null,
             "background": null,
             "coverArt": null,
             "decal": null
@@ -67790,7 +67964,8 @@
         "variants": null,
         "gameplayTags": [
             "Cosmetics.Filter.Season.15",
-            "Cosmetics.Set.LeanScale"
+            "Cosmetics.Set.LeanScale",
+            "Cosmetics.Source.CrewPack.Jan2021"
         ],
         "displayAssetPath": null,
         "definition": "hid_985_athena_commando_m_tiptoe",
@@ -67950,6 +68125,104 @@
         "added": "2020-12-21T18:12:33Z"
     },
     {
+        "id": "cid_989_athena_commando_m_progressivejonesy",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Agent Jones",
+        "shortDescription": "Outfit",
+        "description": "Look sharp, we're saving reality.",
+        "set": "Agent Jones",
+        "setText": "Part of the Agent Jones set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_989_athena_commando_m_progressivejonesy/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_989_athena_commando_m_progressivejonesy/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Progressive",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "Agent Jones",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_989_athena_commando_m_progressivejonesy/variants/progressive/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "Agent Jones (Jump 15)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_989_athena_commando_m_progressivejonesy/variants/progressive/stage2.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage3",
+                        "name": "Agent Jones (Jump 23)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_989_athena_commando_m_progressivejonesy/variants/progressive/stage3.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage6",
+                        "name": "Agent Jones (Jump 31)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_989_athena_commando_m_progressivejonesy/variants/progressive/stage6.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage4",
+                        "name": "Agent Jones (Jump 42)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_989_athena_commando_m_progressivejonesy/variants/progressive/stage4.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage5",
+                        "name": "Agent Jones (Jump 88)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_989_athena_commando_m_progressivejonesy/variants/progressive/stage5.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.OperativeBlonde"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_989_athena_commando_m_progressivejonesy",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_989_Athena_Commando_M_ProgressiveJonesy",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
         "id": "cid_990_athena_commando_m_grilledcheese_snx4k",
         "type": "outfit",
         "backendType": "AthenaCharacter",
@@ -68018,10 +68291,7 @@
                 "hash": "",
                 "url": "https://fortnite-api.com/images/cosmetics/br/cid_991_athena_commando_m_nightmare_nm1c8/icon.png"
             },
-            "featured": {
-                "hash": "",
-                "url": "https://fortnite-api.com/images/cosmetics/br/cid_991_athena_commando_m_nightmare_nm1c8/featured.png"
-            },
+            "featured": null,
             "background": null,
             "coverArt": null,
             "decal": null
@@ -68042,6 +68312,120 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_991_Athena_Commando_M_Nightmare_NM1C8",
         "lastUpdate": "2021-01-20T09:26:07Z",
         "added": "2021-01-20T09:26:07Z"
+    },
+    {
+        "id": "cid_992_athena_commando_f_typhoon_lpfu6",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Sarah Connor",
+        "shortDescription": "Outfit",
+        "description": "She was just a girl from LA, but destiny had big plans for her.",
+        "set": "Future War",
+        "setText": "Part of the Future War set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_992_athena_commando_f_typhoon_lpfu6/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_992_athena_commando_f_typhoon_lpfu6/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_992_athena_commando_f_typhoon_lpfu6/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "Sarah Connor",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_992_athena_commando_f_typhoon_lpfu6/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "Resistance Leader",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_992_athena_commando_f_typhoon_lpfu6/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.OverallStake"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_992_athena_commando_f_typhoon",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_992_Athena_Commando_F_Typhoon_LPFU6",
+        "lastUpdate": "2021-01-22T00:00:00Z",
+        "added": "2021-01-22T00:00:00Z"
+    },
+    {
+        "id": "cid_993_athena_commando_m_typhoonrobot_2yrgv",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "T-800",
+        "shortDescription": "Outfit",
+        "description": "Pitiless. Remorseless. It will not stop. Ever.",
+        "set": "Future War",
+        "setText": "Part of the Future War set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_993_athena_commando_m_typhoonrobot_2yrgv/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_993_athena_commando_m_typhoonrobot_2yrgv/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_993_athena_commando_m_typhoonrobot_2yrgv/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.OverallStake"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_993_athena_commando_m_typhoonrobot",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_993_Athena_Commando_M_TyphoonRobot_2YRGV",
+        "lastUpdate": "2021-01-22T00:00:00Z",
+        "added": "2021-01-22T00:00:00Z"
     },
     {
         "id": "cid_994_athena_commando_m_lexa",
@@ -68098,8 +68482,8 @@
         "name": "Midfield Master",
         "shortDescription": "Outfit",
         "description": "Take charge.",
-        "set": "Set_01",
-        "setText": "Part of the Set_01 set.",
+        "set": "Kickoff",
+        "setText": "Part of the Kickoff set.",
         "series": null,
         "backendSeries": null,
         "images": {
@@ -68335,8 +68719,8 @@
         "name": "Sgt. Sweeper",
         "shortDescription": "Outfit",
         "description": "Make the move.",
-        "set": "Set_01",
-        "setText": "Part of the Set_01 set.",
+        "set": "Kickoff",
+        "setText": "Part of the Kickoff set.",
         "series": null,
         "backendSeries": null,
         "images": {
@@ -68572,8 +68956,8 @@
         "name": "Galactico",
         "shortDescription": "Outfit",
         "description": "The world will know your name.",
-        "set": "Set_01",
-        "setText": "Part of the Set_01 set.",
+        "set": "Kickoff",
+        "setText": "Part of the Kickoff set.",
         "series": null,
         "backendSeries": null,
         "images": {
@@ -68809,8 +69193,8 @@
         "name": "Power Poacher",
         "shortDescription": "Outfit",
         "description": "It's yours. Take it.",
-        "set": "Set_01",
-        "setText": "Part of the Set_01 set.",
+        "set": "Kickoff",
+        "setText": "Part of the Kickoff set.",
         "series": null,
         "backendSeries": null,
         "images": {
@@ -69046,8 +69430,8 @@
         "name": "Breakaway",
         "shortDescription": "Outfit",
         "description": "Always be aggressive.",
-        "set": "Set_01",
-        "setText": "Part of the Set_01 set.",
+        "set": "Kickoff",
+        "setText": "Part of the Kickoff set.",
         "series": null,
         "backendSeries": null,
         "images": {
@@ -69283,8 +69667,8 @@
         "name": "Striker Specialist",
         "shortDescription": "Outfit",
         "description": "Bring it home.",
-        "set": "Set_01",
-        "setText": "Part of the Set_01 set.",
+        "set": "Kickoff",
+        "setText": "Part of the Kickoff set.",
         "series": null,
         "backendSeries": null,
         "images": {
@@ -69520,8 +69904,8 @@
         "name": "Shot Stopper",
         "shortDescription": "Outfit",
         "description": "Nothing gets by you.",
-        "set": "Set_01",
-        "setText": "Part of the Set_01 set.",
+        "set": "Kickoff",
+        "setText": "Part of the Kickoff set.",
         "series": null,
         "backendSeries": null,
         "images": {
@@ -69757,8 +70141,8 @@
         "name": "Derby Dominator",
         "shortDescription": "Outfit",
         "description": "Leave your rivals in the dust.",
-        "set": "Set_01",
-        "setText": "Part of the Set_01 set.",
+        "set": "Kickoff",
+        "setText": "Part of the Kickoff set.",
         "series": null,
         "backendSeries": null,
         "images": {
@@ -69994,8 +70378,8 @@
         "name": "Tiki Tackler",
         "shortDescription": "Outfit",
         "description": "Teamwork works.",
-        "set": "Set_01",
-        "setText": "Part of the Set_01 set.",
+        "set": "Kickoff",
+        "setText": "Part of the Kickoff set.",
         "series": null,
         "backendSeries": null,
         "images": {
@@ -70231,8 +70615,8 @@
         "name": "Pitch Patroller",
         "shortDescription": "Outfit",
         "description": "When you're the best, it shows.",
-        "set": "Set_01",
-        "setText": "Part of the Set_01 set.",
+        "set": "Kickoff",
+        "setText": "Part of the Kickoff set.",
         "series": null,
         "backendSeries": null,
         "images": {
@@ -70459,6 +70843,51 @@
         "added": "2021-01-19T18:45:28Z"
     },
     {
+        "id": "cid_a_006_athena_commando_m_convoytarantula_641pz",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Snake Eyes",
+        "shortDescription": "Outfit",
+        "description": "Real name? Classified. Ninja master? Verified.",
+        "set": "Arashikage Clan",
+        "setText": "Part of the Arashikage Clan set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_006_athena_commando_m_convoytarantula_641pz/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_006_athena_commando_m_convoytarantula_641pz/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_006_athena_commando_m_convoytarantula_641pz/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.CoverGift"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_006_athena_commando_m_convoytarantula",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_006_Athena_Commando_M_ConvoyTarantula_641PZ",
+        "lastUpdate": "2021-01-31T00:00:00Z",
+        "added": "2021-01-31T00:00:00Z"
+    },
+    {
         "id": "cid_a_007_athena_commando_f_streetfashioneclipse",
         "type": "outfit",
         "backendType": "AthenaCharacter",
@@ -70468,8 +70897,8 @@
         "name": "Ruby Shadows",
         "shortDescription": "Outfit",
         "description": "Sometimes you gotta go dark.",
-        "set": null,
-        "setText": null,
+        "set": "Street Shadows",
+        "setText": "Part of the Street Shadows set.",
         "series": "Shadow Series",
         "backendSeries": "ShadowSeries",
         "images": {
@@ -70488,7 +70917,8 @@
         },
         "variants": null,
         "gameplayTags": [
-            "Cosmetics.Filter.Season.15"
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.RoadShade"
         ],
         "displayAssetPath": null,
         "definition": "hid_a_007_athena_commando_f_streetfashioneclipse",
@@ -70542,6 +70972,2335 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_008_Athena_Commando_F_CombatDoll",
         "lastUpdate": "2021-01-13T09:40:21Z",
         "added": "2021-01-13T09:40:21Z"
+    },
+    {
+        "id": "cid_a_009_athena_commando_f_foxwarrior_21b9r",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "legendary",
+        "displayRarity": "Legendary",
+        "backendRarity": "EFortRarity::Legendary",
+        "name": "Vi",
+        "shortDescription": "Outfit",
+        "description": "Always the hunter. Never the hunted.",
+        "set": "Drift Tracker",
+        "setText": "Part of the Drift Tracker set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_009_athena_commando_f_foxwarrior_21b9r/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_009_athena_commando_f_foxwarrior_21b9r/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "DEFAULT",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_009_athena_commando_f_foxwarrior_21b9r/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "ARCTIC",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_009_athena_commando_f_foxwarrior_21b9r/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Set.ThesisCinema",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.UserFacingFlags.Reactive",
+            "Cosmetics.Source.CrewPack.Feb2021"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_009_athena_commando_f_foxwarrior",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_009_Athena_Commando_F_FoxWarrior_21B9R",
+        "lastUpdate": "2021-01-31T16:13:29Z",
+        "added": "2021-01-31T16:13:29Z"
+    },
+    {
+        "id": "cid_a_010_athena_commando_m_tar_46fmc",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "dc",
+        "displayRarity": "DC SERIES",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "The Flash",
+        "shortDescription": "Outfit",
+        "description": "Barry Allen: the Fastest Man Alive.",
+        "set": "The Flash",
+        "setText": "Part of the The Flash set.",
+        "series": "DC SERIES",
+        "backendSeries": "DCUSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_010_athena_commando_m_tar_46fmc/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_010_athena_commando_m_tar_46fmc/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_010_athena_commando_m_tar_46fmc/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.GuestFiction"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_010_athena_commando_m_tar",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_010_Athena_Commando_M_Tar_46FMC",
+        "lastUpdate": "2021-02-11T06:31:33Z",
+        "added": "2021-02-11T06:31:33Z"
+    },
+    {
+        "id": "cid_a_011_athena_commando_m_streetcuddles",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Cuddle King",
+        "shortDescription": "Outfit",
+        "description": "Love rules all.",
+        "set": "Be Mine",
+        "setText": "Part of the Be Mine set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_011_athena_commando_m_streetcuddles/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_011_athena_commando_m_streetcuddles/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_011_athena_commando_m_streetcuddles/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "DEFAULT",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_011_athena_commando_m_streetcuddles/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "HOOD DOWN",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_011_athena_commando_m_streetcuddles/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.BeYours"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_011_athena_commando_m_streetcuddles",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_011_Athena_Commando_M_StreetCuddles",
+        "lastUpdate": "2021-02-02T09:18:54Z",
+        "added": "2021-02-02T09:18:54Z"
+    },
+    {
+        "id": "cid_a_012_athena_commando_m_mainframe_v7q8r",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Cypher",
+        "shortDescription": "Outfit",
+        "description": "No System too encrypted.",
+        "set": "End of Line",
+        "setText": "Part of the End of Line set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_012_athena_commando_m_mainframe_v7q8r/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_012_athena_commando_m_mainframe_v7q8r/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_012_athena_commando_m_mainframe_v7q8r/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "DEFAULT",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_012_athena_commando_m_mainframe_v7q8r/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "HELMET",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_012_athena_commando_m_mainframe_v7q8r/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.AnimalClock"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_012_athena_commando_m_mainframe",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_012_Athena_Commando_M_Mainframe_V7Q8R",
+        "lastUpdate": "2021-02-12T00:00:00Z",
+        "added": "2021-02-12T00:00:00Z"
+    },
+    {
+        "id": "cid_a_013_athena_commando_m_mainframe_b_70z5m",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Firewall",
+        "shortDescription": "Outfit",
+        "description": "No virus sneaky enough.",
+        "set": "End of Line",
+        "setText": "Part of the End of Line set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_013_athena_commando_m_mainframe_b_70z5m/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_013_athena_commando_m_mainframe_b_70z5m/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_013_athena_commando_m_mainframe_b_70z5m/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "DEFAULT",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_013_athena_commando_m_mainframe_b_70z5m/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "HELMET",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_013_athena_commando_m_mainframe_b_70z5m/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.AnimalClock"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_013_athena_commando_m_mainframe_b",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_013_Athena_Commando_M_Mainframe_B_70Z5M",
+        "lastUpdate": "2021-02-12T00:00:00Z",
+        "added": "2021-02-12T00:00:00Z"
+    },
+    {
+        "id": "cid_a_014_athena_commando_m_mainframe_c_yvdol",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Proxy",
+        "shortDescription": "Outfit",
+        "description": "He's a stealth operator.",
+        "set": "End of Line",
+        "setText": "Part of the End of Line set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_014_athena_commando_m_mainframe_c_yvdol/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_014_athena_commando_m_mainframe_c_yvdol/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_014_athena_commando_m_mainframe_c_yvdol/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "DEFAULT",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_014_athena_commando_m_mainframe_c_yvdol/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "HELMET",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_014_athena_commando_m_mainframe_c_yvdol/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.AnimalClock"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_014_athena_commando_m_mainframe_c",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_014_Athena_Commando_M_Mainframe_C_YVDOL",
+        "lastUpdate": "2021-02-12T00:00:00Z",
+        "added": "2021-02-12T00:00:00Z"
+    },
+    {
+        "id": "cid_a_015_athena_commando_m_mainframe_d_s625d",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Datapath",
+        "shortDescription": "Outfit",
+        "description": "Whole lotta power under the hood.",
+        "set": "End of Line",
+        "setText": "Part of the End of Line set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_015_athena_commando_m_mainframe_d_s625d/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_015_athena_commando_m_mainframe_d_s625d/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_015_athena_commando_m_mainframe_d_s625d/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "DEFAULT",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_015_athena_commando_m_mainframe_d_s625d/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "HELMET",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_015_athena_commando_m_mainframe_d_s625d/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.AnimalClock"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_015_athena_commando_m_mainframe_d",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_015_Athena_Commando_M_Mainframe_D_S625D",
+        "lastUpdate": "2021-02-12T00:00:00Z",
+        "added": "2021-02-12T00:00:00Z"
+    },
+    {
+        "id": "cid_a_016_athena_commando_m_mainframe_e_kpzjl",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Packet",
+        "shortDescription": "Outfit",
+        "description": "The data you want, right on time.",
+        "set": "End of Line",
+        "setText": "Part of the End of Line set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_016_athena_commando_m_mainframe_e_kpzjl/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_016_athena_commando_m_mainframe_e_kpzjl/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_016_athena_commando_m_mainframe_e_kpzjl/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "DEFAULT",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_016_athena_commando_m_mainframe_e_kpzjl/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "HELMET",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_016_athena_commando_m_mainframe_e_kpzjl/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.AnimalClock"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_016_athena_commando_m_mainframe_e",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_016_Athena_Commando_M_Mainframe_E_KPZJL",
+        "lastUpdate": "2021-02-12T00:00:00Z",
+        "added": "2021-02-12T00:00:00Z"
+    },
+    {
+        "id": "cid_a_017_athena_commando_f_mainframe_cyl17",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Bitstream",
+        "shortDescription": "Outfit",
+        "description": "She fights for the Users.",
+        "set": "End of Line",
+        "setText": "Part of the End of Line set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_017_athena_commando_f_mainframe_cyl17/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_017_athena_commando_f_mainframe_cyl17/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_017_athena_commando_f_mainframe_cyl17/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "DEFAULT",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_017_athena_commando_f_mainframe_cyl17/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "HELMET",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_017_athena_commando_f_mainframe_cyl17/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.AnimalClock"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_017_athena_commando_f_mainframe",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_017_Athena_Commando_F_Mainframe_CYL17",
+        "lastUpdate": "2021-02-12T00:00:00Z",
+        "added": "2021-02-12T00:00:00Z"
+    },
+    {
+        "id": "cid_a_018_athena_commando_f_mainframe_b_t6gy4",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Commandline",
+        "shortDescription": "Outfit",
+        "description": "Born to explore the 'net.",
+        "set": "End of Line",
+        "setText": "Part of the End of Line set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_018_athena_commando_f_mainframe_b_t6gy4/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_018_athena_commando_f_mainframe_b_t6gy4/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_018_athena_commando_f_mainframe_b_t6gy4/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "DEFAULT",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_018_athena_commando_f_mainframe_b_t6gy4/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "HELMET",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_018_athena_commando_f_mainframe_b_t6gy4/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.AnimalClock"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_018_athena_commando_f_mainframe_b",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_018_Athena_Commando_F_Mainframe_B_T6GY4",
+        "lastUpdate": "2021-02-12T00:00:00Z",
+        "added": "2021-02-12T00:00:00Z"
+    },
+    {
+        "id": "cid_a_019_athena_commando_f_mainframe_c_u5ri4",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Upload",
+        "shortDescription": "Outfit",
+        "description": "Perfect delivery, every time.",
+        "set": "End of Line",
+        "setText": "Part of the End of Line set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_019_athena_commando_f_mainframe_c_u5ri4/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_019_athena_commando_f_mainframe_c_u5ri4/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_019_athena_commando_f_mainframe_c_u5ri4/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "DEFAULT",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_019_athena_commando_f_mainframe_c_u5ri4/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "HELMET",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_019_athena_commando_f_mainframe_c_u5ri4/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.AnimalClock"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_019_athena_commando_f_mainframe_c",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_019_Athena_Commando_F_Mainframe_C_U5RI4",
+        "lastUpdate": "2021-02-12T00:00:00Z",
+        "added": "2021-02-12T00:00:00Z"
+    },
+    {
+        "id": "cid_a_020_athena_commando_f_mainframe_d_zhvem",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Io",
+        "shortDescription": "Outfit",
+        "description": "Lightning-fast APM.",
+        "set": "End of Line",
+        "setText": "Part of the End of Line set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_020_athena_commando_f_mainframe_d_zhvem/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_020_athena_commando_f_mainframe_d_zhvem/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_020_athena_commando_f_mainframe_d_zhvem/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "DEFAULT",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_020_athena_commando_f_mainframe_d_zhvem/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "HELMET",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_020_athena_commando_f_mainframe_d_zhvem/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.AnimalClock"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_020_athena_commando_f_mainframe_d",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_020_Athena_Commando_F_Mainframe_D_ZHVEM",
+        "lastUpdate": "2021-02-12T00:00:00Z",
+        "added": "2021-02-12T00:00:00Z"
+    },
+    {
+        "id": "cid_a_021_athena_commando_f_mainframe_e_l34e4",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Bandwidth",
+        "shortDescription": "Outfit",
+        "description": "Firewalls? What firewalls?",
+        "set": "End of Line",
+        "setText": "Part of the End of Line set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_021_athena_commando_f_mainframe_e_l34e4/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_021_athena_commando_f_mainframe_e_l34e4/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_021_athena_commando_f_mainframe_e_l34e4/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "DEFAULT",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_021_athena_commando_f_mainframe_e_l34e4/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "HELMET",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_021_athena_commando_f_mainframe_e_l34e4/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.AnimalClock"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_021_athena_commando_f_mainframe_e",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_021_Athena_Commando_F_Mainframe_E_L34E4",
+        "lastUpdate": "2021-02-12T00:00:00Z",
+        "added": "2021-02-12T00:00:00Z"
+    },
+    {
+        "id": "cid_a_022_athena_commando_f_crush",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Lovely",
+        "shortDescription": "Outfit",
+        "description": "If they don't fall for you, give 'em a push.",
+        "set": "Be Mine",
+        "setText": "Part of the Be Mine set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_022_athena_commando_f_crush/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_022_athena_commando_f_crush/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_022_athena_commando_f_crush/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.UserFacingFlags.Reactive",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.BeYours"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_022_athena_commando_f_crush",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_022_Athena_Commando_F_Crush",
+        "lastUpdate": "2021-02-02T09:18:54Z",
+        "added": "2021-02-02T09:18:54Z"
+    },
+    {
+        "id": "cid_a_023_athena_commando_m_skirmish_w1n7h",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Gaming Legends Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Ryu",
+        "shortDescription": "Outfit",
+        "description": "Determined to travel the world and test his skills until he becomes the best.",
+        "set": "Street Fighter",
+        "setText": "Part of the Street Fighter set.",
+        "series": "Gaming Legends Series",
+        "backendSeries": "PlatformSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_023_athena_commando_m_skirmish_w1n7h/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_023_athena_commando_m_skirmish_w1n7h/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_023_athena_commando_m_skirmish_w1n7h/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "Ryu",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_023_athena_commando_m_skirmish_w1n7h/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "Battle (Ryu)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_023_athena_commando_m_skirmish_w1n7h/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.UserFacingFlags.BuiltInEmote",
+            "Cosmetics.Set.BikeCatch"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_023_athena_commando_m_skirmish",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_023_Athena_Commando_M_Skirmish_W1N7H",
+        "lastUpdate": "2021-02-21T00:00:00Z",
+        "added": "2021-02-21T00:00:00Z"
+    },
+    {
+        "id": "cid_a_024_athena_commando_f_skirmish_qw2bq",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Gaming Legends Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Chun-Li",
+        "shortDescription": "Outfit",
+        "description": "Interpol officer with a strong sense of justice and even stronger roundhouse kick.",
+        "set": "Street Fighter",
+        "setText": "Part of the Street Fighter set.",
+        "series": "Gaming Legends Series",
+        "backendSeries": "PlatformSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_024_athena_commando_f_skirmish_qw2bq/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_024_athena_commando_f_skirmish_qw2bq/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_024_athena_commando_f_skirmish_qw2bq/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "Chun-Li",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_024_athena_commando_f_skirmish_qw2bq/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "Nostalgia (Chun-Li)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_024_athena_commando_f_skirmish_qw2bq/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.UserFacingFlags.BuiltInEmote",
+            "Cosmetics.Set.BikeCatch"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_024_athena_commando_f_skirmish",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_024_Athena_Commando_F_Skirmish_QW2BQ",
+        "lastUpdate": "2021-02-21T00:00:00Z",
+        "added": "2021-02-21T00:00:00Z"
+    },
+    {
+        "id": "cid_a_025_athena_commando_m_kepler_uen6v",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Xenomorph",
+        "shortDescription": "Outfit",
+        "description": "If you see it coming, it's already too late.",
+        "set": "In Space...",
+        "setText": "Part of the In Space... set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_025_athena_commando_m_kepler_uen6v/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_025_athena_commando_m_kepler_uen6v/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_025_athena_commando_m_kepler_uen6v/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.BuiltInEmote",
+            "Cosmetics.Set.ToneTrip"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_025_athena_commando_m_kepler",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_025_Athena_Commando_M_Kepler_UEN6V",
+        "lastUpdate": "2021-02-26T00:00:00Z",
+        "added": "2021-02-26T00:00:00Z"
+    },
+    {
+        "id": "cid_a_026_athena_commando_f_kepler_2g59m",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Ellen Ripley",
+        "shortDescription": "Outfit",
+        "description": "Last survivor of the Nostromo.",
+        "set": "In Space...",
+        "setText": "Part of the In Space... set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_026_athena_commando_f_kepler_2g59m/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_026_athena_commando_f_kepler_2g59m/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_026_athena_commando_f_kepler_2g59m/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "Ellen Ripley",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_026_athena_commando_f_kepler_2g59m/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "Nostromo Crew",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_026_athena_commando_f_kepler_2g59m/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.ToneTrip"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_026_athena_commando_f_kepler",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_026_Athena_Commando_F_Kepler_2G59M",
+        "lastUpdate": "2021-02-26T00:00:00Z",
+        "added": "2021-02-26T00:00:00Z"
+    },
+    {
+        "id": "cid_a_027_athena_commando_f_casualbomberlight",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Britestorm Bomber",
+        "shortDescription": "Outfit",
+        "description": "Breezy as a summer's day.",
+        "set": "Sun & Storm",
+        "setText": "Part of the Sun & Storm set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_027_athena_commando_f_casualbomberlight/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_027_athena_commando_f_casualbomberlight/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_027_athena_commando_f_casualbomberlight/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "Britestorm Bomber",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_027_athena_commando_f_casualbomberlight/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "Cloudburst Bomber",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_027_athena_commando_f_casualbomberlight/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.LightRain"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_027_athena_commando_f_casualbomberlight",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_027_Athena_Commando_F_CasualBomberLight",
+        "lastUpdate": "2021-02-16T09:22:57Z",
+        "added": "2021-02-16T09:22:57Z"
+    },
+    {
+        "id": "cid_a_028_athena_commando_f_ancientgladiator",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Sica",
+        "shortDescription": "Outfit",
+        "description": "The arena's next champion.",
+        "set": "The Vanquisher",
+        "setText": "Part of the The Vanquisher set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_028_athena_commando_f_ancientgladiator/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_028_athena_commando_f_ancientgladiator/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_028_athena_commando_f_ancientgladiator/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "Default",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_028_athena_commando_f_ancientgladiator/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "NO MASK",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_028_athena_commando_f_ancientgladiator/variants/parts/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.Conqueror"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_028_athena_commando_f_ancientgladiator",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_028_Athena_Commando_F_AncientGladiator",
+        "lastUpdate": "2021-02-16T09:22:57Z",
+        "added": "2021-02-16T09:22:57Z"
+    },
+    {
+        "id": "cid_a_029_athena_commando_m_llamaherowinter_c83tz",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Llambro",
+        "shortDescription": "Outfit",
+        "description": "He's one ice cold llamacorn.",
+        "set": "Llegend",
+        "setText": "Part of the Llegend set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_029_athena_commando_m_llamaherowinter_c83tz/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_029_athena_commando_m_llamaherowinter_c83tz/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.AcutePanic",
+            "Cosmetics.Source.CrewPack.March2021"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_029_athena_commando_m_llamaherowinter",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_029_Athena_Commando_M_LlamaHeroWinter_C83TZ",
+        "lastUpdate": "2021-02-22T12:10:00Z",
+        "added": "2021-02-22T12:10:00Z"
+    },
+    {
+        "id": "cid_a_031_athena_commando_m_builder",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Lazarbeam",
+        "shortDescription": "Outfit",
+        "description": "He's true blue.",
+        "set": "Lazarbeam",
+        "setText": "Part of the Lazarbeam set.",
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_031_athena_commando_m_builder/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_031_athena_commando_m_builder/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_031_athena_commando_m_builder/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Parts",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "Lazarbeam",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_031_athena_commando_m_builder/variants/parts/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "Relaxedbeam",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_031_athena_commando_m_builder/variants/parts/stage2.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage3",
+                        "name": "Lazarbeam (Helmet)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_031_athena_commando_m_builder/variants/parts/stage3.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage4",
+                        "name": "Relaxedbeam (Hat)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_031_athena_commando_m_builder/variants/parts/stage4.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.MentionPremium"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_031_athena_commando_m_builder",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_031_Athena_Commando_M_Builder",
+        "lastUpdate": "2021-03-02T10:19:28Z",
+        "added": "2021-03-02T10:19:28Z"
+    },
+    {
+        "id": "cid_a_032_athena_commando_m_spacewarrior",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Cyprus Nell",
+        "shortDescription": "Outfit",
+        "description": "The closest thing to a father Reese ever had.",
+        "set": "Galactic Rangers",
+        "setText": "Part of the Galactic Rangers set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_032_athena_commando_m_spacewarrior/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_032_athena_commando_m_spacewarrior/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_032_athena_commando_m_spacewarrior/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Material",
+                "type": "COLOR",
+                "options": [
+                    {
+                        "tag": "Mat1",
+                        "name": "Cyprus Nell",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_032_athena_commando_m_spacewarrior/variants/material/mat1.png"
+                        }
+                    },
+                    {
+                        "tag": "Mat2",
+                        "name": "Cyprus Nell (Elite)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_032_athena_commando_m_spacewarrior/variants/material/mat2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.SpacePolice"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_032_athena_commando_m_spacewarrior",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_032_Athena_Commando_M_SpaceWarrior",
+        "lastUpdate": "2021-03-02T10:19:28Z",
+        "added": "2021-03-02T10:19:28Z"
+    },
+    {
+        "id": "cid_a_033_athena_commando_m_smallfry_z73ek",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "marvel",
+        "displayRarity": "MARVEL SERIES",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Ant-Man",
+        "shortDescription": "Outfit",
+        "description": "Size-shifting, insect-commanding Super Hero.",
+        "set": "Ant-Man",
+        "setText": "Part of the Ant-Man set.",
+        "series": "MARVEL SERIES",
+        "backendSeries": "MarvelSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_033_athena_commando_m_smallfry_z73ek/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_033_athena_commando_m_smallfry_z73ek/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_033_athena_commando_m_smallfry_z73ek/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.TolerantFortune"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_033_athena_commando_m_smallfry",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_033_Athena_Commando_M_SmallFry_Z73EK",
+        "lastUpdate": "2021-03-07T00:00:00Z",
+        "added": "2021-03-07T00:00:00Z"
+    },
+    {
+        "id": "cid_a_034_athena_commando_f_catburglar",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Marigold",
+        "shortDescription": "Outfit",
+        "description": "Break the curse of the Golden Touch.",
+        "set": "Golden Touch",
+        "setText": "Part of the Golden Touch set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_034_athena_commando_f_catburglar/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_034_athena_commando_f_catburglar/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Material",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Mat0",
+                        "name": "Default",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_034_athena_commando_f_catburglar/variants/material/mat0.png"
+                        }
+                    },
+                    {
+                        "tag": "Mat1",
+                        "name": "Reactive",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_034_athena_commando_f_catburglar/variants/material/mat1.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.Reactive",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.GoldHand"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_034_athena_commando_f_catburglar",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_034_Athena_Commando_F_CatBurglar",
+        "lastUpdate": "2021-03-02T10:19:28Z",
+        "added": "2021-03-02T10:19:28Z"
+    },
+    {
+        "id": "cid_a_035_athena_commando_m_lionsoldier",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Centurion",
+        "shortDescription": "Outfit",
+        "description": "Hazard Platoon's extraction expert and munitions master.",
+        "set": "Hazard Platoon",
+        "setText": "Part of the Hazard Platoon set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_035_athena_commando_m_lionsoldier/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_035_athena_commando_m_lionsoldier/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Material",
+                "type": "COLOR",
+                "options": [
+                    {
+                        "tag": "Mat1",
+                        "name": "Centurion",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_035_athena_commando_m_lionsoldier/variants/material/mat1.png"
+                        }
+                    },
+                    {
+                        "tag": "Mat2",
+                        "name": "Centurion (Assault)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_035_athena_commando_m_lionsoldier/variants/material/mat2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.DangerArmy",
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_035_athena_commando_m_lionsoldier",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_035_Athena_Commando_M_LionSoldier",
+        "lastUpdate": "2021-03-02T10:19:28Z",
+        "added": "2021-03-02T10:19:28Z"
+    },
+    {
+        "id": "cid_a_036_athena_commando_f_obsidian",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "dc",
+        "displayRarity": "DC SERIES",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Rebirth Raven",
+        "shortDescription": "Outfit",
+        "description": "Daughter of a demon and founding member of the Teen Titans.",
+        "set": "Teen Titans",
+        "setText": "Part of the Teen Titans set.",
+        "series": "DC SERIES",
+        "backendSeries": "DCUSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_036_athena_commando_f_obsidian/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_036_athena_commando_f_obsidian/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_036_athena_commando_f_obsidian/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Progressive",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "Rebirth Raven",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_036_athena_commando_f_obsidian/variants/progressive/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "Raven (Classic)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_036_athena_commando_f_obsidian/variants/progressive/stage2.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage3",
+                        "name": "Rachel Roth",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_036_athena_commando_f_obsidian/variants/progressive/stage3.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Character.RestrictCape",
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.AutomaticDuke"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_036_athena_commando_f_obsidian",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_036_Athena_Commando_F_Obsidian",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "cid_a_037_athena_commando_f_dinohunter",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Tarana",
+        "shortDescription": "Outfit",
+        "description": "She sees visions of a long-gone world.",
+        "set": "Bone Punk",
+        "setText": "Part of the Bone Punk set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_037_athena_commando_f_dinohunter/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_037_athena_commando_f_dinohunter/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_037_athena_commando_f_dinohunter/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Progressive",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "Tarana",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_037_athena_commando_f_dinohunter/variants/progressive/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "Tarana (X-Tinction Armor)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_037_athena_commando_f_dinohunter/variants/progressive/stage2.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "channel": "Material",
+                "type": "COLOR",
+                "options": [
+                    {
+                        "tag": "Mat1",
+                        "name": "Tarana",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_037_athena_commando_f_dinohunter/variants/material/mat1.png"
+                        }
+                    },
+                    {
+                        "tag": "Mat2",
+                        "name": "Tarana (Indigo)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_037_athena_commando_f_dinohunter/variants/material/mat2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.MarrowBully"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_037_athena_commando_f_dinohunter",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_037_Athena_Commando_F_DinoHunter",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "cid_a_038_athena_commando_f_towersentinel",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "legendary",
+        "displayRarity": "Legendary",
+        "backendRarity": "EFortRarity::Legendary",
+        "name": "Spire Assassin",
+        "shortDescription": "Outfit",
+        "description": "Guardian of a world beyond reality.",
+        "set": "Looming Spire",
+        "setText": "Part of the Looming Spire set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_038_athena_commando_f_towersentinel/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_038_athena_commando_f_towersentinel/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Variant.ForceLoadAllParts",
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.UserFacingFlags.BuiltInEmote",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.ImpendingSpiral"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_038_athena_commando_f_towersentinel",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_038_Athena_Commando_F_TowerSentinel",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "cid_a_039_athena_commando_m_chickenwarrior",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Cluck",
+        "shortDescription": "Outfit",
+        "description": "Cheep cheep cheep, cheep cheep b'kaw.",
+        "set": "Eggsplosives Expert",
+        "setText": "Part of the Eggsplosives Expert set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_039_athena_commando_m_chickenwarrior/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_039_athena_commando_m_chickenwarrior/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_039_athena_commando_m_chickenwarrior/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Progressive",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "Chickaboom",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_039_athena_commando_m_chickenwarrior/variants/progressive/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "Chickaboom (Eggsplosive)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_039_athena_commando_m_chickenwarrior/variants/progressive/stage2.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage3",
+                        "name": "Chickaboom (Slurpy)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_039_athena_commando_m_chickenwarrior/variants/progressive/stage3.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.ChickenAce"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_039_athena_commando_m_chickenwarrior",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_039_Athena_Commando_M_ChickenWarrior",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "cid_a_040_athena_commando_f_temple",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Gaming Legends Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Lara Croft",
+        "shortDescription": "Outfit",
+        "description": "The extraordinary is in what we do, not who we are",
+        "set": "Lara Croft",
+        "setText": "Part of the Lara Croft set.",
+        "series": "Gaming Legends Series",
+        "backendSeries": "PlatformSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_040_athena_commando_f_temple/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_040_athena_commando_f_temple/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_040_athena_commando_f_temple/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Progressive",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "Lara Croft",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_040_athena_commando_f_temple/variants/progressive/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "Lara Croft (25th Anniversary)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_040_athena_commando_f_temple/variants/progressive/stage2.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage3",
+                        "name": "Lara Croft (Classic)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_040_athena_commando_f_temple/variants/progressive/stage3.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage4",
+                        "name": "Lara Croft (Gold Anniversary)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_040_athena_commando_f_temple/variants/progressive/stage4.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+            "Cosmetics.Set.StableMove"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_040_athena_commando_f_temple",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_040_Athena_Commando_F_Temple",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "cid_a_041_athena_commando_m_cubeninja",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "legendary",
+        "displayRarity": "Legendary",
+        "backendRarity": "EFortRarity::Legendary",
+        "name": "Raz",
+        "shortDescription": "Outfit",
+        "description": "On a mission to uncover the Spire's secrets.",
+        "set": "Spire's Call",
+        "setText": "Part of the Spire's Call set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_041_athena_commando_m_cubeninja/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_041_athena_commando_m_cubeninja/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_041_athena_commando_m_cubeninja/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Progressive",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "Raz (Glyph Acolyte)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_041_athena_commando_m_cubeninja/variants/progressive/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "Raz (Glyph Master)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_041_athena_commando_m_cubeninja/variants/progressive/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.SpiralsCry"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_041_athena_commando_m_cubeninja",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_041_Athena_Commando_M_CubeNinja",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "cid_a_042_athena_commando_f_scholar",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Isabelle",
+        "shortDescription": "Outfit",
+        "description": "Voted \"Most Likely To Succeed... Or Burn the Place Down.\"",
+        "set": "Oakwitch Academy",
+        "setText": "Part of the Oakwitch Academy set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_042_athena_commando_f_scholar/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_042_athena_commando_f_scholar/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_042_athena_commando_f_scholar/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Material",
+                "type": "COLOR",
+                "options": [
+                    {
+                        "tag": "Mat1",
+                        "name": "Isabelle",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_042_athena_commando_f_scholar/variants/material/mat1.png"
+                        }
+                    },
+                    {
+                        "tag": "Mat2",
+                        "name": "Isabelle (Potions Major)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_042_athena_commando_f_scholar/variants/material/mat2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Variant.ForceLoadAllParts",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.MagicInstitute",
+            "Cosmetics.Character.RestrictCape",
+            "Cosmetics.UserFacingFlags.BuiltInEmote"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_042_athena_commando_f_scholar",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_042_Athena_Commando_F_Scholar",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "cid_a_043_athena_commando_m_darkminion",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Dread Knight",
+        "shortDescription": "Outfit",
+        "description": "Don't worry... it's only a nightmare.",
+        "set": "Night Flight",
+        "setText": "Part of the Night Flight set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_043_athena_commando_m_darkminion/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_043_athena_commando_m_darkminion/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_043_athena_commando_m_darkminion/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.LateShuttle"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_043_athena_commando_m_darkminion",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_043_Athena_Commando_M_DarkMinion",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "cid_a_045_athena_commando_m_bananaleader",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Potassius Peels",
+        "shortDescription": "Outfit",
+        "description": "Et tu, Fruitus?",
+        "set": "The Ides of Bunch",
+        "setText": "Part of the The Ides of Bunch set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_045_athena_commando_m_bananaleader/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_045_athena_commando_m_bananaleader/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_045_athena_commando_m_bananaleader/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.MiddlePotassium"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_045_athena_commando_m_bananaleader",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_045_Athena_Commando_M_BananaLeader",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "cid_a_046_athena_commando_f_assembler",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Robo-Ray",
+        "shortDescription": "Outfit",
+        "description": "Robot chassis for extended field operations.",
+        "set": "#17",
+        "setText": "Part of the #17 set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_046_athena_commando_f_assembler/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_a_046_athena_commando_f_assembler/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Source.RMT.STWStarterPack",
+            "Cosmetics.Set.NumberSeventeen"
+        ],
+        "displayAssetPath": null,
+        "definition": "hid_a_046_athena_commando_f_assembler",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_046_Athena_Commando_F_AssembleR",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
     },
     {
         "id": "cid_npc_athena_commando_f_henchmanspydark",
@@ -70694,6 +73453,44 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_NPC_Athena_Commando_F_RebirthDefault_Henchman",
         "lastUpdate": "2020-02-21T16:27:07Z",
         "added": "2020-02-21T16:27:07Z"
+    },
+    {
+        "id": "cid_npc_athena_commando_f_towersentinel",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "TBD",
+        "shortDescription": "Outfit",
+        "description": "TBD",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_npc_athena_commando_f_towersentinel/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_npc_athena_commando_f_towersentinel/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": null,
+        "displayAssetPath": null,
+        "definition": "hid_npc_athena_commando_f_towersentinel",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_NPC_Athena_Commando_F_TowerSentinel",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
     },
     {
         "id": "cid_npc_athena_commando_m_catburglar_ghost",
@@ -71575,6 +74372,82 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_TBD_Athena_Commando_M_PaddedArmorOrder",
         "lastUpdate": "2020-12-08T19:08:39Z",
         "added": "2020-12-08T19:08:39Z"
+    },
+    {
+        "id": "cid_tbd_athena_commando_m_turtleneck",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "The Foundation",
+        "shortDescription": "Outfit",
+        "description": "His Sacrifice Won't Be Forgotten. Leader Of The Seven.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_tbd_athena_commando_m_turtleneck/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_tbd_athena_commando_m_turtleneck/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": null,
+        "displayAssetPath": null,
+        "definition": "hid_tbd_athena_commando_m_turtleneck",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_TBD_Athena_Commando_M_Turtleneck",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "cid_tbd_athena_commando_m_turtleneck_event_notforstore",
+        "type": "outfit",
+        "backendType": "AthenaCharacter",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "TBD",
+        "shortDescription": "Outfit",
+        "description": "TBD",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_tbd_athena_commando_m_turtleneck_event_notforstore/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/cid_tbd_athena_commando_m_turtleneck_event_notforstore/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": null,
+        "displayAssetPath": null,
+        "definition": "hid_tbd_athena_commando_m_turtleneck",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_TBD_Athena_Commando_M_Turtleneck_EVENT_NOTFORSTORE",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
     },
     {
         "id": "cid_vip_athena_commando_f_galileorocket_sg",

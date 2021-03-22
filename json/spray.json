@@ -9257,7 +9257,7 @@
         "variants": null,
         "gameplayTags": [
             "Cosmetics.EmoteType.Spray",
-            "Cosmetics.Filter.Season.13"
+            "Cosmetics.Filter.Season.15"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -10520,5 +10520,592 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_243_AFL_Winter",
         "lastUpdate": "2021-01-20T09:26:07Z",
         "added": "2021-01-20T09:26:07Z"
+    },
+    {
+        "id": "spid_244_valentines2021",
+        "type": "spray",
+        "backendType": "AthenaSpray",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Reel Love",
+        "shortDescription": "Spray",
+        "description": "Leave your mark.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_244_valentines2021/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_244_valentines2021/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_244_valentines2021/decal.png"
+            }
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Spray",
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_244_Valentines2021",
+        "lastUpdate": "2021-02-02T09:18:54Z",
+        "added": "2021-02-02T09:18:54Z"
+    },
+    {
+        "id": "spid_245_valentines2021_2",
+        "type": "spray",
+        "backendType": "AthenaSpray",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Heart Breakers",
+        "shortDescription": "Spray",
+        "description": "Leave your mark.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_245_valentines2021_2/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_245_valentines2021_2/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_245_valentines2021_2/decal.png"
+            }
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Spray",
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_245_Valentines2021_2",
+        "lastUpdate": "2021-02-02T09:18:54Z",
+        "added": "2021-02-02T09:18:54Z"
+    },
+    {
+        "id": "spid_246_obsidian",
+        "type": "spray",
+        "backendType": "AthenaSpray",
+        "rarity": "dc",
+        "displayRarity": "DC SERIES",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Daughter of Trigon",
+        "shortDescription": "Spray",
+        "description": "Leave your mark.",
+        "set": "Teen Titans",
+        "setText": "Part of the Teen Titans set.",
+        "series": "DC SERIES",
+        "backendSeries": "DCUSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_246_obsidian/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_246_obsidian/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_246_obsidian/decal.png"
+            }
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Spray",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Set.AutomaticDuke"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_246_Obsidian",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "spid_247_sentinel",
+        "type": "spray",
+        "backendType": "AthenaSpray",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Spire Master",
+        "shortDescription": "Spray",
+        "description": "Leave your mark.",
+        "set": "Looming Spire",
+        "setText": "Part of the Looming Spire set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_247_sentinel/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_247_sentinel/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_247_sentinel/decal.png"
+            }
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Spray",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Set.ImpendingSpiral"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_247_Sentinel",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "spid_248_cubeninja",
+        "type": "spray",
+        "backendType": "AthenaSpray",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Glyph Master",
+        "shortDescription": "Spray",
+        "description": "Leave your mark.",
+        "set": "Spire's Call",
+        "setText": "Part of the Spire's Call set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_248_cubeninja/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_248_cubeninja/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_248_cubeninja/decal.png"
+            }
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Spray",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Set.SpiralsCry"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_248_CubeNinja",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "spid_249_dinohunter",
+        "type": "spray",
+        "backendType": "AthenaSpray",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Primal Hunter",
+        "shortDescription": "Spray",
+        "description": "Leave your mark.",
+        "set": "Bone Punk",
+        "setText": "Part of the Bone Punk set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_249_dinohunter/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_249_dinohunter/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_249_dinohunter/decal.png"
+            }
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Spray",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Set.MarrowBully"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_249_DinoHunter",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "spid_250_agentjonesy",
+        "type": "spray",
+        "backendType": "AthenaSpray",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "They call me...",
+        "shortDescription": "Spray",
+        "description": "Leave your mark.",
+        "set": "Agent Jones",
+        "setText": "Part of the Agent Jones set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_250_agentjonesy/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_250_agentjonesy/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_250_agentjonesy/decal.png"
+            }
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Spray",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Set.OperativeBlonde"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_250_AgentJonesy",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "spid_251_chickenwarrior",
+        "type": "spray",
+        "backendType": "AthenaSpray",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Bawk Off",
+        "shortDescription": "Spray",
+        "description": "Leave your mark.",
+        "set": "Eggsplosives Expert",
+        "setText": "Part of the Eggsplosives Expert set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_251_chickenwarrior/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_251_chickenwarrior/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_251_chickenwarrior/decal.png"
+            }
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Spray",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Set.ChickenAce"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_251_ChickenWarrior",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "spid_252_temple",
+        "type": "spray",
+        "backendType": "AthenaSpray",
+        "rarity": "epic",
+        "displayRarity": "Gaming Legends Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Both Eyes Open",
+        "shortDescription": "Spray",
+        "description": "Leave your mark.",
+        "set": "Lara Croft",
+        "setText": "Part of the Lara Croft set.",
+        "series": "Gaming Legends Series",
+        "backendSeries": "PlatformSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_252_temple/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_252_temple/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_252_temple/decal.png"
+            }
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Spray",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Set.StableMove"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_252_Temple",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "spid_253_alt_1",
+        "type": "spray",
+        "backendType": "AthenaSpray",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Kablammo!",
+        "shortDescription": "Spray",
+        "description": "Leave your mark.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_253_alt_1/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_253_alt_1/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_253_alt_1/decal.png"
+            }
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Spray",
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_253_Alt_1",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "spid_254_alt_2",
+        "type": "spray",
+        "backendType": "AthenaSpray",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Beef Blade",
+        "shortDescription": "Spray",
+        "description": "Leave your mark.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_254_alt_2/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_254_alt_2/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_254_alt_2/decal.png"
+            }
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Spray",
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_254_Alt_2",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "spid_255_alt_3",
+        "type": "spray",
+        "backendType": "AthenaSpray",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Spray Away",
+        "shortDescription": "Spray",
+        "description": "Leave your mark.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_255_alt_3/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_255_alt_3/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_255_alt_3/decal.png"
+            }
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Spray",
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_255_Alt_3",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "spid_257_templecreative",
+        "type": "spray",
+        "backendType": "AthenaSpray",
+        "rarity": "epic",
+        "displayRarity": "Gaming Legends Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Heir to Croft Manor",
+        "shortDescription": "Spray",
+        "description": "Leave your mark.",
+        "set": "Lara Croft",
+        "setText": "Part of the Lara Croft set.",
+        "series": "Gaming Legends Series",
+        "backendSeries": "PlatformSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_257_templecreative/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_257_templecreative/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/spid_257_templecreative/decal.png"
+            }
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Spray",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.StableMove"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_257_TempleCreative",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
     }
 ]
