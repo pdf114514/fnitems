@@ -22,7 +22,10 @@
                 "hash": "",
                 "url": "https://fortnite-api.com/images/cosmetics/br/boltonpickaxe/icon.png"
             },
-            "featured": null,
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/boltonpickaxe/featured.png"
+            },
             "background": null,
             "coverArt": null,
             "decal": null
@@ -4388,10 +4391,7 @@
         "series": null,
         "backendSeries": null,
         "images": {
-            "smallIcon": {
-                "hash": "",
-                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_104_cowgirl/smallicon.png"
-            },
+            "smallIcon": null,
             "icon": {
                 "hash": "",
                 "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_104_cowgirl/icon.png"
@@ -8774,8 +8774,8 @@
         "name": "Plasma Carrot",
         "shortDescription": "Harvesting Tool",
         "description": "So good you can almost taste it...",
-        "set": "Space Hop",
-        "setText": "Part of the Space Hop set.",
+        "set": null,
+        "setText": null,
         "series": null,
         "backendSeries": null,
         "images": {
@@ -8821,9 +8821,8 @@
         ],
         "gameplayTags": [
             "Cosmetics.Source.ItemShop",
-            "Cosmetics.Set.SpaceBunny",
             "Cosmetics.UserFacingFlags.HasVariants",
-            "Cosmetics.Filter.Season.8"
+            "Cosmetics.Filter.Season.16"
         ],
         "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_195_SpaceBunny",
         "definition": "wid_harvest_pickaxe_spacebunny",
@@ -14355,11 +14354,43 @@
             "coverArt": null,
             "decal": null
         },
-        "variants": null,
+        "variants": [
+            {
+                "channel": "Particle",
+                "type": "Style",
+                "options": [
+                    {
+                        "tag": "Particle1",
+                        "name": "Default",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_306_punkdevil/variants/particle/particle1.png"
+                        }
+                    },
+                    {
+                        "tag": "Particle2",
+                        "name": "Lucky Star",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_306_punkdevil/variants/particle/particle2.png"
+                        }
+                    },
+                    {
+                        "tag": "Particle3",
+                        "name": "Retrograde Star",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_306_punkdevil/variants/particle/particle3.png"
+                        }
+                    }
+                ]
+            }
+        ],
         "gameplayTags": [
             "Cosmetics.Source.ItemShop",
             "Cosmetics.Set.OvernightMoon",
-            "Cosmetics.Filter.Season.11"
+            "Cosmetics.Filter.Season.11",
+            "Cosmetics.UserFacingFlags.HasVariants"
         ],
         "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_306_PunkDevil",
         "definition": "wid_harvest_pickaxe_punkdevil",
@@ -22498,8 +22529,8 @@
         "name": "Stake & Stalker",
         "shortDescription": "Harvesting Tool",
         "description": "Nothing better for a night of hunting.",
-        "set": null,
-        "setText": null,
+        "set": "Night Hunter",
+        "setText": "Part of the Night Hunter set.",
         "series": null,
         "backendSeries": null,
         "images": {
@@ -24212,7 +24243,9 @@
             "Cosmetics.Pickaxe.DualWield",
             "Cosmetics.Filter.Season.14",
             "Cosmetics.Source.ItemShop",
-            "Cosmetics.Set.InspirationExceed"
+            "Cosmetics.Set.InspirationExceed",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
         ],
         "displayAssetPath": null,
         "definition": "wid_harvest_pickaxe_vertigomale",
@@ -25488,7 +25521,7 @@
         "gameplayTags": [
             "Cosmetics.Filter.Season.15",
             "Cosmetics.Set.LeanScale",
-            "Cosmetics.Source.CrewPack.Jan2020"
+            "Cosmetics.Source.CrewPack.Jan2021"
         ],
         "displayAssetPath": null,
         "definition": "wid_harvest_pickaxe_tiptoemale",
@@ -25711,6 +25744,49 @@
         "added": "2021-01-13T09:40:21Z"
     },
     {
+        "id": "pickaxe_id_535_convoytarantulamale_gq82n",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Snake Eyes Katana",
+        "shortDescription": "Harvesting Tool",
+        "description": "Legendary blade forged by the masters.",
+        "set": "Arashikage Clan",
+        "setText": "Part of the Arashikage Clan set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_535_convoytarantulamale_gq82n/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_535_convoytarantulamale_gq82n/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Pickaxe.DualWield",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.CoverGift"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_convoytarantulamale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_535_ConvoyTarantulaMale_GQ82N",
+        "lastUpdate": "2021-01-31T00:00:00Z",
+        "added": "2021-01-31T00:00:00Z"
+    },
+    {
         "id": "pickaxe_id_538_grilledcheesemale_z7ymw",
         "type": "pickaxe",
         "backendType": "AthenaPickaxe",
@@ -25748,7 +25824,7 @@
         "definition": "wid_harvest_pickaxe_grilledcheesemale",
         "requiredItemId": null,
         "builtInEmoteId": null,
-        "path": "FortniteGame/Content/Athena/Items/Cosmetics/PickAxes/Pickaxe_ID_538_GrilledCheeseMale_Z7YMW",
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_538_GrilledCheeseMale_Z7YMW",
         "lastUpdate": "2021-01-13T15:54:59Z",
         "added": "2021-01-13T15:54:59Z"
     },
@@ -25827,7 +25903,9 @@
             "Cosmetics.Pickaxe.DualWield",
             "Cosmetics.Filter.Season.15",
             "Cosmetics.Source.Season15.BattlePass.Paid.Additional",
-            "Cosmetics.Set.ForestTracker"
+            "Cosmetics.Set.ForestTracker",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
         ],
         "displayAssetPath": null,
         "definition": "wid_harvest_pickaxe_nightmaremale",
@@ -25878,6 +25956,1417 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_541_StreetFashionEclipseFemale",
         "lastUpdate": "2021-01-13T09:40:21Z",
         "added": "2021-01-13T09:40:21Z"
+    },
+    {
+        "id": "pickaxe_id_542_typhoonfemale1h_ctevq",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Combat Knife",
+        "shortDescription": "Harvesting Tool",
+        "description": "No fate.",
+        "set": "Future War",
+        "setText": "Part of the Future War set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_542_typhoonfemale1h_ctevq/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_542_typhoonfemale1h_ctevq/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Pickaxe.OneHanded",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.OverallStake"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_typhoonfemale1h",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_542_TyphoonFemale1H_CTEVQ",
+        "lastUpdate": "2021-01-22T00:00:00Z",
+        "added": "2021-01-22T00:00:00Z"
+    },
+    {
+        "id": "pickaxe_id_543_typhoonrobotmale_s4b4m",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Techno-Grip Axe",
+        "shortDescription": "Harvesting Tool",
+        "description": "With real barrier-smashing action!",
+        "set": "Future War",
+        "setText": "Part of the Future War set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_543_typhoonrobotmale_s4b4m/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_543_typhoonrobotmale_s4b4m/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.OverallStake"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_typhoonrobotmale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_543_TyphoonRobotMale_S4B4M",
+        "lastUpdate": "2021-01-22T00:00:00Z",
+        "added": "2021-01-22T00:00:00Z"
+    },
+    {
+        "id": "pickaxe_id_544_foxwarriorfemale_byvm8",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Crooked Claw",
+        "shortDescription": "Harvesting Tool",
+        "description": "Trusted and true.",
+        "set": "Drift Tracker",
+        "setText": "Part of the Drift Tracker set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_544_foxwarriorfemale_byvm8/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_544_foxwarriorfemale_byvm8/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Particle",
+                "type": "Style",
+                "options": [
+                    {
+                        "tag": "Particle1",
+                        "name": "Default",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_544_foxwarriorfemale_byvm8/variants/particle/particle1.png"
+                        }
+                    },
+                    {
+                        "tag": "Particle2",
+                        "name": "Arctic",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_544_foxwarriorfemale_byvm8/variants/particle/particle2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Set.ThesisCinema",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Source.CrewPack.Feb2021"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_foxwarriorfemale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_544_FoxWarriorFemale_BYVM8",
+        "lastUpdate": "2021-01-31T16:13:29Z",
+        "added": "2021-01-31T16:13:29Z"
+    },
+    {
+        "id": "pickaxe_id_545_crushfemale1h",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Lovestruck Striker",
+        "shortDescription": "Harvesting Tool",
+        "description": "More than just a crush.",
+        "set": "Be Mine",
+        "setText": "Part of the Be Mine set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_545_crushfemale1h/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_545_crushfemale1h/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Pickaxe.DualWield",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.BeYours"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_crushfemale1h",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_545_CrushFemale1H",
+        "lastUpdate": "2021-02-02T09:18:54Z",
+        "added": "2021-02-02T09:18:54Z"
+    },
+    {
+        "id": "pickaxe_id_546_mainframemale_xw9s6",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Identity Disc",
+        "shortDescription": "Harvesting Tool",
+        "description": "Never leave your home System without it.",
+        "set": "End of Line",
+        "setText": "Part of the End of Line set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_546_mainframemale_xw9s6/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_546_mainframemale_xw9s6/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Pickaxe.OneHanded",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.AnimalClock"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_mainframemale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_546_MainframeMale_XW9S6",
+        "lastUpdate": "2021-02-12T00:00:00Z",
+        "added": "2021-02-12T00:00:00Z"
+    },
+    {
+        "id": "pickaxe_id_547_streetcuddlesmale1h",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Breathless Blades",
+        "shortDescription": "Harvesting Tool",
+        "description": "Leave 'em breathless.",
+        "set": "Be Mine",
+        "setText": "Part of the Be Mine set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_547_streetcuddlesmale1h/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_547_streetcuddlesmale1h/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Pickaxe.DualWield",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.Event.Valentines.2021",
+            "Cosmetics.Set.BeYours"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_streetcuddlesmale1h",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_547_StreetCuddlesMale1H",
+        "lastUpdate": "2021-02-02T09:18:54Z",
+        "added": "2021-02-02T09:18:54Z"
+    },
+    {
+        "id": "pickaxe_id_548_tarmale_8x3by",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "dc",
+        "displayRarity": "DC SERIES",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Speed Force Slashers",
+        "shortDescription": "Harvesting Tool",
+        "description": "Physical manifestations of the Scarlet Speedster's powers.",
+        "set": "The Flash",
+        "setText": "Part of the The Flash set.",
+        "series": "DC SERIES",
+        "backendSeries": "DCUSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_548_tarmale_8x3by/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_548_tarmale_8x3by/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Particle",
+                "type": "REACTIVITY",
+                "options": [
+                    {
+                        "tag": "Particle1",
+                        "name": "Powered",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_548_tarmale_8x3by/variants/particle/particle1.png"
+                        }
+                    },
+                    {
+                        "tag": "Particle2",
+                        "name": "Power Drained",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_548_tarmale_8x3by/variants/particle/particle2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Pickaxe.DualWield",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.GuestFiction",
+            "Cosmetics.UserFacingFlags.HasVariants"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_tarmale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_548_TarMale_8X3BY",
+        "lastUpdate": "2021-02-11T06:31:33Z",
+        "added": "2021-02-11T06:31:33Z"
+    },
+    {
+        "id": "pickaxe_id_549_ancientgladiatorfemale",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Arena's Blessing",
+        "shortDescription": "Harvesting Tool",
+        "description": "Some things can only be won.",
+        "set": "The Vanquisher",
+        "setText": "Part of the The Vanquisher set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_549_ancientgladiatorfemale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_549_ancientgladiatorfemale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.Conqueror"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_ancientgladiatorfemale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_549_AncientGladiatorFemale",
+        "lastUpdate": "2021-02-16T09:22:57Z",
+        "added": "2021-02-16T09:22:57Z"
+    },
+    {
+        "id": "pickaxe_id_550_casualbomberlightfemale1h",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Breezy Bashers",
+        "shortDescription": "Harvesting Tool",
+        "description": "Llook out, here they come!",
+        "set": "Sun & Storm",
+        "setText": "Part of the Sun & Storm set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_550_casualbomberlightfemale1h/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_550_casualbomberlightfemale1h/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Mesh",
+                "type": "Style",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "Default",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_550_casualbomberlightfemale1h/variants/mesh/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "Cloudburst Bashers",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_550_casualbomberlightfemale1h/variants/mesh/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Pickaxe.DualWield",
+            "Cosmetics.UserFacingFlags.Reactive",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.LightRain",
+            "Cosmetics.UserFacingFlags.HasVariants"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_casualbomberlightfemale1h",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_550_CasualBomberLightFemale1H",
+        "lastUpdate": "2021-02-16T09:22:57Z",
+        "added": "2021-02-16T09:22:57Z"
+    },
+    {
+        "id": "pickaxe_id_551_keplerfemale_aoyi5",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "P-5000 Power Loader Arm",
+        "shortDescription": "Harvesting Tool",
+        "description": "Requires a Class-2 rating or higher.",
+        "set": "In Space...",
+        "setText": "Part of the In Space... set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_551_keplerfemale_aoyi5/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_551_keplerfemale_aoyi5/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.ToneTrip"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_keplerfemale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_551_KeplerFemale_AOYI5",
+        "lastUpdate": "2021-02-26T00:00:00Z",
+        "added": "2021-02-26T00:00:00Z"
+    },
+    {
+        "id": "pickaxe_id_552_llamaherowintermale_s9mdn",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Puffcorn Pick",
+        "shortDescription": "Harvesting Tool",
+        "description": "Inflated for maximum cornage.",
+        "set": "Llegend",
+        "setText": "Part of the Llegend set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_552_llamaherowintermale_s9mdn/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_552_llamaherowintermale_s9mdn/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.AcutePanic",
+            "Cosmetics.Source.CrewPack.March2021"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_llamaherowintermale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_552_LlamaHeroWinterMale_S9MDN",
+        "lastUpdate": "2021-02-22T12:10:00Z",
+        "added": "2021-02-22T12:10:00Z"
+    },
+    {
+        "id": "pickaxe_id_553_skirmishfemale_j2jxx",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "epic",
+        "displayRarity": "Gaming Legends Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Seven Star Flashing Flail",
+        "shortDescription": "Harvesting Tool",
+        "description": "Super Combo!",
+        "set": "Street Fighter",
+        "setText": "Part of the Street Fighter set.",
+        "series": "Gaming Legends Series",
+        "backendSeries": "PlatformSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_553_skirmishfemale_j2jxx/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_553_skirmishfemale_j2jxx/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Pickaxe.OneHanded",
+            "Cosmetics.Set.BikeCatch"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_skirmishfemale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_553_SkirmishFemale_J2JXX",
+        "lastUpdate": "2021-02-21T00:00:00Z",
+        "added": "2021-02-21T00:00:00Z"
+    },
+    {
+        "id": "pickaxe_id_554_skirmishmale_ml78q",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "epic",
+        "displayRarity": "Gaming Legends Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Signpost Pummeler",
+        "shortDescription": "Harvesting Tool",
+        "description": "Ripped from the battlefield and ready for action.",
+        "set": "Street Fighter",
+        "setText": "Part of the Street Fighter set.",
+        "series": "Gaming Legends Series",
+        "backendSeries": "PlatformSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_554_skirmishmale_ml78q/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_554_skirmishmale_ml78q/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Pickaxe.OneHanded",
+            "Cosmetics.Set.BikeCatch"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_skirmishmale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_554_SkirmishMale_ML78Q",
+        "lastUpdate": "2021-02-21T00:00:00Z",
+        "added": "2021-02-21T00:00:00Z"
+    },
+    {
+        "id": "pickaxe_id_555_buildermale",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Ol' Mate Sledgy",
+        "shortDescription": "Harvesting Tool",
+        "description": "Use this to look like you're doing something.",
+        "set": "Lazarbeam",
+        "setText": "Part of the Lazarbeam set.",
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_555_buildermale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_555_buildermale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Mesh",
+                "type": "Pickaxe Type",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "Default",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_555_buildermale/variants/mesh/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "Ol' Mate Sledgy (Full Sized)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_555_buildermale/variants/mesh/stage2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Pickaxe.OneHanded",
+            "Cosmetics.Set.MentionPremium"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_buildermale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_555_BuilderMale",
+        "lastUpdate": "2021-03-02T10:19:28Z",
+        "added": "2021-03-02T10:19:28Z"
+    },
+    {
+        "id": "pickaxe_id_556_catburglarfemale1h",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Golden Daggers",
+        "shortDescription": "Harvesting Tool",
+        "description": "A treasured gift from Midas.",
+        "set": "Golden Touch",
+        "setText": "Part of the Golden Touch set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_556_catburglarfemale1h/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_556_catburglarfemale1h/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Pickaxe.DualWield",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.RMT",
+            "Cosmetics.Set.GoldHand"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_catburglarfemale1h",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_556_CatBurglarFemale1H",
+        "lastUpdate": "2021-03-02T10:19:28Z",
+        "added": "2021-03-02T10:19:28Z"
+    },
+    {
+        "id": "pickaxe_id_557_lionsoldiermale",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Centurion Edge",
+        "shortDescription": "Harvesting Tool",
+        "description": "The only barrier left is fear.",
+        "set": "Hazard Platoon",
+        "setText": "Part of the Hazard Platoon set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_557_lionsoldiermale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_557_lionsoldiermale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Particle",
+                "type": "Style",
+                "options": [
+                    {
+                        "tag": "Particle1",
+                        "name": "Default",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_557_lionsoldiermale/variants/particle/particle1.png"
+                        }
+                    },
+                    {
+                        "tag": "Particle2",
+                        "name": "Centurion Edge (Assault)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_557_lionsoldiermale/variants/particle/particle2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Source.StarterPack",
+            "Cosmetics.Set.DangerArmy"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_lionsoldiermale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_557_LionSoldierMale",
+        "lastUpdate": "2021-03-02T10:19:28Z",
+        "added": "2021-03-02T10:19:28Z"
+    },
+    {
+        "id": "pickaxe_id_558_smallfrymale_ybd34",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "marvel",
+        "displayRarity": "MARVEL SERIES",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Toothpick",
+        "shortDescription": "Harvesting Tool",
+        "description": "Packs an olive-y punch.",
+        "set": "Ant-Man",
+        "setText": "Part of the Ant-Man set.",
+        "series": "MARVEL SERIES",
+        "backendSeries": "MarvelSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_558_smallfrymale_ybd34/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_558_smallfrymale_ybd34/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.TolerantFortune"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_smallfrymale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_558_SmallFryMale_YBD34",
+        "lastUpdate": "2021-03-07T00:00:00Z",
+        "added": "2021-03-07T00:00:00Z"
+    },
+    {
+        "id": "pickaxe_id_559_spacewarriormale",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Asteroid Trencher",
+        "shortDescription": "Harvesting Tool",
+        "description": "Repurposed deep space mining equipment.",
+        "set": "Galactic Rangers",
+        "setText": "Part of the Galactic Rangers set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_559_spacewarriormale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_559_spacewarriormale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Particle",
+                "type": "Style",
+                "options": [
+                    {
+                        "tag": "Particle1",
+                        "name": "Default",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_559_spacewarriormale/variants/particle/particle1.png"
+                        }
+                    },
+                    {
+                        "tag": "Particle2",
+                        "name": "Asteroid Trencher (Elite)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_559_spacewarriormale/variants/particle/particle2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.UserFacingFlags.HasVariants",
+            "Cosmetics.Set.SpacePolice"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_spacewarriormale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_559_SpaceWarriorMale",
+        "lastUpdate": "2021-03-02T10:19:28Z",
+        "added": "2021-03-02T10:19:28Z"
+    },
+    {
+        "id": "pickaxe_id_560_tacticalwoodlandbluemale",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Synaptic Hatchets",
+        "shortDescription": "Harvesting Tool",
+        "description": "Uncomfortably aerodynamic.",
+        "set": "Advanced Forces",
+        "setText": "Part of the Advanced Forces set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_560_tacticalwoodlandbluemale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_560_tacticalwoodlandbluemale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Pickaxe.DualWield",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.Promo",
+            "Cosmetics.Set.AdvancedForces"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_tacticalwoodlandbluemale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_560_TacticalWoodlandBlueMale",
+        "lastUpdate": "2021-03-02T10:19:28Z",
+        "added": "2021-03-02T10:19:28Z"
+    },
+    {
+        "id": "pickaxe_id_561_assembler",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Ray's Smasher",
+        "shortDescription": "Harvesting Tool",
+        "description": "Smash 'em all down!",
+        "set": "#17",
+        "setText": "Part of the #17 set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_561_assembler/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_561_assembler/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Source.RMT.STWStarterPack",
+            "Cosmetics.Set.NumberSeventeen"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_assembler",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_561_AssembleR",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "pickaxe_id_562_bananaleader",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Gladius of Potassius",
+        "shortDescription": "Harvesting Tool",
+        "description": "The valiant never taste of pudding but once.",
+        "set": "The Ides of Bunch",
+        "setText": "Part of the The Ides of Bunch set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_562_bananaleader/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_562_bananaleader/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Pickaxe.OneHanded",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.MiddlePotassium"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_bananaleader",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_562_BananaLeader",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "pickaxe_id_563_chickenwarriormale1h",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Drummies",
+        "shortDescription": "Harvesting Tool",
+        "description": "Don't forget the dippin' sauce.",
+        "set": "Eggsplosives Expert",
+        "setText": "Part of the Eggsplosives Expert set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_563_chickenwarriormale1h/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_563_chickenwarriormale1h/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Pickaxe.DualWield",
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.ChickenAce"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_chickenwarriormale1h",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_563_ChickenWarriorMale1H",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "pickaxe_id_564_cubeninjamale",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Crystal Axe of the Masters",
+        "shortDescription": "Harvesting Tool",
+        "description": "The blade is carved from a single Zero Point crystal.",
+        "set": "Spire's Call",
+        "setText": "Part of the Spire's Call set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_564_cubeninjamale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_564_cubeninjamale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.SpiralsCry"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_cubeninjamale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_564_CubeNinjaMale",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "pickaxe_id_565_darkminionmale1h",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Razor Wing",
+        "shortDescription": "Harvesting Tool",
+        "description": "The wings of despair also happen to be very sharp.",
+        "set": "Night Flight",
+        "setText": "Part of the Night Flight set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_565_darkminionmale1h/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_565_darkminionmale1h/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_565_darkminionmale1h/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Pickaxe.GalileoFerry",
+            "Cosmetics.Pickaxe.DoubleWrist",
+            "Cosmetics.Set.LateShuttle"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_darkminionmale1h",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_565_DarkMinionMale1H",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "pickaxe_id_566_dinohunterfemale",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "T-Wrecks",
+        "shortDescription": "Harvesting Tool",
+        "description": "Sometimes you need a dinosaw.",
+        "set": "Bone Punk",
+        "setText": "Part of the Bone Punk set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_566_dinohunterfemale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_566_dinohunterfemale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Particle",
+                "type": "Color",
+                "options": [
+                    {
+                        "tag": "Particle1",
+                        "name": "DEFAULT",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_566_dinohunterfemale/variants/particle/particle1.png"
+                        }
+                    },
+                    {
+                        "tag": "Particle2",
+                        "name": "T-Wrecks (Indigo)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_566_dinohunterfemale/variants/particle/particle2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+            "Cosmetics.Set.MarrowBully"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_dinohunterfemale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_566_DinoHunterFemale",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "pickaxe_id_568_obsidianfemale",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "dc",
+        "displayRarity": "DC SERIES",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Axe-tral Form",
+        "shortDescription": "Harvesting Tool",
+        "description": "Control your emotions - Don't let them control you.",
+        "set": "Teen Titans",
+        "setText": "Part of the Teen Titans set.",
+        "series": "DC SERIES",
+        "backendSeries": "DCUSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_568_obsidianfemale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_568_obsidianfemale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.Season16.BattlePass.Free",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Pickaxe.DonutPlate",
+            "Cosmetics.Set.AutomaticDuke"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_obsidianfemale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_568_ObsidianFemale",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "pickaxe_id_569_scholarfemale",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Astrolomaster's Staff",
+        "shortDescription": "Harvesting Tool",
+        "description": "Pre-Req: Spell-Casting 201",
+        "set": "Oakwitch Academy",
+        "setText": "Part of the Oakwitch Academy set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_569_scholarfemale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_569_scholarfemale/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_569_scholarfemale/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.MagicInstitute"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_scholarfemale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_569_ScholarFemale",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "pickaxe_id_570_temple",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "epic",
+        "displayRarity": "Gaming Legends Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Pry Axe",
+        "shortDescription": "Harvesting Tool",
+        "description": "A multi-purpose tool for a multitude of purposes.",
+        "set": "Lara Croft",
+        "setText": "Part of the Lara Croft set.",
+        "series": "Gaming Legends Series",
+        "backendSeries": "PlatformSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_570_temple/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_570_temple/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Pickaxe.DualWield",
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.StableMove"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_temple",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_570_Temple",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "pickaxe_id_571_towersentinelfemale",
+        "type": "pickaxe",
+        "backendType": "AthenaPickaxe",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Spire Flame",
+        "shortDescription": "Harvesting Tool",
+        "description": "Aglow with mystical flame.",
+        "set": "Looming Spire",
+        "setText": "Part of the Looming Spire set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_571_towersentinelfemale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_571_towersentinelfemale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.ImpendingSpiral"
+        ],
+        "displayAssetPath": null,
+        "definition": "wid_harvest_pickaxe_towersentinelfemale",
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_571_TowerSentinelFemale",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
     },
     {
         "id": "pickaxe_id_stw001_tier_1",

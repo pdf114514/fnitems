@@ -3594,6 +3594,224 @@
         "added": "2020-12-15T11:25:12Z"
     },
     {
+        "id": "trails_id_112_cubeninja",
+        "type": "contrail",
+        "backendType": "AthenaSkyDiveContrail",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Chroma Flame",
+        "shortDescription": "Contrail",
+        "description": "Which glyphs are most aerodynamic...?",
+        "set": "Spire's Call",
+        "setText": "Part of the Spire's Call set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_112_cubeninja/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_112_cubeninja/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.SpiralsCry"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_112_CubeNinja",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "trails_id_113_dinohunter",
+        "type": "contrail",
+        "backendType": "AthenaSkyDiveContrail",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Dino Feather",
+        "shortDescription": "Contrail",
+        "description": "Yeah. They've got feathers now.",
+        "set": "Bone Punk",
+        "setText": "Part of the Bone Punk set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_113_dinohunter/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_113_dinohunter/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.MarrowBully"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_113_DinoHunter",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "trails_id_114_temple",
+        "type": "contrail",
+        "backendType": "AthenaSkyDiveContrail",
+        "rarity": "epic",
+        "displayRarity": "Gaming Legends Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Spelunker's Special",
+        "shortDescription": "Contrail",
+        "description": "Cast light on the shadows.",
+        "set": "Lara Croft",
+        "setText": "Part of the Lara Croft set.",
+        "series": "Gaming Legends Series",
+        "backendSeries": "PlatformSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_114_temple/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_114_temple/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+            "Cosmetics.Source.Season16.BattlePass.Free",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.StableMove"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_114_Temple",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "trails_id_115_tube",
+        "type": "contrail",
+        "backendType": "AthenaSkyDiveContrail",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Warp Wave",
+        "shortDescription": "Contrail",
+        "description": "Look out for that sound barrier.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_115_tube/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_115_tube/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+            "Cosmetics.Source.Season16.BattlePass.Free",
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_115_Tube",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "trails_id_116_wavesoflight",
+        "type": "contrail",
+        "backendType": "AthenaSkyDiveContrail",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Conduit Crasher",
+        "shortDescription": "Contrail",
+        "description": "Feel the energy.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_116_wavesoflight/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_116_wavesoflight/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_116_WavesOfLight",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
         "id": "trails_id_31_greenflame",
         "type": "contrail",
         "backendType": "AthenaSkyDiveContrail",

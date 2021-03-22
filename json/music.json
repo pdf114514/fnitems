@@ -3314,6 +3314,264 @@
         "added": "2021-01-13T09:40:21Z"
     },
     {
+        "id": "musicpack_075_fishstickquest",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Hooked On You",
+        "shortDescription": "Music",
+        "description": "Press play and fall in love.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_075_fishstickquest/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_075_fishstickquest/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_075_fishstickquest/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_075_FishstickQuest",
+        "lastUpdate": "2021-02-02T09:18:54Z",
+        "added": "2021-02-02T09:18:54Z"
+    },
+    {
+        "id": "musicpack_076_io_guard",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "IO ATTACK",
+        "shortDescription": "Music",
+        "description": "Press play and imagine.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_076_io_guard/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_076_io_guard/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_076_io_guard/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_076_IO_Guard",
+        "lastUpdate": "2021-02-16T09:22:57Z",
+        "added": "2021-02-16T09:22:57Z"
+    },
+    {
+        "id": "musicpack_077_butterbarn",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Butter Barn Hoedown",
+        "shortDescription": "Music",
+        "description": "Press play and grab yer pardner.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_077_butterbarn/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_077_butterbarn/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_077_butterbarn/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_077_ButterBarn",
+        "lastUpdate": "2021-03-02T10:19:28Z",
+        "added": "2021-03-02T10:19:28Z"
+    },
+    {
+        "id": "musicpack_078_raisetheroof",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Raise Up",
+        "shortDescription": "Music",
+        "description": "Press play and raise the roof.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_078_raisetheroof/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_078_raisetheroof/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_078_raisetheroof/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_078_RaiseTheRoof",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "musicpack_079_s16_cine",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Wild",
+        "shortDescription": "Music",
+        "description": "Press play and get wild.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_079_s16_cine/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_079_s16_cine/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_079_s16_cine/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_079_S16_Cine",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "musicpack_080_s15_endevent",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "After Zero",
+        "shortDescription": "Music",
+        "description": "Press play and save all reality.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_080_s15_endevent/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_080_s15_endevent/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_080_s15_endevent/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_080_S15_EndEvent",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
         "id": "musicpack_random",
         "type": "music",
         "backendType": "AthenaMusicPack",

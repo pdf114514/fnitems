@@ -833,16 +833,16 @@
         "id": "eid_autumntea",
         "type": "emote",
         "backendType": "AthenaDance",
-        "rarity": "rare",
-        "displayRarity": "Rare",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
         "backendRarity": "EFortRarity::Rare",
         "name": "Blinding Lights",
         "shortDescription": "Emote",
         "description": "It's all in the footwork.",
         "set": null,
         "setText": null,
-        "series": null,
-        "backendSeries": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
         "images": {
             "smallIcon": {
                 "hash": "",
@@ -1913,6 +1913,48 @@
         "added": "2020-12-08T19:08:39Z"
     },
     {
+        "id": "eid_bootsandcats",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Boots 'n' Cats",
+        "shortDescription": "Emote",
+        "description": "Beat outside the box.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_bootsandcats/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_bootsandcats/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BootsAndCats",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
         "id": "eid_bottlecapchallenge",
         "type": "emote",
         "backendType": "AthenaDance",
@@ -1956,6 +1998,48 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BottleCapChallenge",
         "lastUpdate": "2020-01-15T09:35:51Z",
         "added": "2020-01-15T09:35:51Z"
+    },
+    {
+        "id": "eid_bouquet",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Bloomin' Bouquet",
+        "shortDescription": "Emote",
+        "description": "Freshly picked for you.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_bouquet/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_bouquet/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Bouquet",
+        "lastUpdate": "2021-02-02T09:18:54Z",
+        "added": "2021-02-02T09:18:54Z"
     },
     {
         "id": "eid_breakboy",
@@ -2297,6 +2381,49 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BuildASnowman",
         "lastUpdate": "2019-12-12T09:40:16Z",
         "added": "2019-12-12T09:40:16Z"
+    },
+    {
+        "id": "eid_builders",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Lunch Break",
+        "shortDescription": "Emote",
+        "description": "I want five of 'em.",
+        "set": "Lazarbeam",
+        "setText": "Part of the Lazarbeam set.",
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_builders/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_builders/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.MentionPremium"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Builders",
+        "lastUpdate": "2021-03-02T10:19:28Z",
+        "added": "2021-03-02T10:19:28Z"
     },
     {
         "id": "eid_bunnyflop",
@@ -2761,7 +2888,9 @@
             "Cosmetics.EmoteType.Dance",
             "Cosmetics.UserFacingFlags.BuiltInEmote",
             "Cosmetics.Filter.Season.11",
-            "Cosmetics.Set.IceStories"
+            "Cosmetics.Set.IceStories",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -2857,6 +2986,48 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_ChairTime",
         "lastUpdate": "2019-11-20T12:51:19Z",
         "added": "2019-11-20T12:51:19Z"
+    },
+    {
+        "id": "eid_checkeredflag",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "On Your Marks...",
+        "shortDescription": "Emote",
+        "description": "Get set... Go!",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_checkeredflag/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_checkeredflag/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_CheckeredFlag",
+        "lastUpdate": "2021-02-02T09:18:54Z",
+        "added": "2021-02-02T09:18:54Z"
     },
     {
         "id": "eid_cheerleading",
@@ -3058,7 +3229,7 @@
         "gameplayTags": [
             "Cosmetics.EmoteType.Dance",
             "Cosmetics.Source.ItemShop",
-            "Cosmetics.Filter.Season.10"
+            "Cosmetics.Filter.Season.15"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -3230,6 +3401,50 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Clapperboard",
         "lastUpdate": "2019-11-20T12:49:45Z",
         "added": "2019-11-20T12:49:45Z"
+    },
+    {
+        "id": "eid_cloudfloat",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "legendary",
+        "displayRarity": "Legendary",
+        "backendRarity": "EFortRarity::Legendary",
+        "name": "Dream Stance",
+        "shortDescription": "Emote",
+        "description": "Tap into the glyphs.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_cloudfloat/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_cloudfloat/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.UserFacingFlags.Emote.Traversal",
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.UserFacingFlags.BuiltInEmote"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_CloudFloat",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
     },
     {
         "id": "eid_cointoss",
@@ -3520,7 +3735,9 @@
         "gameplayTags": [
             "Cosmetics.EmoteType.Dance",
             "Cosmetics.UserFacingFlags.BuiltInEmote",
-            "Cosmetics.Filter.Season.15"
+            "Cosmetics.Filter.Season.15",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -3919,6 +4136,49 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Cry",
         "lastUpdate": "2019-11-20T12:49:45Z",
         "added": "2019-11-20T12:49:45Z"
+    },
+    {
+        "id": "eid_custodial",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Clean Sweep",
+        "shortDescription": "Emote",
+        "description": "Tidy as you go.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_custodial/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_custodial/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.Season16.BattlePass.Free",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.UserFacingFlags.Emote.Traversal"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Custodial",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
     },
     {
         "id": "eid_cyclone",
@@ -4575,16 +4835,16 @@
         "id": "eid_dontsneeze",
         "type": "emote",
         "backendType": "AthenaDance",
-        "rarity": "rare",
-        "displayRarity": "Rare",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
         "backendRarity": "EFortRarity::Rare",
         "name": "Smeeze",
         "shortDescription": "Emote",
         "description": "Hop to it.",
         "set": null,
         "setText": null,
-        "series": null,
-        "backendSeries": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
         "images": {
             "smallIcon": {
                 "hash": "",
@@ -5481,16 +5741,16 @@
         "id": "eid_feral",
         "type": "emote",
         "backendType": "AthenaDance",
-        "rarity": "rare",
-        "displayRarity": "Rare",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
         "backendRarity": "EFortRarity::Rare",
         "name": "Savage",
         "shortDescription": "Emote",
         "description": "You a challenger or what?",
         "set": null,
         "setText": null,
-        "series": null,
-        "backendSeries": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
         "images": {
             "smallIcon": {
                 "hash": "",
@@ -6279,7 +6539,9 @@
             "Cosmetics.EmoteType.Dance",
             "Cosmetics.Source.Season15.BattlePass.Paid",
             "Cosmetics.UserFacingFlags.BuiltInEmote",
-            "Cosmetics.Filter.Season.15"
+            "Cosmetics.Filter.Season.15",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -6549,6 +6811,48 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_GalileoShow_Cheer",
         "lastUpdate": "2019-11-20T12:48:11Z",
         "added": "2019-11-20T12:48:11Z"
+    },
+    {
+        "id": "eid_gasstation_104fq",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Pull Up",
+        "shortDescription": "Emote",
+        "description": "Pull up and take the challenge.",
+        "set": null,
+        "setText": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_gasstation_104fq/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_gasstation_104fq/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_GasStation_104FQ",
+        "lastUpdate": "2021-02-28T00:00:00Z",
+        "added": "2021-02-28T00:00:00Z"
     },
     {
         "id": "eid_getfunky",
@@ -7186,7 +7490,9 @@
             "Cosmetics.EmoteType.Dance",
             "Cosmetics.Source.Season15.BattlePass.Paid",
             "Cosmetics.Filter.Season.15",
-            "Cosmetics.UserFacingFlags.BuiltInEmote"
+            "Cosmetics.UserFacingFlags.BuiltInEmote",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -8642,8 +8948,8 @@
         "name": "Freezing Burst",
         "shortDescription": "Emote",
         "description": "Unleash the frozen Leviathan.",
-        "set": null,
-        "setText": null,
+        "set": "Oathbreaker",
+        "setText": "Part of the Oathbreaker set.",
         "series": "Gaming Legends Series",
         "backendSeries": "PlatformSeries",
         "images": {
@@ -8665,7 +8971,10 @@
             "Cosmetics.EmoteType.Dance",
             "Cosmetics.Source.ItemShop",
             "Cosmetics.Filter.Season.15",
-            "Cosmetics.UserFacingFlags.BuiltInEmote"
+            "Cosmetics.UserFacingFlags.BuiltInEmote",
+            "Cosmetics.Set.ReformBike",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -9061,16 +9370,16 @@
         "id": "eid_hotpink",
         "type": "emote",
         "backendType": "AthenaDance",
-        "rarity": "rare",
-        "displayRarity": "Rare",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
         "backendRarity": "EFortRarity::Rare",
         "name": "Say So",
         "shortDescription": "Emote",
         "description": "Roll with the changes.",
         "set": null,
         "setText": null,
-        "series": null,
-        "backendSeries": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
         "images": {
             "smallIcon": {
                 "hash": "",
@@ -9698,16 +10007,16 @@
         "id": "eid_januarybop",
         "type": "emote",
         "backendType": "AthenaDance",
-        "rarity": "rare",
-        "displayRarity": "Rare",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
         "backendRarity": "EFortRarity::Rare",
         "name": "Jabba Switchway",
         "shortDescription": "Emote",
         "description": "I'm a little bit different. They get it.",
         "set": null,
         "setText": null,
-        "series": null,
-        "backendSeries": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
         "images": {
             "smallIcon": {
                 "hash": "",
@@ -9955,16 +10264,16 @@
         "id": "eid_julybooks",
         "type": "emote",
         "backendType": "AthenaDance",
-        "rarity": "rare",
-        "displayRarity": "Rare",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
         "backendRarity": "EFortRarity::Rare",
         "name": "Out West",
         "shortDescription": "Emote",
         "description": "Jump off the back of the bus.",
         "set": null,
         "setText": null,
-        "series": null,
-        "backendSeries": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
         "images": {
             "smallIcon": {
                 "hash": "",
@@ -10126,16 +10435,16 @@
         "id": "eid_justhome",
         "type": "emote",
         "backendType": "AthenaDance",
-        "rarity": "rare",
-        "displayRarity": "Rare",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
         "backendRarity": "EFortRarity::Rare",
         "name": "The Renegade",
         "shortDescription": "Emote",
         "description": "Win big.",
         "set": null,
         "setText": null,
-        "series": null,
-        "backendSeries": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
         "images": {
             "smallIcon": {
                 "hash": "",
@@ -10330,6 +10639,136 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_KeeperDreamHook",
         "lastUpdate": "2020-09-23T08:28:55Z",
         "added": "2020-09-23T08:28:55Z"
+    },
+    {
+        "id": "eid_keplerfemale_c98jd",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Burst Case Scenario",
+        "shortDescription": "Emote",
+        "description": "That's some serious indigestion.",
+        "set": "In Space...",
+        "setText": "Part of the In Space... set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_keplerfemale_c98jd/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_keplerfemale_c98jd/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.ToneTrip"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_KeplerFemale_C98JD",
+        "lastUpdate": "2021-02-26T00:00:00Z",
+        "added": "2021-02-26T00:00:00Z"
+    },
+    {
+        "id": "eid_keplermale_oqs83",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Xeno Menace",
+        "shortDescription": "Emote",
+        "description": "Don't spoil your appetite.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_keplermale_oqs83/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_keplermale_oqs83/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.BuiltInEmote",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_KeplerMale_OQS83",
+        "lastUpdate": "2021-02-26T00:01:03Z",
+        "added": "2021-02-26T00:01:03Z"
+    },
+    {
+        "id": "eid_kilo_vd0pk",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Pel\u00e9\u2019s Air Punch",
+        "shortDescription": "Emote",
+        "description": "A celebration fit for a King.",
+        "set": null,
+        "setText": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_kilo_vd0pk/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_kilo_vd0pk/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Kilo_VD0PK",
+        "lastUpdate": "2021-01-21T20:29:07Z",
+        "added": "2021-01-21T20:29:07Z"
     },
     {
         "id": "eid_kingeagle",
@@ -10942,16 +11381,16 @@
         "id": "eid_letsbegin",
         "type": "emote",
         "backendType": "AthenaDance",
-        "rarity": "rare",
-        "displayRarity": "Rare",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
         "backendRarity": "EFortRarity::Rare",
         "name": "Don't Start Now",
         "shortDescription": "Emote",
         "description": "I'm better on the other side.",
         "set": null,
         "setText": null,
-        "series": null,
-        "backendSeries": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
         "images": {
             "smallIcon": {
                 "hash": "",
@@ -11056,7 +11495,9 @@
             "Cosmetics.Source.Season15.BattlePass.Paid",
             "Emote.ActivationTrigger.RemoveDisguise",
             "Cosmetics.UserFacingFlags.BuiltInEmote",
-            "Cosmetics.Filter.Season.15"
+            "Cosmetics.Filter.Season.15",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -11312,7 +11753,9 @@
             "Cosmetics.Source.Season6.BattlePass.Paid",
             "phoebe.cosmetic.EID_LlamaRider_Glitter",
             "Cosmetics.Filter.Season.6",
-            "Cosmetics.UserFacingFlags.BuiltInEmote"
+            "Cosmetics.UserFacingFlags.BuiltInEmote",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -11451,6 +11894,48 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_LookAtThis",
         "lastUpdate": "2019-11-20T12:49:43Z",
         "added": "2019-11-20T12:49:43Z"
+    },
+    {
+        "id": "eid_lounging",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Bean Bag",
+        "shortDescription": "Emote",
+        "description": "Snacks not included.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_lounging/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_lounging/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Lounging",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
     },
     {
         "id": "eid_lunchbox",
@@ -12054,6 +12539,48 @@
         "added": "2019-11-20T12:49:43Z"
     },
     {
+        "id": "eid_moderateamount_9lun1",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Wanna See Me",
+        "shortDescription": "Emote",
+        "description": "Do your dance.",
+        "set": null,
+        "setText": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_moderateamount_9lun1/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_moderateamount_9lun1/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_ModerateAmount_9LUN1",
+        "lastUpdate": "2021-02-06T00:00:00Z",
+        "added": "2021-02-06T00:00:00Z"
+    },
+    {
         "id": "eid_montecarlo",
         "type": "emote",
         "backendType": "AthenaDance",
@@ -12311,16 +12838,16 @@
         "id": "eid_nevergonna",
         "type": "emote",
         "backendType": "AthenaDance",
-        "rarity": "rare",
-        "displayRarity": "Rare",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
         "backendRarity": "EFortRarity::Rare",
         "name": "Never Gonna",
         "shortDescription": "Emote",
         "description": "Surprisingly smooth.",
         "set": null,
         "setText": null,
-        "series": null,
-        "backendSeries": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
         "images": {
             "smallIcon": {
                 "hash": "",
@@ -12356,16 +12883,16 @@
         "id": "eid_nevergonnaraisin",
         "type": "emote",
         "backendType": "AthenaDance",
-        "rarity": "rare",
-        "displayRarity": "Rare",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
         "backendRarity": "EFortRarity::Rare",
         "name": "Never Gonna",
         "shortDescription": "Emote",
         "description": "Surprisingly smooth.",
         "set": null,
         "setText": null,
-        "series": null,
-        "backendSeries": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
         "images": {
             "smallIcon": {
                 "hash": "",
@@ -12431,7 +12958,9 @@
             "Cosmetics.EmoteType.Dance",
             "Emote.ActivationTrigger.RemoveDisguise",
             "Cosmetics.UserFacingFlags.BuiltInEmote",
-            "Cosmetics.Filter.Season.15"
+            "Cosmetics.Filter.Season.15",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -12523,6 +13052,48 @@
         "added": "2020-04-29T06:13:35Z"
     },
     {
+        "id": "eid_noodles_x6r9e",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Chicken Wing It",
+        "shortDescription": "Emote",
+        "description": "Sometimes you just need to make up a dance on the spot.",
+        "set": null,
+        "setText": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_noodles_x6r9e/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_noodles_x6r9e/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Noodles_X6R9E",
+        "lastUpdate": "2021-03-20T00:00:00Z",
+        "added": "2021-03-20T00:00:00Z"
+    },
+    {
         "id": "eid_nottoday",
         "type": "emote",
         "backendType": "AthenaDance",
@@ -12567,6 +13138,49 @@
         "added": "2019-11-20T12:49:42Z"
     },
     {
+        "id": "eid_obsidian",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "dc",
+        "displayRarity": "DC SERIES",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Azarath Metrion Zinthos!",
+        "shortDescription": "Emote",
+        "description": "Hone your power taught from the Monks of Azarath.",
+        "set": "Teen Titans",
+        "setText": "Part of the Teen Titans set.",
+        "series": "DC SERIES",
+        "backendSeries": "DCUSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_obsidian/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_obsidian/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.AutomaticDuke"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Obsidian",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
         "id": "eid_octopus",
         "type": "emote",
         "backendType": "AthenaDance",
@@ -12607,6 +13221,49 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Octopus",
         "lastUpdate": "2019-11-20T12:49:42Z",
         "added": "2019-11-20T12:49:42Z"
+    },
+    {
+        "id": "eid_office",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Office Chariot",
+        "shortDescription": "Emote",
+        "description": "Go for a spin.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_office/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_office/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.UserFacingFlags.Emote.Traversal",
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Office",
+        "lastUpdate": "2021-03-02T10:19:28Z",
+        "added": "2021-03-02T10:19:28Z"
     },
     {
         "id": "eid_og_runningman",
@@ -13080,6 +13737,48 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/PapayaComms/EID_PhoneWavePapayaComms",
         "lastUpdate": "2020-04-29T06:13:35Z",
         "added": "2020-04-29T06:13:35Z"
+    },
+    {
+        "id": "eid_phonograph",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Phono Follies",
+        "shortDescription": "Emote",
+        "description": "Throw another nickel in and watch that turntable spin.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_phonograph/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_phonograph/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Phonograph",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
     },
     {
         "id": "eid_photographer",
@@ -13750,6 +14449,49 @@
         "added": "2019-11-20T12:49:43Z"
     },
     {
+        "id": "eid_psychic_7so2z",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Gangnam Style",
+        "shortDescription": "Emote",
+        "description": "Pony up and ride.",
+        "set": null,
+        "setText": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_psychic_7so2z/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_psychic_7so2z/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.Emote.Traversal"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Psychic_7SO2Z",
+        "lastUpdate": "2021-01-28T22:28:43Z",
+        "added": "2021-01-28T22:28:43Z"
+    },
+    {
         "id": "eid_pump",
         "type": "emote",
         "backendType": "AthenaDance",
@@ -13879,6 +14621,48 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_PureSalt",
         "lastUpdate": "2019-11-20T12:49:42Z",
         "added": "2019-11-20T12:49:42Z"
+    },
+    {
+        "id": "eid_puzzlebox",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "The Amazing Cube",
+        "shortDescription": "Emote",
+        "description": "Wow your friends! Intimidate your enemies! Be a hit at parties!",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_puzzlebox/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_puzzlebox/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_PuzzleBox",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
     },
     {
         "id": "eid_quicksweeper",
@@ -14865,16 +15649,16 @@
         "id": "eid_sandwichbop",
         "type": "emote",
         "backendType": "AthenaDance",
-        "rarity": "rare",
-        "displayRarity": "Rare",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
         "backendRarity": "EFortRarity::Rare",
         "name": "Go Mufasa",
         "shortDescription": "Emote",
         "description": "I did it legit-ly.",
         "set": null,
         "setText": null,
-        "series": null,
-        "backendSeries": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
         "images": {
             "smallIcon": {
                 "hash": "",
@@ -14945,6 +15729,49 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Saxophone",
         "lastUpdate": "2019-11-20T12:48:10Z",
         "added": "2019-11-20T12:48:10Z"
+    },
+    {
+        "id": "eid_scholar",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Extracurricularmor",
+        "shortDescription": "Emote",
+        "description": "For when knowledge isn't enough power.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_scholar/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_scholar/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.UserFacingFlags.BuiltInEmote"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Scholar",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
     },
     {
         "id": "eid_schoolyard",
@@ -15540,6 +16367,50 @@
         "added": "2020-04-29T06:13:35Z"
     },
     {
+        "id": "eid_shallwe",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Shanty for a Squad",
+        "shortDescription": "Emote",
+        "description": "Keep the tempo and catch the wave.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_shallwe/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_shallwe/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.UserFacingFlags.Emote.Traversal",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.Synced"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_ShallWe",
+        "lastUpdate": "2021-03-02T10:19:28Z",
+        "added": "2021-03-02T10:19:28Z"
+    },
+    {
         "id": "eid_shaolin",
         "type": "emote",
         "backendType": "AthenaDance",
@@ -15713,6 +16584,48 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Shiny",
         "lastUpdate": "2019-11-20T12:49:42Z",
         "added": "2019-11-20T12:49:42Z"
+    },
+    {
+        "id": "eid_shorts",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Jumbo Popcorn",
+        "shortDescription": "Emote",
+        "description": "This is getting really good.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_shorts/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_shorts/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Shorts",
+        "lastUpdate": "2021-02-20T00:00:00Z",
+        "added": "2021-02-20T00:00:00Z"
     },
     {
         "id": "eid_showstopper",
@@ -15972,6 +16885,96 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_SkeletonDance",
         "lastUpdate": "2019-11-20T12:51:19Z",
         "added": "2019-11-20T12:51:19Z"
+    },
+    {
+        "id": "eid_skirmishfemale_i5otj",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "epic",
+        "displayRarity": "Gaming Legends Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Lightning Kick!",
+        "shortDescription": "Emote",
+        "description": "Hundred Lightning Legs!",
+        "set": null,
+        "setText": null,
+        "series": "Gaming Legends Series",
+        "backendSeries": "PlatformSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_skirmishfemale_i5otj/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_skirmishfemale_i5otj/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.BuiltInEmote",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_SkirmishFemale_I5OTJ",
+        "lastUpdate": "2021-02-21T00:00:37Z",
+        "added": "2021-02-21T00:00:37Z"
+    },
+    {
+        "id": "eid_skirmishmale_fgpj3",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "epic",
+        "displayRarity": "Gaming Legends Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Shoryuken!",
+        "shortDescription": "Emote",
+        "description": "Rising Dragon Fist!",
+        "set": null,
+        "setText": null,
+        "series": "Gaming Legends Series",
+        "backendSeries": "PlatformSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_skirmishmale_fgpj3/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_skirmishmale_fgpj3/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.UserFacingFlags.BuiltInEmote",
+            "Cosmetics.Filter.Season.15",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_SkirmishMale_FGPJ3",
+        "lastUpdate": "2021-02-21T00:00:37Z",
+        "added": "2021-02-21T00:00:37Z"
     },
     {
         "id": "eid_sleighit",
@@ -16570,7 +17573,9 @@
             "Cosmetics.EmoteType.Dance",
             "Cosmetics.Source.ItemShop",
             "Cosmetics.Set.Stealthy",
-            "Cosmetics.UserFacingFlags.BuiltInEmote"
+            "Cosmetics.UserFacingFlags.BuiltInEmote",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -16917,7 +17922,9 @@
             "Cosmetics.Source.ItemShop",
             "Cosmetics.Set.TeamShowdown",
             "Cosmetics.UserFacingFlags.BuiltInEmote",
-            "Cosmetics.Filter.Season.9"
+            "Cosmetics.Filter.Season.9",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -16926,6 +17933,48 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_SuckerPunch",
         "lastUpdate": "2019-11-20T12:49:42Z",
         "added": "2019-11-20T12:49:42Z"
+    },
+    {
+        "id": "eid_suits",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Cardistry",
+        "shortDescription": "Emote",
+        "description": "Watch the hands.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_suits/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_suits/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Suits",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
     },
     {
         "id": "eid_superherobackflip",
@@ -17444,6 +18493,49 @@
         "added": "2019-11-20T12:49:41Z"
     },
     {
+        "id": "eid_tar_s9yve",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "dc",
+        "displayRarity": "DC SERIES",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Quick Bite",
+        "shortDescription": "Emote",
+        "description": "Grab a light(speed) snack.",
+        "set": "The Flash",
+        "setText": "Part of the The Flash set.",
+        "series": "DC SERIES",
+        "backendSeries": "DCUSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_tar_s9yve/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_tar_s9yve/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.GuestFiction",
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Tar_S9YVE",
+        "lastUpdate": "2021-02-11T06:31:33Z",
+        "added": "2021-02-11T06:31:33Z"
+    },
+    {
         "id": "eid_teammonster",
         "type": "emote",
         "backendType": "AthenaDance",
@@ -17578,6 +18670,50 @@
         "added": "2020-03-03T09:32:28Z"
     },
     {
+        "id": "eid_temple",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "epic",
+        "displayRarity": "Gaming Legends Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Evasive Maneuvers",
+        "shortDescription": "Emote",
+        "description": "That gymnastics training is really paying off.",
+        "set": "Lara Croft",
+        "setText": "Part of the Lara Croft set.",
+        "series": "Gaming Legends Series",
+        "backendSeries": "PlatformSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_temple/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_temple/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.UserFacingFlags.Emote.Traversal",
+            "Cosmetics.Set.StableMove"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Temple",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
         "id": "eid_tennispaddle",
         "type": "emote",
         "backendType": "AthenaDance",
@@ -17667,16 +18803,16 @@
         "id": "eid_theshow",
         "type": "emote",
         "backendType": "AthenaDance",
-        "rarity": "rare",
-        "displayRarity": "Rare",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
         "backendRarity": "EFortRarity::Rare",
         "name": "The Flow",
         "shortDescription": "Emote",
         "description": "Crow Foe Flow? Let's go!",
         "set": null,
         "setText": null,
-        "series": null,
-        "backendSeries": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
         "images": {
             "smallIcon": {
                 "hash": "",
@@ -18035,7 +19171,9 @@
             "Cosmetics.Source.ItemShop",
             "Cosmetics.Filter.Season.12",
             "Cosmetics.Source.Season12.BattlePass.Paid",
-            "Cosmetics.UserFacingFlags.BuiltInEmote"
+            "Cosmetics.UserFacingFlags.BuiltInEmote",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -18175,6 +19313,51 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_TourBus",
         "lastUpdate": "2020-01-15T14:58:00Z",
         "added": "2020-01-15T14:58:00Z"
+    },
+    {
+        "id": "eid_towersentinel",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "legendary",
+        "displayRarity": "Legendary",
+        "backendRarity": "EFortRarity::Legendary",
+        "name": "Tower Guard",
+        "shortDescription": "Emote",
+        "description": "There's no turning back...",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_towersentinel/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_towersentinel/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Emote.ActivationTrigger.RemoveDisguise",
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.UserFacingFlags.BuiltInEmote"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_TowerSentinel",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
     },
     {
         "id": "eid_tpose",
@@ -18340,7 +19523,9 @@
             "Cosmetics.UserFacingFlags.BuiltInEmote",
             "Cosmetics.Filter.Season.13",
             "Cosmetics.UserFacingFlags.Emote.Traversal",
-            "Cosmetics.Set.SkaterBeast"
+            "Cosmetics.Set.SkaterBeast",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
         ],
         "displayAssetPath": null,
         "definition": null,
@@ -18526,16 +19711,16 @@
         "id": "eid_twistdaytona",
         "type": "emote",
         "backendType": "AthenaDance",
-        "rarity": "rare",
-        "displayRarity": "Rare",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
         "backendRarity": "EFortRarity::Rare",
         "name": "Rollie",
         "shortDescription": "Emote",
         "description": "Dab of ranch not included.",
         "set": null,
         "setText": null,
-        "series": null,
-        "backendSeries": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
         "images": {
             "smallIcon": {
                 "hash": "",
@@ -18568,16 +19753,16 @@
         "id": "eid_twisteternity",
         "type": "emote",
         "backendType": "AthenaDance",
-        "rarity": "rare",
-        "displayRarity": "Rare",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
         "backendRarity": "EFortRarity::Rare",
         "name": "Last Forever",
         "shortDescription": "Emote",
         "description": "Who said love don't last forever?",
         "set": null,
         "setText": null,
-        "series": null,
-        "backendSeries": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
         "images": {
             "smallIcon": {
                 "hash": "",
@@ -18611,16 +19796,16 @@
         "id": "eid_twisteternity_sync",
         "type": "emote",
         "backendType": "AthenaDance",
-        "rarity": "rare",
-        "displayRarity": "Rare",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
         "backendRarity": "EFortRarity::Rare",
         "name": "Last Forever",
         "shortDescription": "Emote",
         "description": "Who said love don't last forever?",
         "set": null,
         "setText": null,
-        "series": null,
-        "backendSeries": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
         "images": {
             "smallIcon": {
                 "hash": "",
@@ -18653,16 +19838,16 @@
         "id": "eid_twisteternity_sync_follower",
         "type": "emote",
         "backendType": "AthenaDance",
-        "rarity": "rare",
-        "displayRarity": "Rare",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
         "backendRarity": "EFortRarity::Rare",
         "name": "Last Forever",
         "shortDescription": "Emote",
         "description": "Who said love don't last forever?",
         "set": null,
         "setText": null,
-        "series": null,
-        "backendSeries": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
         "images": {
             "smallIcon": {
                 "hash": "",
@@ -18733,6 +19918,49 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_TwistRaisin",
         "lastUpdate": "2020-03-31T06:11:29Z",
         "added": "2020-03-31T06:11:29Z"
+    },
+    {
+        "id": "eid_typhoon_vo9of",
+        "type": "emote",
+        "backendType": "AthenaDance",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Cyberdyne Salute",
+        "shortDescription": "Emote",
+        "description": "He'll be back.",
+        "set": "Future War",
+        "setText": "Part of the Future War set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_typhoon_vo9of/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/eid_typhoon_vo9of/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Dance",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Set.OverallStake"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Typhoon_VO9OF",
+        "lastUpdate": "2021-01-22T00:00:00Z",
+        "added": "2021-01-22T00:00:00Z"
     },
     {
         "id": "eid_ukuleletime",
@@ -18856,7 +20084,9 @@
             "Cosmetics.Source.ItemShop",
             "Cosmetics.UserFacingFlags.BuiltInEmote",
             "Cosmetics.Filter.Season.14",
-            "Cosmetics.Set.InspirationExceed"
+            "Cosmetics.Set.InspirationExceed",
+            "Phoebe.Cosmetic.Minus.Zone1",
+            "Phoebe.Cosmetic.Minus.Zone2"
         ],
         "displayAssetPath": null,
         "definition": null,

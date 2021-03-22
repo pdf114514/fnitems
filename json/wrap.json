@@ -13481,6 +13481,802 @@
         "added": "2021-01-13T09:40:21Z"
     },
     {
+        "id": "wrap_321_foxwarrior_ih2a5",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Drift Shift",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": "Drift Tracker",
+        "setText": "Part of the Drift Tracker set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_321_foxwarrior_ih2a5/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_321_foxwarrior_ih2a5/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Set.ThesisCinema",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.Wrap.Animated",
+            "Cosmetics.Source.CrewPack.Feb2021"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_321_FoxWarrior_IH2A5",
+        "lastUpdate": "2021-01-31T16:13:29Z",
+        "added": "2021-01-31T16:13:29Z"
+    },
+    {
+        "id": "wrap_322_blackhole",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Galactic Spiral",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_322_blackhole/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_322_blackhole/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_322_blackhole/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.UserFacingFlags.Wrap.Animated"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_322_BlackHole",
+        "lastUpdate": "2021-02-02T09:18:54Z",
+        "added": "2021-02-02T09:18:54Z"
+    },
+    {
+        "id": "wrap_323_halffull",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Optimistic",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_323_halffull/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_323_halffull/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_323_halffull/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.UserFacingFlags.Wrap.Animated",
+            "Cosmetics.UserFacingFlags.Reactive.WeaponFire"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_323_HalfFull",
+        "lastUpdate": "2021-02-02T09:18:54Z",
+        "added": "2021-02-02T09:18:54Z"
+    },
+    {
+        "id": "wrap_324_pinktoons",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Shuffly Shapes",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_324_pinktoons/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_324_pinktoons/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_324_pinktoons/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.UserFacingFlags.Wrap.Animated",
+            "Cosmetics.UserFacingFlags.Reactive.WeaponFire"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_324_PinkToons",
+        "lastUpdate": "2021-02-02T09:18:54Z",
+        "added": "2021-02-02T09:18:54Z"
+    },
+    {
+        "id": "wrap_325_valentine2021",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Heart's Desire",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_325_valentine2021/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_325_valentine2021/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.Event.CreatorBattle",
+            "Cosmetics.UserFacingFlags.Wrap.Animated"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_325_Valentine2021",
+        "lastUpdate": "2021-02-02T09:18:54Z",
+        "added": "2021-02-02T09:18:54Z"
+    },
+    {
+        "id": "wrap_326_flatline",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Heartbeat",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_326_flatline/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_326_flatline/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_326_flatline/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.UserFacingFlags.Wrap.Animated",
+            "Cosmetics.UserFacingFlags.Reactive",
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_326_Flatline",
+        "lastUpdate": "2021-02-16T09:22:57Z",
+        "added": "2021-02-16T09:22:57Z"
+    },
+    {
+        "id": "wrap_327_smashedglass",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Cracked Up",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_327_smashedglass/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_327_smashedglass/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_327_smashedglass/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.UserFacingFlags.Reactive.WeaponFire"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_327_SmashedGlass",
+        "lastUpdate": "2021-02-16T09:22:57Z",
+        "added": "2021-02-16T09:22:57Z"
+    },
+    {
+        "id": "wrap_328_strawberrycream",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Hearty Hearts",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_328_strawberrycream/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_328_strawberrycream/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_328_strawberrycream/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.UserFacingFlags.Wrap.Animated"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_328_StrawberryCream",
+        "lastUpdate": "2021-02-16T09:22:57Z",
+        "added": "2021-02-16T09:22:57Z"
+    },
+    {
+        "id": "wrap_329_llamaherowinter_xztgc",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "The Llegend",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": "Llegend",
+        "setText": "Part of the Llegend set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_329_llamaherowinter_xztgc/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_329_llamaherowinter_xztgc/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.Wrap.Animated",
+            "Cosmetics.UserFacingFlags.Reactive.WeaponFire",
+            "Cosmetics.Set.AcutePanic",
+            "Cosmetics.Source.CrewPack.March2021"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_329_LlamaHeroWinter_XZTGC",
+        "lastUpdate": "2021-02-22T12:10:00Z",
+        "added": "2021-02-22T12:10:00Z"
+    },
+    {
+        "id": "wrap_330_doodlebuddies",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Doodle Buddies",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_330_doodlebuddies/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_330_doodlebuddies/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_330_doodlebuddies/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.Wrap.Animated"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_330_DoodleBuddies",
+        "lastUpdate": "2021-03-02T10:19:28Z",
+        "added": "2021-03-02T10:19:28Z"
+    },
+    {
+        "id": "wrap_331_hazard",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Rad Emissions",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_331_hazard/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_331_hazard/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_331_hazard/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_331_Hazard",
+        "lastUpdate": "2021-03-02T10:19:28Z",
+        "added": "2021-03-02T10:19:28Z"
+    },
+    {
+        "id": "wrap_332_staraces",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Faro Shuffle",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_332_staraces/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_332_staraces/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_332_staraces/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.UserFacingFlags.Wrap.Animated",
+            "Cosmetics.UserFacingFlags.Reactive.WeaponFire"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_332_StarAces",
+        "lastUpdate": "2021-03-02T10:19:28Z",
+        "added": "2021-03-02T10:19:28Z"
+    },
+    {
+        "id": "wrap_333_stealthwoodland",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Cobalt Overdrive",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": "Advanced Forces",
+        "setText": "Part of the Advanced Forces set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_333_stealthwoodland/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_333_stealthwoodland/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.15",
+            "Cosmetics.Source.Promo",
+            "Cosmetics.Set.AdvancedForces",
+            "Cosmetics.UserFacingFlags.Wrap.Animated"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_333_StealthWoodland",
+        "lastUpdate": "2021-03-02T10:19:28Z",
+        "added": "2021-03-02T10:19:28Z"
+    },
+    {
+        "id": "wrap_334_chickenwarrior",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Clucking Mad",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": "Eggsplosives Expert",
+        "setText": "Part of the Eggsplosives Expert set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_334_chickenwarrior/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_334_chickenwarrior/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.ChickenAce",
+            "Cosmetics.UserFacingFlags.Reactive.WeaponFire"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_334_ChickenWarrior",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "wrap_335_cubeninja",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Acolyte's Curse",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": "Spire's Call",
+        "setText": "Part of the Spire's Call set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_335_cubeninja/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_335_cubeninja/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.SpiralsCry",
+            "Cosmetics.UserFacingFlags.Wrap.Animated"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_335_CubeNinja",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "wrap_336_dinohunter",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Jurassically Charged",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": "Bone Punk",
+        "setText": "Part of the Bone Punk set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_336_dinohunter/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_336_dinohunter/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.Season16.BattlePass.Free",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.MarrowBully",
+            "Cosmetics.UserFacingFlags.Wrap.Animated",
+            "Cosmetics.UserFacingFlags.Reactive.WeaponFire"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_336_DinoHunter",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "wrap_338_towersentinel",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Spire's Reach",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": "Looming Spire",
+        "setText": "Part of the Looming Spire set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_338_towersentinel/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_338_towersentinel/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.ImpendingSpiral",
+            "Cosmetics.UserFacingFlags.Wrap.Animated",
+            "Cosmetics.UserFacingFlags.Reactive.WeaponFire"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_338_TowerSentinel",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "wrap_340_yogurt",
+        "type": "wrap",
+        "backendType": "AthenaItemWrap",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Zero Bloom",
+        "shortDescription": "Wrap",
+        "description": "Show your style.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_340_yogurt/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/wrap_340_yogurt/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.Season16.BattlePass.Paid",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.UserFacingFlags.Wrap.Animated"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_340_Yogurt",
+        "lastUpdate": "2021-03-17T11:14:28Z",
+        "added": "2021-03-17T11:14:28Z"
+    },
+    {
         "id": "wrap_catburglargameplay",
         "type": "wrap",
         "backendType": "AthenaItemWrap",

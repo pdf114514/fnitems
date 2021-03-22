@@ -1,133 +1,1068 @@
 [
    {
-      "name": "Punt!",
-      "description": "Leave your mark.",
-      "id": "SPID_243_AFL_Winter",
-      "rarity": "uncommon",
+      "name": "Spire Fire",
+      "description": "The burning flame of a long ago sacrifice.",
+      "id": "Glider_ID_285_TowerSentinelFemale",
+      "rarity": "legendary",
       "images": {
          "icon": {
-            "url": "https://benbotfn.tk/cdn/images/SPID_243_AFL_Winter/icon.png"
+            "url": "https://benbotfn.tk/cdn/images/Glider_ID_285_TowerSentinelFemale/icon.png"
          }
       }
    },
    {
-      "name": "Hunter's Arsenal",
-      "description": "What's the matter? CIA got you pushing too many pencils?",
-      "id": "Wrap_319_Nightmare_31A6D",
+      "name": "Astrolomaster's Staff",
+      "description": "Pre-Req: Spell-Casting 201",
+      "id": "Pickaxe_ID_569_ScholarFemale",
       "rarity": "rare",
       "images": {
          "icon": {
-            "url": "https://benbotfn.tk/cdn/images/Wrap_319_Nightmare_31A6D/icon.png"
+            "url": "https://benbotfn.tk/cdn/images/Pickaxe_ID_569_ScholarFemale/icon.png"
          }
       }
    },
    {
-      "name": "Trinity Impact",
-      "description": "Express yourself on the battlefield.",
-      "id": "Emoji_S15_FuturePink",
+      "name": "Rebirth Raven",
+      "description": "Daughter of a demon and founding member of the Teen Titans.",
+      "id": "CID_A_036_Athena_Commando_F_Obsidian",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/CID_A_036_Athena_Commando_F_Obsidian/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Phono Follies",
+      "description": "Throw another nickel in and watch that turntable spin.",
+      "id": "EID_Phonograph",
       "rarity": "uncommon",
       "images": {
          "icon": {
-            "url": "https://benbotfn.tk/cdn/images/Emoji_S15_FuturePink/icon.png"
+            "url": "https://benbotfn.tk/cdn/images/EID_Phonograph/icon.png"
          }
       }
    },
    {
-      "name": "FNCS 2:5",
-      "description": "Champion Series CH2 - S5.",
-      "id": "Emoji_S15_FNCS",
+      "name": "Crystal Axe of the Masters",
+      "description": "The blade is carved from a single Zero Point crystal.",
+      "id": "Pickaxe_ID_564_CubeNinjaMale",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Pickaxe_ID_564_CubeNinjaMale/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Both Eyes Open",
+      "description": "Leave your mark.",
+      "id": "SPID_252_Temple",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/SPID_252_Temple/icon.png"
+         }
+      }
+   },
+   {
+      "name": "The Amazing Cube",
+      "description": "Wow your friends! Intimidate your enemies! Be a hit at parties!",
+      "id": "EID_PuzzleBox",
       "rarity": "uncommon",
       "images": {
          "icon": {
-            "url": "https://benbotfn.tk/cdn/images/Emoji_S15_FNCS/icon.png"
+            "url": "https://benbotfn.tk/cdn/images/EID_PuzzleBox/icon.png"
          }
       }
    },
    {
-      "name": "Bio-helmet Online",
-      "description": "They'll never see you coming.",
-      "id": "EID_Nightmare_MS3AQ",
+      "name": "BluGlo Injector",
+      "description": "BluGlo power generation on the go!",
+      "id": "BID_725_AssembleR",
+      "rarity": "rare",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/BID_725_AssembleR/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Extracurricularmor",
+      "description": "For when knowledge isn't enough power.",
+      "id": "EID_Scholar",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/EID_Scholar/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Bone Patrol",
+      "description": "It's got good bones.",
+      "id": "Glider_ID_282_DinoHunterFemale",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Glider_ID_282_DinoHunterFemale/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Potassius Peels",
+      "description": "Et tu, Fruitus?",
+      "id": "CID_A_045_Athena_Commando_M_BananaLeader",
+      "rarity": "rare",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/CID_A_045_Athena_Commando_M_BananaLeader/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Gladius of Potassius",
+      "description": "The valiant never taste of pudding but once.",
+      "id": "Pickaxe_ID_562_BananaLeader",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Pickaxe_ID_562_BananaLeader/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Agent Jones",
+      "description": "Look sharp, we're saving reality.",
+      "id": "CID_989_Athena_Commando_M_ProgressiveJonesy",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/CID_989_Athena_Commando_M_ProgressiveJonesy/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Daughter of Trigon",
+      "description": "Leave your mark.",
+      "id": "SPID_246_Obsidian",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/SPID_246_Obsidian/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Azarath Metrion Zinthos!",
+      "description": "Hone your power taught from the Monks of Azarath.",
+      "id": "EID_Obsidian",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/EID_Obsidian/icon.png"
+         }
+      }
+   },
+   {
+      "name": "The Spire's Shadow",
+      "description": "Created by Dan Mumford",
+      "id": "LSID_280_Sentinel",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/LSID_280_Sentinel/icon.png"
+         }
+      }
+   },
+   {
+      "name": "After Zero ",
+      "description": "Press play and save all reality. ",
+      "id": "MusicPack_080_S15_EndEvent",
+      "rarity": "rare",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/MusicPack_080_S15_EndEvent/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Glyph Master",
+      "description": "Leave your mark.",
+      "id": "SPID_248_CubeNinja",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/SPID_248_CubeNinja/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Tower Guard",
+      "description": "There's no turning back...",
+      "id": "EID_TowerSentinel",
       "rarity": "legendary",
       "images": {
          "icon": {
-            "url": "https://benbotfn.tk/cdn/images/EID_Nightmare_MS3AQ/icon.png"
+            "url": "https://benbotfn.tk/cdn/images/EID_TowerSentinel/icon.png"
          }
       }
    },
    {
-      "name": null,
-      "description": null,
-      "id": "EID_Nightmare_NPC_M6EXP",
-      "rarity": "uncommon",
+      "name": "Zero Bloom",
+      "description": "Show your style.",
+      "id": "Wrap_340_Yogurt",
+      "rarity": "rare",
       "images": {
          "icon": {
-            "url": "https://benbotfn.tk/cdn/images/EID_Nightmare_NPC_M6EXP/icon.png"
+            "url": "https://benbotfn.tk/cdn/images/Wrap_340_Yogurt/icon.png"
          }
       }
    },
    {
-      "name": "FNCS 2:5",
-      "description": "Champion Series CH2 - S5.",
-      "id": "SPID_242_S15_FNCS",
-      "rarity": "uncommon",
+      "name": "Spelunker's Special",
+      "description": "Cast light on the shadows.",
+      "id": "Trails_ID_114_Temple",
+      "rarity": "epic",
       "images": {
          "icon": {
-            "url": "https://benbotfn.tk/cdn/images/SPID_242_S15_FNCS/icon.png"
+            "url": "https://benbotfn.tk/cdn/images/Trails_ID_114_Temple/icon.png"
          }
       }
    },
    {
-      "name": "Trinity Overload",
-      "description": "Express yourself on the battlefield.",
-      "id": "Emoji_S15_FuturePinkOrange",
-      "rarity": "uncommon",
-      "images": {
-         "icon": {
-            "url": "https://benbotfn.tk/cdn/images/Emoji_S15_FuturePinkOrange/icon.png"
-         }
-      }
-   },
-   {
-      "name": "Hunter's Trophy",
-      "description": "Grim keepsake from a far-off world.",
-      "id": "BID_688_Nightmare_S85HI",
+      "name": "Endless Scroll",
+      "description": "Keep on scrolling.",
+      "id": "BID_719_CubeNinja",
       "rarity": "legendary",
       "images": {
          "icon": {
-            "url": "https://benbotfn.tk/cdn/images/BID_688_Nightmare_S85HI/icon.png"
+            "url": "https://benbotfn.tk/cdn/images/BID_719_CubeNinja/icon.png"
          }
       }
    },
    {
-      "name": "Predator",
-      "description": "The demon who makes trophies of men.",
-      "id": "CID_991_Athena_Commando_M_Nightmare_NM1C8",
+      "name": "Spire Assassin",
+      "description": "Guardian of a world beyond reality.",
+      "id": "CID_A_038_Athena_Commando_F_TowerSentinel",
       "rarity": "legendary",
       "images": {
          "icon": {
-            "url": "https://benbotfn.tk/cdn/images/CID_991_Athena_Commando_M_Nightmare_NM1C8/icon.png"
+            "url": "https://benbotfn.tk/cdn/images/CID_A_038_Athena_Commando_F_TowerSentinel/icon.png"
          }
       }
    },
    {
-      "name": "The Hunt",
-      "description": "There's something in those trees.",
-      "id": "LSID_270_Nightmare_IZN91",
+      "name": "Wild",
+      "description": "Press play and get wild. ",
+      "id": "MusicPack_079_S16_Cine",
+      "rarity": "rare",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/MusicPack_079_S16_Cine/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Glyph Raider ",
+      "description": "Created by Kim Jacinto",
+      "id": "LSID_281_CubeNinja",
       "rarity": "uncommon",
       "images": {
          "icon": {
-            "url": "https://benbotfn.tk/cdn/images/LSID_270_Nightmare_IZN91/icon.png"
+            "url": "https://benbotfn.tk/cdn/images/LSID_281_CubeNinja/icon.png"
          }
       }
    },
    {
-      "name": "Yautja Wristblades",
-      "description": "The most honorable way to take down one's prey.",
-      "id": "Pickaxe_ID_540_NightmareMale_7OSOH",
+      "name": "Dimensional Gate",
+      "description": "Pocket portal to interdimensional power.",
+      "id": "BID_714_Obsidian",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/BID_714_Obsidian/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Foundational 'Brella",
+      "description": "No matter what happens, do not give up.",
+      "id": "Umbrella_Season_16",
+      "rarity": "common",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Umbrella_Season_16/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Cluck",
+      "description": "Cheep cheep cheep, cheep cheep b'kaw.",
+      "id": "CID_A_039_Athena_Commando_M_ChickenWarrior",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/CID_A_039_Athena_Commando_M_ChickenWarrior/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Blister Pack",
+      "description": "Some accessories not included.",
+      "id": "BID_726_Figure",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/BID_726_Figure/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Little Bird",
+      "description": "Express yourself on the battlefield. ",
+      "id": "Emoji_S16_Temple",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Emoji_S16_Temple/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Spray Away ",
+      "description": "Leave your mark.",
+      "id": "SPID_255_Alt_3",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/SPID_255_Alt_3/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Drummies",
+      "description": "Don't forget the dippin' sauce.",
+      "id": "Pickaxe_ID_563_ChickenWarriorMale1H",
+      "rarity": "rare",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Pickaxe_ID_563_ChickenWarriorMale1H/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Power of Azarath",
+      "description": "Express yourself on the battlefield. ",
+      "id": "Emoji_S16_Obsidian",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Emoji_S16_Obsidian/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Boots 'n' Cats",
+      "description": "Beat outside the box.",
+      "id": "EID_BootsAndCats",
+      "rarity": "rare",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/EID_BootsAndCats/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Beef Blade",
+      "description": "Leave your mark.",
+      "id": "SPID_254_Alt_2",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/SPID_254_Alt_2/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Bananope",
+      "description": "Express yourself on the battlefield. ",
+      "id": "Emoji_S16_Alt_1",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Emoji_S16_Alt_1/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Skully Shout",
+      "description": "Express yourself on the battlefield. ",
+      "id": "Emoji_S16_DinoHunter",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Emoji_S16_DinoHunter/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Primal Hunter",
+      "description": "Leave your mark.",
+      "id": "SPID_249_DinoHunter",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/SPID_249_DinoHunter/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Evasive Maneuvers",
+      "description": "That gymnastics training is really paying off.",
+      "id": "EID_Temple",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/EID_Temple/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Miss Fish",
+      "description": "Express yourself on the battlefield. ",
+      "id": "Emoji_S16_Alt_2",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Emoji_S16_Alt_2/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Kablammo!",
+      "description": "Leave your mark.",
+      "id": "SPID_253_Alt_1",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/SPID_253_Alt_1/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Hatch Pack",
+      "description": "He got it from his mom.",
+      "id": "BID_716_ChickenWarrior",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/BID_716_ChickenWarrior/icon.png"
+         }
+      }
+   },
+   {
+      "name": "The Book of Spells Vol. 3",
+      "description": "First edition, natch.",
+      "id": "BID_721_ScholarFemale",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/BID_721_ScholarFemale/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Soul's Reach",
+      "description": "Keeper of The Spire's flame.",
+      "id": "BID_717_TowerSentinel",
       "rarity": "legendary",
       "images": {
          "icon": {
-            "url": "https://benbotfn.tk/cdn/images/Pickaxe_ID_540_NightmareMale_7OSOH/icon.png"
+            "url": "https://benbotfn.tk/cdn/images/BID_717_TowerSentinel/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Axe-tral Form",
+      "description": "Control your emotions - Don't let them control you.",
+      "id": "Pickaxe_ID_568_ObsidianFemale",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Pickaxe_ID_568_ObsidianFemale/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Soaring Soul-Self",
+      "description": "Catch a ride on the wings of Azarath.",
+      "id": "Glider_ID_283_ObsidianFemale",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Glider_ID_283_ObsidianFemale/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Jonesin' ",
+      "description": "Express yourself on the battlefield. ",
+      "id": "Emoji_S16_AgentJonesy",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Emoji_S16_AgentJonesy/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Bean Bag",
+      "description": "Snacks not included.",
+      "id": "EID_Lounging",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/EID_Lounging/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Lara Croft",
+      "description": "The extraordinary is in what we do, not who we are",
+      "id": "CID_A_040_Athena_Commando_F_Temple",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/CID_A_040_Athena_Commando_F_Temple/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Isabelle",
+      "description": "Voted \"Most Likely To Succeed... Or Burn the Place Down.\"",
+      "id": "CID_A_042_Athena_Commando_F_Scholar",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/CID_A_042_Athena_Commando_F_Scholar/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Acolyte's Curse",
+      "description": "Show your style.",
+      "id": "Wrap_335_CubeNinja",
+      "rarity": "rare",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Wrap_335_CubeNinja/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Eggy",
+      "description": "Express yourself on the battlefield. ",
+      "id": "Emoji_S16_ChickenWarrior",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Emoji_S16_ChickenWarrior/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Heir to Croft Manor",
+      "description": "Leave your mark.",
+      "id": "SPID_257_TempleCreative",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/SPID_257_TempleCreative/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Primal Takedown",
+      "description": "Created by Phil Noto",
+      "id": "LSID_282_DinoHunter",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/LSID_282_DinoHunter/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Ray's Smasher",
+      "description": "Smash 'em all down!",
+      "id": "Pickaxe_ID_561_AssembleR",
+      "rarity": "rare",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Pickaxe_ID_561_AssembleR/icon.png"
+         }
+      }
+   },
+   {
+      "name": "The Foundation",
+      "description": "His Sacrifice Won't Be Forgotten. Leader Of The Seven.",
+      "id": "CID_TBD_Athena_Commando_M_Turtleneck",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/CID_TBD_Athena_Commando_M_Turtleneck/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Bawk Off",
+      "description": "Leave your mark.",
+      "id": "SPID_251_ChickenWarrior",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/SPID_251_ChickenWarrior/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Weeping Crow",
+      "description": "It has regrets.",
+      "id": "Glider_ID_281_DarkMinionMale",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Glider_ID_281_DarkMinionMale/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Dino Deck",
+      "description": "Outta the tar pits and into the skate park.",
+      "id": "BID_715_DinoHunterFemale",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/BID_715_DinoHunterFemale/icon.png"
+         }
+      }
+   },
+   {
+      "name": "They call me...",
+      "description": "Leave your mark.",
+      "id": "SPID_250_AgentJonesy",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/SPID_250_AgentJonesy/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Robo-Ray",
+      "description": "Robot chassis for extended field operations.",
+      "id": "CID_A_046_Athena_Commando_F_AssembleR",
+      "rarity": "rare",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/CID_A_046_Athena_Commando_F_AssembleR/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Warp Wave",
+      "description": "Look out for that sound barrier.",
+      "id": "Trails_ID_115_Tube",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Trails_ID_115_Tube/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Eggar",
+      "description": "He's a little shy.",
+      "id": "Glider_ID_279_ChickenWarriorMale",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Glider_ID_279_ChickenWarriorMale/icon.png"
+         }
+      }
+   },
+   {
+      "name": "The Golden Hour",
+      "description": "Marigold comes to collect... ",
+      "id": "LSID_278_GoldenTouch",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/LSID_278_GoldenTouch/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Dino Feather",
+      "description": "Yeah. They've got feathers now.",
+      "id": "Trails_ID_113_DinoHunter",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Trails_ID_113_DinoHunter/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Clucking Mad",
+      "description": "Show your style.",
+      "id": "Wrap_334_ChickenWarrior",
+      "rarity": "rare",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Wrap_334_ChickenWarrior/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Wing of the hill",
+      "description": "Created by Skottie Young",
+      "id": "LSID_284_ChickenWarrior",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/LSID_284_ChickenWarrior/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Conduit Crasher",
+      "description": "Feel the energy.",
+      "id": "Trails_ID_116_WavesOfLight",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Trails_ID_116_WavesOfLight/icon.png"
+         }
+      }
+   },
+   {
+      "name": "TBD",
+      "description": "TBD",
+      "id": "CID_TBD_Athena_Commando_M_Turtleneck_EVENT_NOTFORSTORE",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/CID_TBD_Athena_Commando_M_Turtleneck_EVENT_NOTFORSTORE/icon.png"
+         }
+      }
+   },
+   {
+      "name": "TBD",
+      "description": "TBD",
+      "id": "CID_NPC_Athena_Commando_F_TowerSentinel",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/CID_NPC_Athena_Commando_F_TowerSentinel/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Dream Stance",
+      "description": "Tap into the glyphs.",
+      "id": "EID_CloudFloat",
+      "rarity": "legendary",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/EID_CloudFloat/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Chroma Flame",
+      "description": "Which glyphs are most aerodynamic...?",
+      "id": "Trails_ID_112_CubeNinja",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Trails_ID_112_CubeNinja/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Raven's Wrath",
+      "description": "Created by Jakub Rebelka",
+      "id": "LSID_279_Obsidian",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/LSID_279_Obsidian/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Spire Spirit",
+      "description": "Express yourself on the battlefield. ",
+      "id": "Emoji_S16_Sentinel",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Emoji_S16_Sentinel/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Cape of Potassius",
+      "description": "Friends, produce, lend me your peels.",
+      "id": "BID_724_BananaLeader",
+      "rarity": "rare",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/BID_724_BananaLeader/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Bladed Cage",
+      "description": "Try to escape... if you dare.",
+      "id": "BID_723_DarkMinion",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/BID_723_DarkMinion/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Survivor's Pack",
+      "description": "Just room for the essentials.",
+      "id": "BID_720_Temple",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/BID_720_Temple/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Chicken Wing It",
+      "description": "Sometimes you just need to make up a dance on the spot.",
+      "id": "EID_Noodles_X6R9E",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/EID_Noodles_X6R9E/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Dread Knight",
+      "description": "Don't worry... it's only a nightmare.",
+      "id": "CID_A_043_Athena_Commando_M_DarkMinion",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/CID_A_043_Athena_Commando_M_DarkMinion/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Spire's Reach",
+      "description": "Show your style.",
+      "id": "Wrap_338_TowerSentinel",
+      "rarity": "rare",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Wrap_338_TowerSentinel/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Pry Axe",
+      "description": "A multi-purpose tool for a multitude of purposes.",
+      "id": "Pickaxe_ID_570_Temple",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Pickaxe_ID_570_Temple/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Cardistry",
+      "description": "Watch the hands.",
+      "id": "EID_Suits",
+      "rarity": "rare",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/EID_Suits/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Ultimate Jones",
+      "description": "Created by Dave Johnson",
+      "id": "LSID_283_AgentJonesy",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/LSID_283_AgentJonesy/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Clean Sweep",
+      "description": "Tidy as you go.",
+      "id": "EID_Custodial",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/EID_Custodial/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Soaring Cipher",
+      "description": "Imbued with glyphic grace.",
+      "id": "Glider_ID_280_CubeNinjaMale",
+      "rarity": "rare",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Glider_ID_280_CubeNinjaMale/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Countdown To Zero",
+      "description": "The moment of truth...",
+      "id": "LSID_289_YogurtJonesy",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/LSID_289_YogurtJonesy/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Spire Master",
+      "description": "Leave your mark.",
+      "id": "SPID_247_Sentinel",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/SPID_247_Sentinel/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Raise Up",
+      "description": "Press play and raise the roof. ",
+      "id": "MusicPack_078_RaiseTheRoof",
+      "rarity": "rare",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/MusicPack_078_RaiseTheRoof/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Jurassically Charged",
+      "description": "Show your style.",
+      "id": "Wrap_336_DinoHunter",
+      "rarity": "rare",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Wrap_336_DinoHunter/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Salvaged Chute",
+      "description": "Hope this still works.",
+      "id": "Glider_ID_284_TempleFemale",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Glider_ID_284_TempleFemale/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Tarana",
+      "description": "She sees visions of a long-gone world.",
+      "id": "CID_A_037_Athena_Commando_F_DinoHunter",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/CID_A_037_Athena_Commando_F_DinoHunter/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Raz",
+      "description": "On a mission to uncover the Spire's secrets.",
+      "id": "CID_A_041_Athena_Commando_M_CubeNinja",
+      "rarity": "legendary",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/CID_A_041_Athena_Commando_M_CubeNinja/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Jones' Field Pack",
+      "description": "Make sure to pack a granola bar or something. Might be a bumpy ride.",
+      "id": "BID_718_ProgressiveJonesy",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/BID_718_ProgressiveJonesy/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Spire Flame",
+      "description": "Aglow with mystical flame.",
+      "id": "Pickaxe_ID_571_TowerSentinelFemale",
+      "rarity": "epic",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Pickaxe_ID_571_TowerSentinelFemale/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Razor Wing",
+      "description": "The wings of despair also happen to be very sharp.",
+      "id": "Pickaxe_ID_565_DarkMinionMale1H",
+      "rarity": "rare",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Pickaxe_ID_565_DarkMinionMale1H/icon.png"
+         }
+      }
+   },
+   {
+      "name": "Quite Curious",
+      "description": "Express yourself on the battlefield. ",
+      "id": "Emoji_S16_CubeNinja",
+      "rarity": "uncommon",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Emoji_S16_CubeNinja/icon.png"
+         }
+      }
+   },
+   {
+      "name": "T-Wrecks",
+      "description": "Sometimes you need a dinosaw.",
+      "id": "Pickaxe_ID_566_DinoHunterFemale",
+      "rarity": "rare",
+      "images": {
+         "icon": {
+            "url": "https://benbotfn.tk/cdn/images/Pickaxe_ID_566_DinoHunterFemale/icon.png"
          }
       }
    }
