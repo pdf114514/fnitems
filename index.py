@@ -34,7 +34,7 @@ async def mainloop(session: ClientSession):
                 data = (await resp.json())['data']
             async with session.get('https://fortnite-api.com/v1/banners') as resp:
                 banners = (await resp.json())['data']
-            async with session.get('https://benbotfn.tk/api/v1/newCosmetics') as resp:
+            async with session.get('https://benbot.app/api/v1/newCosmetics') as resp:
                 _newitems = (await resp.json())['items']
             async with session.get('https://cdn2.unrealengine.com/Kairos/data/avatars.json') as resp:
                 _avatars = await resp.json()

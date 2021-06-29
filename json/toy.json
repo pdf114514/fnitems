@@ -758,5 +758,89 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_020_Bottle_Fancy",
         "lastUpdate": "2019-11-20T12:49:33Z",
         "added": "2019-11-20T12:49:33Z"
+    },
+    {
+        "id": "toy_021_soccerball",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Soccer Ball",
+        "shortDescription": "Toy",
+        "description": "Get your kicks.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_021_soccerball/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_021_soccerball/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Source.Season5.BattlePass.Paid",
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_021_SoccerBall",
+        "lastUpdate": "2021-04-27T08:24:16Z",
+        "added": "2021-04-27T08:24:16Z"
+    },
+    {
+        "id": "toy_basketball_hookshot_luwq6",
+        "type": "toy",
+        "backendType": "AthenaToy",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Hookshot",
+        "shortDescription": "Toy",
+        "description": "Shoot a hookshot!",
+        "set": "In The Paint",
+        "setText": "Part of the In The Paint set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_basketball_hookshot_luwq6/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/toy_basketball_hookshot_luwq6/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Toy",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.IntoDye"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_Basketball_Hookshot_LUWQ6",
+        "lastUpdate": "2021-05-19T14:06:14Z",
+        "added": "2021-05-19T14:06:14Z"
     }
 ]

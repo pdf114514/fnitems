@@ -3572,6 +3572,661 @@
         "added": "2021-03-17T11:14:28Z"
     },
     {
+        "id": "musicpack_081_rl_llamarama_9lrck",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "epic",
+        "displayRarity": "Gaming Legends Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Everybody Dance!",
+        "shortDescription": "Music",
+        "description": "Press play and go supersonic.",
+        "set": "Rocket League",
+        "setText": "Part of the Rocket League set.",
+        "series": "Gaming Legends Series",
+        "backendSeries": "PlatformSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_081_rl_llamarama_9lrck/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_081_rl_llamarama_9lrck/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_081_rl_llamarama_9lrck/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.BlandAbolish",
+            "Cosmetics.Source.Event"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_081_RL_LlamaRama_9LRCK",
+        "lastUpdate": "2021-03-25T11:05:56Z",
+        "added": "2021-03-25T11:05:56Z"
+    },
+    {
+        "id": "musicpack_082_livinglarge",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Larger Than Life",
+        "shortDescription": "Music",
+        "description": "Press play and reach for the moon.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_082_livinglarge/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_082_livinglarge/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_082_livinglarge/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_082_LivingLarge",
+        "lastUpdate": "2021-03-30T09:14:15Z",
+        "added": "2021-03-30T09:14:15Z"
+    },
+    {
+        "id": "musicpack_083_towerguards",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Guard Gang",
+        "shortDescription": "Music",
+        "description": "Press play and get to the Spire.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_083_towerguards/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_083_towerguards/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_083_towerguards/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_083_TowerGuards",
+        "lastUpdate": "2021-04-13T08:51:15Z",
+        "added": "2021-04-13T08:51:15Z"
+    },
+    {
+        "id": "musicpack_084_buffcatcomic_5jc9y",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Drop In",
+        "shortDescription": "Music",
+        "description": "Featuring Trippie Redd",
+        "set": "Inkville Gang",
+        "setText": "Part of the Inkville Gang set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_084_buffcatcomic_5jc9y/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_084_buffcatcomic_5jc9y/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_084_buffcatcomic_5jc9y/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.BlotGroup"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_084_BuffCatComic_5JC9Y",
+        "lastUpdate": "2021-05-07T00:00:00Z",
+        "added": "2021-05-07T00:00:00Z"
+    },
+    {
+        "id": "musicpack_085_phonograph",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Turn Up",
+        "shortDescription": "Music",
+        "description": "Press play and turn the tables.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_085_phonograph/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_085_phonograph/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_085_phonograph/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_085_Phonograph",
+        "lastUpdate": "2021-05-11T08:22:29Z",
+        "added": "2021-05-11T08:22:29Z"
+    },
+    {
+        "id": "musicpack_086_hype",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Hype-notic",
+        "shortDescription": "Music",
+        "description": "Press play and pump up the crowd.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_086_hype/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_086_hype/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_086_hype/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_086_Hype",
+        "lastUpdate": "2021-05-25T08:48:30Z",
+        "added": "2021-05-25T08:48:30Z"
+    },
+    {
+        "id": "musicpack_087_antique",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Axe 2 Grind",
+        "shortDescription": "Music",
+        "description": "Press play to end your day.",
+        "set": "Guggimon",
+        "setText": "Part of the Guggimon set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_087_antique/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_087_antique/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_087_antique/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Set.ColorfulSlot"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_087_Antique",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "musicpack_088_believer",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Sunny's Song",
+        "shortDescription": "Music",
+        "description": "Press play and get carried beyond the clouds.",
+        "set": "Escape Velocity",
+        "setText": "Part of the Escape Velocity set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_088_believer/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_088_believer/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_088_believer/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Set.LeaveFast"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_088_Believer",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "musicpack_089_innovator",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Detonation",
+        "shortDescription": "Music",
+        "description": "Press play and start the countdown.",
+        "set": "IO Inquest",
+        "setText": "Part of the IO Inquest set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_089_innovator/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_089_innovator/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_089_innovator/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Set.NewHotness"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_089_Innovator",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "musicpack_090_easylife",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "UFOs & Aliens",
+        "shortDescription": "Music",
+        "description": "Press play and explore the galaxy.",
+        "set": null,
+        "setText": null,
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_090_easylife/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_090_easylife/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_090_easylife/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_090_EasyLife",
+        "lastUpdate": "2021-06-22T08:25:42Z",
+        "added": "2021-06-22T08:25:42Z"
+    },
+    {
+        "id": "musicpack_091_summer",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Beach Blast",
+        "shortDescription": "Music",
+        "description": "Press play and have a blast.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_091_summer/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_091_summer/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_091_summer/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_091_Summer",
+        "lastUpdate": "2021-06-22T08:25:42Z",
+        "added": "2021-06-22T08:25:42Z"
+    },
+    {
+        "id": "musicpack_092_cine",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "The Invasion",
+        "shortDescription": "Music",
+        "description": "Press play and take me to your leader.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_092_cine/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_092_cine/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_092_cine/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.ItemShop"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_092_Cine",
+        "lastUpdate": "2021-06-22T08:25:42Z",
+        "added": "2021-06-22T08:25:42Z"
+    },
+    {
+        "id": "musicpack_093_spacecuddles",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Mecha Power",
+        "shortDescription": "Music",
+        "description": "Press play and blast off to save the galaxy!",
+        "set": "The Returned",
+        "setText": "Part of the The Returned set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_093_spacecuddles/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_093_spacecuddles/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_093_spacecuddles/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Set.Comeback"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_093_SpaceCuddles",
+        "lastUpdate": "2021-06-22T08:25:42Z",
+        "added": "2021-06-22T08:25:42Z"
+    },
+    {
+        "id": "musicpack_094_spacecuddlesinstrumental",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Mecha Power (Instrumental)",
+        "shortDescription": "Music",
+        "description": "Press play and create your own galactic battle song.",
+        "set": "The Returned",
+        "setText": "Part of the The Returned set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_094_spacecuddlesinstrumental/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_094_spacecuddlesinstrumental/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_094_spacecuddlesinstrumental/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Set.Comeback"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_094_SpaceCuddlesInstrumental",
+        "lastUpdate": "2021-06-22T08:25:42Z",
+        "added": "2021-06-22T08:25:42Z"
+    },
+    {
+        "id": "musicpack_095_summernight",
+        "type": "music",
+        "backendType": "AthenaMusicPack",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Falling Stars",
+        "shortDescription": "Music",
+        "description": "Press play and find your star",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_095_summernight/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_095_summernight/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/musicpack_095_summernight/coverart.png"
+            },
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.ItemShop"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_095_SummerNight",
+        "lastUpdate": "2021-06-22T08:25:42Z",
+        "added": "2021-06-22T08:25:42Z"
+    },
+    {
         "id": "musicpack_random",
         "type": "music",
         "backendType": "AthenaMusicPack",

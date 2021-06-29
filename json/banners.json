@@ -5232,270 +5232,6 @@
       }
    },
    {
-      "id": "BRS16_Temple",
-      "devName": "S16-Temple",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs16_temple/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs16_temple/icon.png"
-      }
-   },
-   {
-      "id": "BRS16_Sentinel",
-      "devName": "S16-TowerSentinel",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs16_sentinel/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs16_sentinel/icon.png"
-      }
-   },
-   {
-      "id": "BRS16_Obsidian",
-      "devName": "S16-Obsidian",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs16_obsidian/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs16_obsidian/icon.png"
-      }
-   },
-   {
-      "id": "BRS16_DinoHunter",
-      "devName": "S16-DinoHunter",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs16_dinohunter/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs16_dinohunter/icon.png"
-      }
-   },
-   {
-      "id": "BRS16_CubeNinja",
-      "devName": "S16-CubeNinja",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs16_cubeninja/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs16_cubeninja/icon.png"
-      }
-   },
-   {
-      "id": "BRS16_ChickenWarrior",
-      "devName": "S16-ChickenWarrior",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs16_chickenwarrior/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs16_chickenwarrior/icon.png"
-      }
-   },
-   {
-      "id": "BRS16_Alt_2",
-      "devName": "S16-Alt-2",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs16_alt_2/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs16_alt_2/icon.png"
-      }
-   },
-   {
-      "id": "BRS16_Alt_1",
-      "devName": "S16-Alt-1",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs16_alt_1/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs16_alt_1/icon.png"
-      }
-   },
-   {
-      "id": "BRS16_AgentJonesy",
-      "devName": "S16-Jonesy",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs16_agentjonesy/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs16_agentjonesy/icon.png"
-      }
-   },
-   {
-      "id": "BRS15_Valentines2021_3",
-      "devName": "S15-Valentines2021-3",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs15_valentines2021_3/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs15_valentines2021_3/icon.png"
-      }
-   },
-   {
-      "id": "BRS15_Valentines2021",
-      "devName": "S15-Valentines2021",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs15_valentines2021/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs15_valentines2021/icon.png"
-      }
-   },
-   {
-      "id": "BRS15_SpaceFighter",
-      "devName": "S15-SpaceFighter",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs15_spacefighter/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs15_spacefighter/icon.png"
-      }
-   },
-   {
-      "id": "BRS15_Shapeshifter",
-      "devName": "S15-Shapeshifter",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs15_shapeshifter/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs15_shapeshifter/icon.png"
-      }
-   },
-   {
-      "id": "BRS15_PSPlusPack2021",
-      "devName": "S15-PS-PlusPack-2021",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs15_pspluspack2021/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs15_pspluspack2021/icon.png"
-      }
-   },
-   {
-      "id": "BRS15_Nightmare",
-      "devName": "S15-Nightmare",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs15_nightmare/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs15_nightmare/icon.png"
-      }
-   },
-   {
-      "id": "BRS15_Lexa",
-      "devName": "S15-Lexa",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs15_lexa/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs15_lexa/icon.png"
-      }
-   },
-   {
-      "id": "BRS15_FutureSamurai",
-      "devName": "S15-FutureSamurai",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs15_futuresamurai/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs15_futuresamurai/icon.png"
-      }
-   },
-   {
-      "id": "BRS15_FlapjackWrangler",
-      "devName": "S15-FlapjackWrangler",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs15_flapjackwrangler/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs15_flapjackwrangler/icon.png"
-      }
-   },
-   {
-      "id": "BRS15_CosmosC",
-      "devName": "S15-CosmosC",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs15_cosmosc/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs15_cosmosc/icon.png"
-      }
-   },
-   {
-      "id": "BRS15_CosmosB",
-      "devName": "S15-CosmosB",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs15_cosmosb/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs15_cosmosb/icon.png"
-      }
-   },
-   {
-      "id": "BRS15_CosmosA",
-      "devName": "S15-CosmosA",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs15_cosmosa/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs15_cosmosa/icon.png"
-      }
-   },
-   {
-      "id": "BRS15_AncientGladiator",
-      "devName": "S15-AncientGladiator",
-      "name": "Banner Icon",
-      "description": "A new icon for your banner. Assign it in the Locker.",
-      "category": "BattleRoyale",
-      "fullUsageRights": true,
-      "images": {
-         "smallIcon": "https://fortnite-api.com/images/banners/brs15_ancientgladiator/smallicon.png",
-         "icon": "https://fortnite-api.com/images/banners/brs15_ancientgladiator/icon.png"
-      }
-   },
-   {
       "id": "BRS14_Scooter",
       "devName": "S14-Scooter",
       "name": "Banner Icon",
@@ -6705,6 +6441,486 @@
       "images": {
          "smallIcon": "https://fortnite-api.com/images/banners/achievementgognome/smallicon.png",
          "icon": "https://fortnite-api.com/images/banners/achievementgognome/icon.png"
+      }
+   },
+   {
+      "id": "BRS17_Alt_2",
+      "devName": "S17-Alt-2",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs17_alt_2/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs17_alt_2/icon.png"
+      }
+   },
+   {
+      "id": "BRS17_CosmicSummer",
+      "devName": "S17-CosmicSummer",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs17_cosmicsummer/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs17_cosmicsummer/icon.png"
+      }
+   },
+   {
+      "id": "BRS17_Alt_3",
+      "devName": "S17-Alt-3",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs17_alt_3/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs17_alt_3/icon.png"
+      }
+   },
+   {
+      "id": "BRS17_Alt_1",
+      "devName": "S17-Alt-1",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs17_alt_1/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs17_alt_1/icon.png"
+      }
+   },
+   {
+      "id": "BRS17_Summer2021",
+      "devName": "S17-Summer2021",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs17_summer2021/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs17_summer2021/icon.png"
+      }
+   },
+   {
+      "id": "BRS16_Basketball_2021_G89SL",
+      "devName": "S16-Hardwood",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs16_basketball_2021_g89sl/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs16_basketball_2021_g89sl/icon.png"
+      }
+   },
+   {
+      "id": "BRS17_RuckusRun",
+      "devName": "S17-RuckusRun",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs17_ruckusrun/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs17_ruckusrun/icon.png"
+      }
+   },
+   {
+      "id": "BRS17_RuckusFace",
+      "devName": "S17-RukusFace",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs17_ruckusface/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs17_ruckusface/icon.png"
+      }
+   },
+   {
+      "id": "BRS17_Invader",
+      "devName": "S17-Invader",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs17_invader/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs17_invader/icon.png"
+      }
+   },
+   {
+      "id": "BRS17_Innovator",
+      "devName": "S17-Innovator",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs17_innovator/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs17_innovator/icon.png"
+      }
+   },
+   {
+      "id": "BRS17_Faux",
+      "devName": "S17-Faux",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs17_faux/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs17_faux/icon.png"
+      }
+   },
+   {
+      "id": "BRS17_Emperor",
+      "devName": "S17-Emperor",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs17_emperor/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs17_emperor/icon.png"
+      }
+   },
+   {
+      "id": "BRS17_BelieverPlanet",
+      "devName": "S17-BelieverPlanet",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs17_believerplanet/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs17_believerplanet/icon.png"
+      }
+   },
+   {
+      "id": "BRS17_Believer",
+      "devName": "S17-Believer",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs17_believer/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs17_believer/icon.png"
+      }
+   },
+   {
+      "id": "BRS17_Antique",
+      "devName": "S17-Antique",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs17_antique/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs17_antique/icon.png"
+      }
+   },
+   {
+      "id": "BRS17_AlienTrooper",
+      "devName": "S17-AlienTrooper",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs17_alientrooper/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs17_alientrooper/icon.png"
+      }
+   },
+   {
+      "id": "BRS16_Temple",
+      "devName": "S16-Temple",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs16_temple/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs16_temple/icon.png"
+      }
+   },
+   {
+      "id": "BRS16_Sentinel",
+      "devName": "S16-TowerSentinel",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs16_sentinel/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs16_sentinel/icon.png"
+      }
+   },
+   {
+      "id": "BRS16_Obsidian",
+      "devName": "S16-Obsidian",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs16_obsidian/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs16_obsidian/icon.png"
+      }
+   },
+   {
+      "id": "BRS16_DinoHunter",
+      "devName": "S16-DinoHunter",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs16_dinohunter/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs16_dinohunter/icon.png"
+      }
+   },
+   {
+      "id": "BRS16_CubeNinja",
+      "devName": "S16-CubeNinja",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs16_cubeninja/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs16_cubeninja/icon.png"
+      }
+   },
+   {
+      "id": "BRS16_ChickenWarrior",
+      "devName": "S16-ChickenWarrior",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs16_chickenwarrior/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs16_chickenwarrior/icon.png"
+      }
+   },
+   {
+      "id": "BRS16_Bicycle",
+      "devName": "S16-Bicycle",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs16_bicycle/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs16_bicycle/icon.png"
+      }
+   },
+   {
+      "id": "BRS16_BasketballHoop_2021",
+      "devName": "S16-BaseketballHoop-2021",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs16_basketballhoop_2021/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs16_basketballhoop_2021/icon.png"
+      }
+   },
+   {
+      "id": "BRS16_Alt_2",
+      "devName": "S16-Alt-2",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs16_alt_2/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs16_alt_2/icon.png"
+      }
+   },
+   {
+      "id": "BRS16_Alt_1",
+      "devName": "S16-Alt-1",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs16_alt_1/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs16_alt_1/icon.png"
+      }
+   },
+   {
+      "id": "BRS16_AgentJonesy",
+      "devName": "S16-Jonesy",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs16_agentjonesy/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs16_agentjonesy/icon.png"
+      }
+   },
+   {
+      "id": "BRS15_Valentines2021_3",
+      "devName": "S15-Valentines2021-3",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs15_valentines2021_3/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs15_valentines2021_3/icon.png"
+      }
+   },
+   {
+      "id": "BRS15_Valentines2021",
+      "devName": "S15-Valentines2021",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs15_valentines2021/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs15_valentines2021/icon.png"
+      }
+   },
+   {
+      "id": "BRS15_SpaceFighter",
+      "devName": "S15-SpaceFighter",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs15_spacefighter/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs15_spacefighter/icon.png"
+      }
+   },
+   {
+      "id": "BRS15_Shapeshifter",
+      "devName": "S15-Shapeshifter",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs15_shapeshifter/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs15_shapeshifter/icon.png"
+      }
+   },
+   {
+      "id": "BRS15_PSPlusPack2021",
+      "devName": "S15-PS-PlusPack-2021",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs15_pspluspack2021/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs15_pspluspack2021/icon.png"
+      }
+   },
+   {
+      "id": "BRS15_Nightmare",
+      "devName": "S15-Nightmare",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs15_nightmare/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs15_nightmare/icon.png"
+      }
+   },
+   {
+      "id": "BRS15_Lexa",
+      "devName": "S15-Lexa",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs15_lexa/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs15_lexa/icon.png"
+      }
+   },
+   {
+      "id": "BRS15_FutureSamurai",
+      "devName": "S15-FutureSamurai",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs15_futuresamurai/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs15_futuresamurai/icon.png"
+      }
+   },
+   {
+      "id": "BRS15_FlapjackWrangler",
+      "devName": "S15-FlapjackWrangler",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs15_flapjackwrangler/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs15_flapjackwrangler/icon.png"
+      }
+   },
+   {
+      "id": "BRS15_CosmosC",
+      "devName": "S15-CosmosC",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs15_cosmosc/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs15_cosmosc/icon.png"
+      }
+   },
+   {
+      "id": "BRS15_CosmosB",
+      "devName": "S15-CosmosB",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs15_cosmosb/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs15_cosmosb/icon.png"
+      }
+   },
+   {
+      "id": "BRS15_CosmosA",
+      "devName": "S15-CosmosA",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs15_cosmosa/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs15_cosmosa/icon.png"
+      }
+   },
+   {
+      "id": "BRS15_AncientGladiator",
+      "devName": "S15-AncientGladiator",
+      "name": "Banner Icon",
+      "description": "A new icon for your banner. Assign it in the Locker.",
+      "category": "BattleRoyale",
+      "fullUsageRights": true,
+      "images": {
+         "smallIcon": "https://fortnite-api.com/images/banners/brs15_ancientgladiator/smallicon.png",
+         "icon": "https://fortnite-api.com/images/banners/brs15_ancientgladiator/icon.png"
       }
    }
 ]
