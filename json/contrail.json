@@ -3812,6 +3812,266 @@
         "added": "2021-03-17T11:14:28Z"
     },
     {
+        "id": "trails_id_117_abduction",
+        "type": "contrail",
+        "backendType": "AthenaSkyDiveContrail",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Abduction!",
+        "shortDescription": "Contrail",
+        "description": "Take me to your squad leader.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_117_abduction/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_117_abduction/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass.Paid"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_117_Abduction",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "trails_id_118_boostwings",
+        "type": "contrail",
+        "backendType": "AthenaSkyDiveContrail",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Drop Jet",
+        "shortDescription": "Contrail",
+        "description": "Roger that, you're cleared for landing.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_118_boostwings/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_118_boostwings/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass.Paid"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_118_BoostWings",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "trails_id_119_colortrip",
+        "type": "contrail",
+        "backendType": "AthenaSkyDiveContrail",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Cluttered",
+        "shortDescription": "Contrail",
+        "description": "Who wants a sticker?",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_119_colortrip/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_119_colortrip/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass.Paid"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_119_ColorTrip",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "trails_id_120_energynet",
+        "type": "contrail",
+        "backendType": "AthenaSkyDiveContrail",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Light Streak",
+        "shortDescription": "Contrail",
+        "description": "Slightly slower than the speed of light.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_120_energynet/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_120_energynet/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass.Free"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_120_EnergyNet",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "trails_id_121_darkandlight",
+        "type": "contrail",
+        "backendType": "AthenaSkyDiveContrail",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Inversion",
+        "shortDescription": "Contrail",
+        "description": "Darkness and Light.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_121_darkandlight/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_121_darkandlight/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+            "Cosmetics.Source.Season17.BattlePass.Paid",
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.UserFacingFlags.Reactive.TimeOfDay"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_121_DarkAndLight",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "trails_id_122_fireworkstrands",
+        "type": "contrail",
+        "backendType": "AthenaSkyDiveContrail",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Firecracker Freefall",
+        "shortDescription": "Contrail",
+        "description": "Make an explosive entrance.",
+        "set": "Ka-Bang!",
+        "setText": "Part of the Ka-Bang! set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_122_fireworkstrands/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/trails_id_122_fireworkstrands/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+            "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Set.BigBoom",
+            "Cosmetics.Source.Event.CosmicSummer"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_122_FireworkStrands",
+        "lastUpdate": "2021-06-22T08:25:42Z",
+        "added": "2021-06-22T08:25:42Z"
+    },
+    {
         "id": "trails_id_31_greenflame",
         "type": "contrail",
         "backendType": "AthenaSkyDiveContrail",

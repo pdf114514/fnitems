@@ -37,7 +37,7 @@
         "definition": null,
         "requiredItemId": null,
         "builtInEmoteId": null,
-        "path": "FortniteGame/Content/Athena/Items/Cosmetics/BackPacks/BID_533_MechanicalEngineer",
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_533_MechanicalEngineer",
         "lastUpdate": "2020-06-17T08:48:17Z",
         "added": "2020-06-17T08:48:17Z"
     },
@@ -936,5 +936,78 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/PetCarriers/PetCarrier_015_Cosmos",
         "lastUpdate": "2020-12-08T19:08:39Z",
         "added": "2020-12-08T19:08:39Z"
+    },
+    {
+        "id": "petcarrier_016_invader",
+        "type": "petcarrier",
+        "backendType": "AthenaPetCarrier",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Choppy",
+        "shortDescription": "Pet",
+        "description": "Pretend he's not here.",
+        "set": "Binary Stars",
+        "setText": "Part of the Binary Stars set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_016_invader/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_016_invader/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Particle",
+                "type": "COLOR",
+                "options": [
+                    {
+                        "tag": "Particle0",
+                        "name": "Choppy",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_016_invader/variants/particle/particle0.png"
+                        }
+                    },
+                    {
+                        "tag": "Particle1",
+                        "name": "Molten Midnight Choppy",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_016_invader/variants/particle/particle1.png"
+                        }
+                    },
+                    {
+                        "tag": "Particle2",
+                        "name": "Mechaglow Choppy",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/petcarrier_016_invader/variants/particle/particle2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+            "Cosmetics.Set.CodeGalaxy"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/PetCarriers/PetCarrier_016_Invader",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
     }
 ]

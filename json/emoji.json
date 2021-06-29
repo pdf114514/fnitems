@@ -8043,6 +8043,132 @@
         "added": "2021-03-17T11:14:28Z"
     },
     {
+        "id": "emoji_s16_bicycle",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Stealth Shot",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": "Neymar Jr",
+        "setText": "Part of the Neymar Jr set.",
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s16_bicycle/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s16_bicycle/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Source.Season16.BattlePass.Free",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.GoodParachute"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S16_Bicycle",
+        "lastUpdate": "2021-04-27T08:24:16Z",
+        "added": "2021-04-27T08:24:16Z"
+    },
+    {
+        "id": "emoji_s16_bicycle2",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Spinner Takes All",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": "Neymar Jr",
+        "setText": "Part of the Neymar Jr set.",
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s16_bicycle2/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s16_bicycle2/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.GoodParachute"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S16_Bicycle2",
+        "lastUpdate": "2021-04-27T08:24:16Z",
+        "added": "2021-04-27T08:24:16Z"
+    },
+    {
+        "id": "emoji_s16_buffcat",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Happy Cat",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": "Swole Cat",
+        "setText": "Part of the Swole Cat set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s16_buffcat/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s16_buffcat/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Set.JackedKitty"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S16_BuffCat",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
         "id": "emoji_s16_chickenwarrior",
         "type": "emoji",
         "backendType": "AthenaEmoji",
@@ -8174,6 +8300,131 @@
         "added": "2021-03-17T11:14:28Z"
     },
     {
+        "id": "emoji_s16_flapjackwrangler",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Giddy Syrup",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": "The Breakfast Bandit",
+        "setText": "Part of the The Breakfast Bandit set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s16_flapjackwrangler/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s16_flapjackwrangler/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Set.DinnerThief"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S16_FlapjackWrangler",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "emoji_s16_fncs",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Championship 2021",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": "Fortnite Champion Series",
+        "setText": "Part of the Fortnite Champion Series set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s16_fncs/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s16_fncs/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.FNCS",
+            "Cosmetics.Source.FNCS"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S16_FNCS",
+        "lastUpdate": "2021-03-30T09:14:15Z",
+        "added": "2021-03-30T09:14:15Z"
+    },
+    {
+        "id": "emoji_s16_maskedwarrior",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Enlightened Warrior",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s16_maskedwarrior/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s16_maskedwarrior/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S16_MaskedWarrior",
+        "lastUpdate": "2021-04-27T08:24:16Z",
+        "added": "2021-04-27T08:24:16Z"
+    },
+    {
         "id": "emoji_s16_obsidian",
         "type": "emoji",
         "backendType": "AthenaEmoji",
@@ -8303,6 +8554,547 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S16_Temple",
         "lastUpdate": "2021-03-17T11:14:28Z",
         "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "emoji_s17_alientrooper",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Big Brain",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": "Kymera",
+        "setText": "Part of the Kymera set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_alientrooper/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_alientrooper/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Set.VeryAdvanced"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S17_AlienTrooper",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "emoji_s17_alt_1",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Star Seer",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_alt_1/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_alt_1/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.17"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S17_Alt_1",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "emoji_s17_alt_2",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Eeeeh...",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_alt_2/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_alt_2/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.17"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S17_Alt_2",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "emoji_s17_angrycow",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Big Heff",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_angrycow/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_angrycow/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.17"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S17_AngryCow",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "emoji_s17_antique",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Fever Dream",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": "Guggimon",
+        "setText": "Part of the Guggimon set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_antique/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_antique/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Set.ColorfulSlot"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S17_Antique",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "emoji_s17_believer",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Alie-yum",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": "Escape Velocity",
+        "setText": "Part of the Escape Velocity set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_believer/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_believer/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Set.LeaveFast"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S17_Believer",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "emoji_s17_emperor",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "dc",
+        "displayRarity": "DC SERIES",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Call to Action",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": "Kryptonian",
+        "setText": "Part of the Kryptonian set.",
+        "series": "DC SERIES",
+        "backendSeries": "DCUSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_emperor/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_emperor/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Set.PortionCut"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S17_Emperor",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "emoji_s17_faux",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Mlem",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": "Inner Vision",
+        "setText": "Part of the Inner Vision set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_faux/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_faux/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Set.InsideEyes"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S17_Faux",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "emoji_s17_fest",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Bonfire",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_fest/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_fest/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.17"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S17_Fest",
+        "lastUpdate": "2021-06-22T08:25:42Z",
+        "added": "2021-06-22T08:25:42Z"
+    },
+    {
+        "id": "emoji_s17_fncs_allstars",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Buff Bash",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": "Fortnite Champion Series",
+        "setText": "Part of the Fortnite Champion Series set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_fncs_allstars/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_fncs_allstars/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Set.FNCS",
+            "Cosmetics.Source.FNCS"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S17_FNCS_AllStars",
+        "lastUpdate": "2021-06-22T08:25:42Z",
+        "added": "2021-06-22T08:25:42Z"
+    },
+    {
+        "id": "emoji_s17_ruckus",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "* BUURRRPP *",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": "Rick, C-137",
+        "setText": "Part of the Rick, C-137 set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_ruckus/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_ruckus/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Set.FosterRush"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S17_Ruckus",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "emoji_s17_soccer",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Winner's Cup",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_soccer/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_soccer/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.17"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S17_Soccer",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "emoji_s17_summer2021",
+        "type": "emoji",
+        "backendType": "AthenaEmoji",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Stellar Sipper",
+        "shortDescription": "Emoticon",
+        "description": "Express yourself on the battlefield.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_summer2021/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/emoji_s17_summer2021/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.EmoteType.Emoji",
+            "Cosmetics.Filter.Season.17"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S17_Summer2021",
+        "lastUpdate": "2021-06-22T08:25:42Z",
+        "added": "2021-06-22T08:25:42Z"
     },
     {
         "id": "emoji_s6lvl100",

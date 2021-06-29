@@ -4062,7 +4062,10 @@
                 "hash": "",
                 "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_085_skulltrooper/icon.png"
             },
-            "featured": null,
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_085_skulltrooper/featured.png"
+            },
             "background": null,
             "coverArt": null,
             "decal": null
@@ -4452,7 +4455,30 @@
             "coverArt": null,
             "decal": null
         },
-        "variants": null,
+        "variants": [
+            {
+                "channel": "Material",
+                "type": "STYLE",
+                "options": [
+                    {
+                        "tag": "Mat0",
+                        "name": "Dog",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_093_animaljackets/variants/material/mat0.png"
+                        }
+                    },
+                    {
+                        "tag": "Mat1",
+                        "name": "Rabbit",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_093_animaljackets/variants/material/mat1.png"
+                        }
+                    }
+                ]
+            }
+        ],
         "gameplayTags": [
             "Cosmetics.Source.ItemShop",
             "Cosmetics.Set.AnimalJackets",
@@ -8570,12 +8596,36 @@
             "coverArt": null,
             "decal": null
         },
-        "variants": null,
+        "variants": [
+            {
+                "channel": "Particle",
+                "type": "Style",
+                "options": [
+                    {
+                        "tag": "Particle1",
+                        "name": "Default",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_180_neongraffiti/variants/particle/particle1.png"
+                        }
+                    },
+                    {
+                        "tag": "Particle2",
+                        "name": "Rainbow",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_180_neongraffiti/variants/particle/particle2.png"
+                        }
+                    }
+                ]
+            }
+        ],
         "gameplayTags": [
             "Cosmetics.Set.AerosolAssassins",
             "Cosmetics.Source.ItemShop",
             "Cosmetics.UserFacingFlags.Reactive",
-            "Cosmetics.Filter.Season.12"
+            "Cosmetics.Filter.Season.12",
+            "Cosmetics.UserFacingFlags.HasVariants"
         ],
         "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_Glider_ID_180_NeonGraffiti",
         "definition": null,
@@ -10207,7 +10257,7 @@
         "rarity": "rare",
         "displayRarity": "Rare",
         "backendRarity": "EFortRarity::Rare",
-        "name": "Stealth Stinger",
+        "name": "Toxic Flash",
         "shortDescription": "Glider",
         "description": "Lightweight jet glider with venomous flare.",
         "set": null,
@@ -10470,6 +10520,51 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_214_GarbageIsland",
         "lastUpdate": "2020-06-17T08:48:17Z",
         "added": "2020-06-17T08:48:17Z"
+    },
+    {
+        "id": "glider_id_216_hardcoresportz",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Bladey Bird",
+        "shortDescription": "Glider",
+        "description": "A cut above the rest.",
+        "set": "Team Spirit",
+        "setText": "Part of the Team Spirit set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_216_hardcoresportz/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_216_hardcoresportz/icon.png"
+            },
+            "featured": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_216_hardcoresportz/featured.png"
+            },
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.GroupEnergy",
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": "FortniteGame/Content/Catalog/DisplayAssets/DA_Featured_Glider_ID_216_HardcoreSportz",
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_216_HardcoreSportz",
+        "lastUpdate": "2021-03-31T05:23:13Z",
+        "added": "2021-03-31T05:23:13Z"
     },
     {
         "id": "glider_id_217_longshortsmale",
@@ -13772,6 +13867,786 @@
         "added": "2021-03-17T11:14:28Z"
     },
     {
+        "id": "glider_id_286_accumulatemale",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Drip Dropper",
+        "shortDescription": "Glider",
+        "description": "Nozzle up with a friend.",
+        "set": "Marked Man",
+        "setText": "Part of the Marked Man set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_286_accumulatemale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_286_accumulatemale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.NotedDude"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_286_AccumulateMale",
+        "lastUpdate": "2021-04-13T08:51:15Z",
+        "added": "2021-04-13T08:51:15Z"
+    },
+    {
+        "id": "glider_id_287_alchemy_w87kl",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "epic",
+        "displayRarity": "Gaming Legends Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Glinthawk",
+        "shortDescription": "Glider",
+        "description": "A tenuous alliance.",
+        "set": "Horizon Zero Dawn",
+        "setText": "Part of the Horizon Zero Dawn set.",
+        "series": "Gaming Legends Series",
+        "backendSeries": "PlatformSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_287_alchemy_w87kl/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_287_alchemy_w87kl/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.FussJam"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_287_Alchemy_W87KL",
+        "lastUpdate": "2021-04-13T12:16:54Z",
+        "added": "2021-04-13T12:16:54Z"
+    },
+    {
+        "id": "glider_id_288_bicyclemale",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Aerial Acrobat",
+        "shortDescription": "Glider",
+        "description": "Keep searching, keep believing.",
+        "set": "Neymar Jr",
+        "setText": "Part of the Neymar Jr set.",
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_288_bicyclemale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_288_bicyclemale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Particle",
+                "type": "Style",
+                "options": [
+                    {
+                        "tag": "Particle1",
+                        "name": "Default",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_288_bicyclemale/variants/particle/particle1.png"
+                        }
+                    },
+                    {
+                        "tag": "Particle2",
+                        "name": "Aerial Acrobat (Exhibition)",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_288_bicyclemale/variants/particle/particle2.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Source.Season16.BattlePass.Paid.Additional",
+            "Cosmetics.Set.GoodParachute",
+            "Cosmetics.UserFacingFlags.HasUpgradeQuests"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_288_BicycleMale",
+        "lastUpdate": "2021-04-27T08:24:16Z",
+        "added": "2021-04-27T08:24:16Z"
+    },
+    {
+        "id": "glider_id_289_cavernmale_5i9rd",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "dc",
+        "displayRarity": "DC SERIES",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Batman Zero Wing",
+        "shortDescription": "Glider",
+        "description": "Battle-worn bat glider.",
+        "set": "Batman: Zero Point",
+        "setText": "Part of the Batman: Zero Point set.",
+        "series": "DC SERIES",
+        "backendSeries": "DCUSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_289_cavernmale_5i9rd/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_289_cavernmale_5i9rd/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Glider.HideBackPack",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.NotionRemark"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_289_CavernMale_5I9RD",
+        "lastUpdate": "2021-04-27T08:24:16Z",
+        "added": "2021-04-27T08:24:16Z"
+    },
+    {
+        "id": "glider_id_291_taxiupgradedmulticolorfemale",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Flair Fare",
+        "shortDescription": "Glider",
+        "description": "The meter is... stunning.",
+        "set": "Holo-Traffic",
+        "setText": "Part of the Holo-Traffic set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_291_taxiupgradedmulticolorfemale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_291_taxiupgradedmulticolorfemale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.HoloCars"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_291_TaxiUpgradedMulticolorFemale",
+        "lastUpdate": "2021-05-11T08:22:29Z",
+        "added": "2021-05-11T08:22:29Z"
+    },
+    {
+        "id": "glider_id_292_grimmale",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "dc",
+        "displayRarity": "DC SERIES",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Deathstroke Destroyer",
+        "shortDescription": "Glider",
+        "description": "Rain down destruction from above.",
+        "set": "Batman: Zero Point",
+        "setText": "Part of the Batman: Zero Point set.",
+        "series": "DC SERIES",
+        "backendSeries": "DCUSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_292_grimmale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_292_grimmale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Glider.HideBackPack",
+            "Phoebe.Cosmetic.Minus.Zone2",
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.NotionRemark"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_292_GrimMale",
+        "lastUpdate": "2021-05-25T08:48:30Z",
+        "added": "2021-05-25T08:48:30Z"
+    },
+    {
+        "id": "glider_id_293_antiquemale",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Chop Dropper",
+        "shortDescription": "Glider",
+        "description": "Skull-infused battle balloon.",
+        "set": "Guggimon",
+        "setText": "Part of the Guggimon set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_293_antiquemale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_293_antiquemale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass.Paid",
+            "Cosmetics.Set.ColorfulSlot"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_293_AntiqueMale",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "glider_id_294_believerfemale",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Sunny's Lander",
+        "shortDescription": "Glider",
+        "description": "Take her to your leader.",
+        "set": "Escape Velocity",
+        "setText": "Part of the Escape Velocity set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_294_believerfemale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_294_believerfemale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass.Free",
+            "Cosmetics.Set.LeaveFast"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_294_BelieverFemale",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "glider_id_295_emperormale",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "dc",
+        "displayRarity": "DC SERIES",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Kal-El's Cape",
+        "shortDescription": "Glider",
+        "description": "Up, up and away!",
+        "set": "Kryptonian",
+        "setText": "Part of the Kryptonian set.",
+        "series": "DC SERIES",
+        "backendSeries": "DCUSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_295_emperormale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_295_emperormale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Set.PortionCut",
+            "Cosmetics.Source.Season17.BattlePass.Paid"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_295_EmperorMale",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "glider_id_296_innovatorfemale",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "IO Stealth Sail",
+        "shortDescription": "Glider",
+        "description": "Built to Doctor Slone's specifications.",
+        "set": "IO Inquest",
+        "setText": "Part of the IO Inquest set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_296_innovatorfemale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_296_innovatorfemale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Glider.HideBackPack",
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass.Paid",
+            "Cosmetics.Set.NewHotness"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_296_InnovatorFemale",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "glider_id_297_invadermale",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Zyg Ray",
+        "shortDescription": "Glider",
+        "description": "Choppy's choice for Intergalactic sting operations.",
+        "set": "Binary Stars",
+        "setText": "Part of the Binary Stars set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_297_invadermale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_297_invadermale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Particle",
+                "type": "Style",
+                "options": [
+                    {
+                        "tag": "Particle1",
+                        "name": "Zyg Ray",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_297_invadermale/variants/particle/particle1.png"
+                        }
+                    },
+                    {
+                        "tag": "Particle2",
+                        "name": "Molten Midnight Zyg Ray",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_297_invadermale/variants/particle/particle2.png"
+                        }
+                    },
+                    {
+                        "tag": "Particle3",
+                        "name": "Mechaglow Zyg Ray",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_297_invadermale/variants/particle/particle3.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass.Paid",
+            "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+            "Cosmetics.Set.CodeGalaxy"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_297_InvaderMale",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "glider_id_298_ruckusmale",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "epic",
+        "displayRarity": "Epic",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Rick's UFO Cruiser",
+        "shortDescription": "Glider",
+        "description": "Powered by Rick's Microverse.",
+        "set": "Rick, C-137",
+        "setText": "Part of the Rick, C-137 set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_298_ruckusmale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_298_ruckusmale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass.Paid",
+            "Cosmetics.Set.FosterRush"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_298_RuckusMale",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "glider_id_299_cavernarmoredmale",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "dc",
+        "displayRarity": "DC SERIES",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Batman's Exo-Glider",
+        "shortDescription": "Glider",
+        "description": "Rebuilt and ready for action.",
+        "set": "Batman: Zero Point",
+        "setText": "Part of the Batman: Zero Point set.",
+        "series": "DC SERIES",
+        "backendSeries": "DCUSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_299_cavernarmoredmale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_299_cavernarmoredmale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Glider.HideBackPack",
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.NotionRemark"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_299_CavernArmoredMale",
+        "lastUpdate": "2021-06-22T08:25:42Z",
+        "added": "2021-06-22T08:25:42Z"
+    },
+    {
+        "id": "glider_id_300_firecrackermale",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "rare",
+        "displayRarity": "Rare",
+        "backendRarity": "EFortRarity::Rare",
+        "name": "Boomer",
+        "shortDescription": "Glider",
+        "description": "I'd land quickly if I were you.",
+        "set": "Ka-Bang!",
+        "setText": "Part of the Ka-Bang! set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_300_firecrackermale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_300_firecrackermale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.BigBoom"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_300_FirecrackerMale",
+        "lastUpdate": "2021-06-22T08:25:42Z",
+        "added": "2021-06-22T08:25:42Z"
+    },
+    {
+        "id": "glider_id_301_linguinimale_ip674",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "marvel",
+        "displayRarity": "MARVEL SERIES",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Chitauri Chariot",
+        "shortDescription": "Glider",
+        "description": "Not of Asgard or any world known.",
+        "set": "God of Mischief",
+        "setText": "Part of the God of Mischief set.",
+        "series": "MARVEL SERIES",
+        "backendSeries": "MarvelSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_301_linguinimale_ip674/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_301_linguinimale_ip674/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.CrewPack.July2021",
+            "Cosmetics.Set.ArtistPhysics"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_301_LinguiniMale_IP674",
+        "lastUpdate": "2021-06-28T15:01:46Z",
+        "added": "2021-06-28T15:01:46Z"
+    },
+    {
+        "id": "glider_id_303_surfingsummerfemale",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "legendary",
+        "displayRarity": "Legendary",
+        "backendRarity": "EFortRarity::Legendary",
+        "name": "Cloud Llama Board",
+        "shortDescription": "Glider",
+        "description": "Surf the skies.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_303_surfingsummerfemale/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_303_surfingsummerfemale/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": [
+            {
+                "channel": "Mesh",
+                "type": "Style",
+                "options": [
+                    {
+                        "tag": "Stage1",
+                        "name": "Default",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_303_surfingsummerfemale/variants/mesh/stage1.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage2",
+                        "name": "Cloud Coral Board",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_303_surfingsummerfemale/variants/mesh/stage2.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage3",
+                        "name": "Cloudy Cat Board",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_303_surfingsummerfemale/variants/mesh/stage3.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage4",
+                        "name": "Cloud Crew Board",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_303_surfingsummerfemale/variants/mesh/stage4.png"
+                        }
+                    },
+                    {
+                        "tag": "Stage5",
+                        "name": "Golden Wave",
+                        "image": {
+                            "hash": "",
+                            "url": "https://fortnite-api.com/images/cosmetics/br/glider_id_303_surfingsummerfemale/variants/mesh/stage5.png"
+                        }
+                    }
+                ]
+            }
+        ],
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.UserFacingFlags.HasUpgradeQuests"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_303_SurfingSummerFemale",
+        "lastUpdate": "2021-06-22T08:25:42Z",
+        "added": "2021-06-22T08:25:42Z"
+    },
+    {
         "id": "glider_mig",
         "type": "glider",
         "backendType": "AthenaGlider",
@@ -14036,10 +14911,7 @@
                 "hash": "",
                 "url": "https://fortnite-api.com/images/cosmetics/br/glider_stealth/icon.png"
             },
-            "featured": {
-                "hash": "",
-                "url": "https://fortnite-api.com/images/cosmetics/br/glider_stealth/featured.png"
-            },
+            "featured": null,
             "background": null,
             "coverArt": null,
             "decal": null
@@ -14119,10 +14991,7 @@
                 "hash": "",
                 "url": "https://fortnite-api.com/images/cosmetics/br/glider_venom/icon.png"
             },
-            "featured": {
-                "hash": "",
-                "url": "https://fortnite-api.com/images/cosmetics/br/glider_venom/featured.png"
-            },
+            "featured": null,
             "background": null,
             "coverArt": null,
             "decal": null
@@ -14506,6 +15375,47 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Umbrella_BuildABrella",
         "lastUpdate": "2020-06-17T08:48:17Z",
         "added": "2020-06-17T08:48:17Z"
+    },
+    {
+        "id": "umbrella_daybreak",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "common",
+        "displayRarity": "Common",
+        "backendRarity": "EFortRarity::Common",
+        "name": "Escapist",
+        "shortDescription": "Glider",
+        "description": "You've earned this flight.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/umbrella_daybreak/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/umbrella_daybreak/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Source.Challenge"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Umbrella_Daybreak",
+        "lastUpdate": "2021-05-11T08:22:29Z",
+        "added": "2021-05-11T08:22:29Z"
     },
     {
         "id": "umbrella_gold",
@@ -15179,6 +16089,48 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Umbrella_Season_16",
         "lastUpdate": "2021-03-17T11:14:28Z",
         "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "umbrella_season_17",
+        "type": "glider",
+        "backendType": "AthenaGlider",
+        "rarity": "common",
+        "displayRarity": "Common",
+        "backendRarity": "EFortRarity::Common",
+        "name": "Invasion",
+        "shortDescription": "Glider",
+        "description": "They're here.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/umbrella_season_17/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/umbrella_season_17/icon.png"
+            },
+            "featured": null,
+            "background": null,
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.QuestsMetaData.Achievements.Umbrella",
+            "Cosmetics.Source.Season17.FirstWin",
+            "Cosmetics.Filter.Season.17"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Umbrella_Season_17",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
     },
     {
         "id": "umbrella_silver",

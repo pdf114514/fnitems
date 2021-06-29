@@ -8273,49 +8273,6 @@
         "added": "2019-11-20T12:48:49Z"
     },
     {
-        "id": "lsid_189_s11cumulative10",
-        "type": "loadingscreen",
-        "backendType": "AthenaLoadingScreen",
-        "rarity": "uncommon",
-        "displayRarity": "Uncommon",
-        "backendRarity": "EFortRarity::Uncommon",
-        "name": "TBD",
-        "shortDescription": "Loading Screen",
-        "description": "TBD",
-        "set": null,
-        "setText": null,
-        "series": null,
-        "backendSeries": null,
-        "images": {
-            "smallIcon": {
-                "hash": "",
-                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_189_s11cumulative10/smallicon.png"
-            },
-            "icon": {
-                "hash": "",
-                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_189_s11cumulative10/icon.png"
-            },
-            "featured": null,
-            "background": {
-                "hash": "",
-                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_189_s11cumulative10/background.png"
-            },
-            "coverArt": null,
-            "decal": null
-        },
-        "variants": null,
-        "gameplayTags": [
-            "Cosmetics.Filter.Season.11"
-        ],
-        "displayAssetPath": null,
-        "definition": null,
-        "requiredItemId": null,
-        "builtInEmoteId": null,
-        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_189_S11Cumulative10",
-        "lastUpdate": "2020-02-21T16:27:07Z",
-        "added": "2020-02-21T16:27:07Z"
-    },
-    {
         "id": "lsid_190_icmechateam",
         "type": "loadingscreen",
         "backendType": "AthenaLoadingScreen",
@@ -12317,6 +12274,140 @@
         "added": "2021-03-17T11:14:28Z"
     },
     {
+        "id": "lsid_286_llamarama2_8asuq",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "epic",
+        "displayRarity": "Gaming Legends Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Llama-rama",
+        "shortDescription": "Loading Screen",
+        "description": "Llamas, start your engines.",
+        "set": "Rocket League",
+        "setText": "Part of the Rocket League set.",
+        "series": "Gaming Legends Series",
+        "backendSeries": "PlatformSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_286_llamarama2_8asuq/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_286_llamarama2_8asuq/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_286_llamarama2_8asuq/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.BlandAbolish",
+            "Cosmetics.Source.Event"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_286_LlamaRama2_8ASUQ",
+        "lastUpdate": "2021-03-25T11:05:56Z",
+        "added": "2021-03-25T11:05:56Z"
+    },
+    {
+        "id": "lsid_287_buffcatcomic_jbe9o",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Fantastic Cat",
+        "shortDescription": "Loading Screen",
+        "description": "Created by Lance Inkwell",
+        "set": "Inkville Gang",
+        "setText": "Part of the Inkville Gang set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_287_buffcatcomic_jbe9o/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_287_buffcatcomic_jbe9o/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_287_buffcatcomic_jbe9o/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.BlotGroup"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_287_BuffCatComic_JBE9O",
+        "lastUpdate": "2021-05-07T00:00:00Z",
+        "added": "2021-05-07T00:00:00Z"
+    },
+    {
+        "id": "lsid_288_bicycle",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "icon",
+        "displayRarity": "Icon Series",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Matador",
+        "shortDescription": "Loading Screen",
+        "description": "Created by Afu Chan",
+        "set": "Neymar Jr",
+        "setText": "Part of the Neymar Jr set.",
+        "series": "Icon Series",
+        "backendSeries": "CreatorCollabSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_288_bicycle/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_288_bicycle/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_288_bicycle/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Source.Season16.BattlePass",
+            "Cosmetics.Set.GoodParachute"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_288_Bicycle",
+        "lastUpdate": "2021-04-27T08:24:16Z",
+        "added": "2021-04-27T08:24:16Z"
+    },
+    {
         "id": "lsid_289_yogurtjonesy",
         "type": "loadingscreen",
         "backendType": "AthenaLoadingScreen",
@@ -12359,6 +12450,1423 @@
         "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_289_YogurtJonesy",
         "lastUpdate": "2021-03-17T11:14:28Z",
         "added": "2021-03-17T11:14:28Z"
+    },
+    {
+        "id": "lsid_290_aprilsubs",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Catwalk",
+        "shortDescription": "Loading Screen",
+        "description": "Alli's on the prowl.",
+        "set": "Cat & Mouse",
+        "setText": "Part of the Cat & Mouse set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_290_aprilsubs/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_290_aprilsubs/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_290_aprilsubs/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.FelineRat",
+            "Cosmetics.Source.CrewPack.April2021"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_290_AprilSubs",
+        "lastUpdate": "2021-03-30T09:14:15Z",
+        "added": "2021-03-30T09:14:15Z"
+    },
+    {
+        "id": "lsid_291_s16_fncs",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Secrets of the Ancients",
+        "shortDescription": "Loading Screen",
+        "description": "The key to the future may lie in the past.",
+        "set": "Fortnite Champion Series",
+        "setText": "Part of the Fortnite Champion Series set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_291_s16_fncs/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_291_s16_fncs/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_291_s16_fncs/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.FNCS",
+            "Cosmetics.Source.FNCS"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_291_S16_FNCS",
+        "lastUpdate": "2021-03-30T09:14:15Z",
+        "added": "2021-03-30T09:14:15Z"
+    },
+    {
+        "id": "lsid_293_cranium",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Skull Stalker",
+        "shortDescription": "Loading Screen",
+        "description": "A new gatekeeper for a new underworld.",
+        "set": "Neo Underworld",
+        "setText": "Part of the Neo Underworld set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_293_cranium/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_293_cranium/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_293_cranium/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Source.CrewPack.May2021",
+            "Cosmetics.Set.CyberSyndicate"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_293_Cranium",
+        "lastUpdate": "2021-04-27T08:24:16Z",
+        "added": "2021-04-27T08:24:16Z"
+    },
+    {
+        "id": "lsid_294_alchemy_09u3r",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Gaming Legends Series",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Aloy the Skywatcher",
+        "shortDescription": "Loading Screen",
+        "description": "She's a natural.",
+        "set": "Horizon Zero Dawn",
+        "setText": "Part of the Horizon Zero Dawn set.",
+        "series": "Gaming Legends Series",
+        "backendSeries": "PlatformSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_294_alchemy_09u3r/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_294_alchemy_09u3r/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_294_alchemy_09u3r/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.FussJam"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_294_Alchemy_09U3R",
+        "lastUpdate": "2021-04-13T12:16:54Z",
+        "added": "2021-04-13T12:16:54Z"
+    },
+    {
+        "id": "lsid_295_headcase",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Pen (and Ink) Pals",
+        "shortDescription": "Loading Screen",
+        "description": "Ever try making your own friends?",
+        "set": "Marked Man",
+        "setText": "Part of the Marked Man set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_295_headcase/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_295_headcase/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_295_headcase/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.NotedDude"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_295_Headcase",
+        "lastUpdate": "2021-04-13T08:51:15Z",
+        "added": "2021-04-13T08:51:15Z"
+    },
+    {
+        "id": "lsid_296_cavern_60exf",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "dc",
+        "displayRarity": "DC SERIES",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Batman From Zero",
+        "shortDescription": "Loading Screen",
+        "description": "Art Inspired by Reilly Brown, Nelson De Castro and John Kalisz.",
+        "set": "Batman: Zero Point",
+        "setText": "Part of the Batman: Zero Point set.",
+        "series": "DC SERIES",
+        "backendSeries": "DCUSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_296_cavern_60exf/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_296_cavern_60exf/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_296_cavern_60exf/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.NotionRemark"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_296_Cavern_60EXF",
+        "lastUpdate": "2021-04-29T09:03:59Z",
+        "added": "2021-04-29T09:03:59Z"
+    },
+    {
+        "id": "lsid_297_foodknights",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Combo Meal",
+        "shortDescription": "Loading Screen",
+        "description": "Ordered together, they stand as one.",
+        "set": "Knights of the Food Court",
+        "setText": "Part of the Knights of the Food Court set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_297_foodknights/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_297_foodknights/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_297_foodknights/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.SquireMeal"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_297_FoodKnights",
+        "lastUpdate": "2021-04-27T08:24:16Z",
+        "added": "2021-04-27T08:24:16Z"
+    },
+    {
+        "id": "lsid_298_spacecuddles",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Bearallel Universe",
+        "shortDescription": "Loading Screen",
+        "description": "The cuddliest timeline. May 2021 Crew Bonus.",
+        "set": "The Returned",
+        "setText": "Part of the The Returned set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_298_spacecuddles/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_298_spacecuddles/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_298_spacecuddles/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.Comeback"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_298_SpaceCuddles",
+        "lastUpdate": "2021-05-04T23:09:54Z",
+        "added": "2021-05-04T23:09:54Z"
+    },
+    {
+        "id": "lsid_299_spacecuddles2",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Bear Beginnings",
+        "shortDescription": "Loading Screen",
+        "description": "How it started. May 2021 Crew Bonus.",
+        "set": "The Returned",
+        "setText": "Part of the The Returned set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_299_spacecuddles2/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_299_spacecuddles2/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_299_spacecuddles2/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.Comeback"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_299_SpaceCuddles2",
+        "lastUpdate": "2021-05-11T08:22:29Z",
+        "added": "2021-05-11T08:22:29Z"
+    },
+    {
+        "id": "lsid_300_spacecuddles3",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Cuddle Charge!",
+        "shortDescription": "Loading Screen",
+        "description": "How it's going. May 2021 Crew Bonus.",
+        "set": "The Returned",
+        "setText": "Part of the The Returned set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_300_spacecuddles3/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_300_spacecuddles3/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_300_spacecuddles3/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.Comeback"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_300_SpaceCuddles3",
+        "lastUpdate": "2021-05-18T23:05:37Z",
+        "added": "2021-05-18T23:05:37Z"
+    },
+    {
+        "id": "lsid_301_broccoli_u6k04",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "dc",
+        "displayRarity": "DC SERIES",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "BBRae",
+        "shortDescription": "Loading Screen",
+        "description": "Created by Gabriel Picolo",
+        "set": "Teen Titans",
+        "setText": "Part of the Teen Titans set.",
+        "series": "DC SERIES",
+        "backendSeries": "DCUSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_301_broccoli_u6k04/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_301_broccoli_u6k04/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_301_broccoli_u6k04/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.AutomaticDuke"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_301_Broccoli_U6K04",
+        "lastUpdate": "2021-05-11T08:22:29Z",
+        "added": "2021-05-11T08:22:29Z"
+    },
+    {
+        "id": "lsid_302_daybreak",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Impossible Odds",
+        "shortDescription": "Loading Screen",
+        "description": "Escape while you still can.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_302_daybreak/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_302_daybreak/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_302_daybreak/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_302_Daybreak",
+        "lastUpdate": "2021-05-11T08:22:29Z",
+        "added": "2021-05-11T08:22:29Z"
+    },
+    {
+        "id": "lsid_303_wastelandwarrior",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Scaly Standoff",
+        "shortDescription": "Loading Screen",
+        "description": "Keep your wits sharp and your weapons sharper.",
+        "set": "Burning Highway",
+        "setText": "Part of the Burning Highway set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_303_wastelandwarrior/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_303_wastelandwarrior/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_303_wastelandwarrior/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.FireRoad"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_303_WastelandWarrior",
+        "lastUpdate": "2021-05-25T08:48:30Z",
+        "added": "2021-05-25T08:48:30Z"
+    },
+    {
+        "id": "lsid_304_skeletonqueen",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Tribute",
+        "shortDescription": "Loading Screen",
+        "description": "Take only what you deserve.",
+        "set": "Midas' Revenge",
+        "setText": "Part of the Midas' Revenge set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_304_skeletonqueen/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_304_skeletonqueen/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_304_skeletonqueen/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.GoldScore"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_304_SkeletonQueen",
+        "lastUpdate": "2021-05-25T08:48:30Z",
+        "added": "2021-05-25T08:48:30Z"
+    },
+    {
+        "id": "lsid_305_downpour_chb8o",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "A New Shardworld?",
+        "shortDescription": "Loading Screen",
+        "description": "He's a long way from the Cosmere.",
+        "set": "Cosmere Castaway",
+        "setText": "Part of the Cosmere Castaway set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_305_downpour_chb8o/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_305_downpour_chb8o/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_305_downpour_chb8o/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.CosmoDrifter"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_305_Downpour_CHB8O",
+        "lastUpdate": "2021-05-28T00:00:00Z",
+        "added": "2021-05-28T00:00:00Z"
+    },
+    {
+        "id": "lsid_306_spacecuddles4",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "The New Team",
+        "shortDescription": "Loading Screen",
+        "description": "How it ends. May 2021 Crew Bonus.",
+        "set": "The Returned",
+        "setText": "Part of the The Returned set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_306_spacecuddles4/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_306_spacecuddles4/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_306_spacecuddles4/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.16",
+            "Cosmetics.Set.Comeback"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_306_SpaceCuddles4",
+        "lastUpdate": "2021-05-25T08:48:30Z",
+        "added": "2021-05-25T08:48:30Z"
+    },
+    {
+        "id": "lsid_307_emperor",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "dc",
+        "displayRarity": "DC SERIES",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "The Last Son of Krypton",
+        "shortDescription": "Loading Screen",
+        "description": "Kal-El takes flight. Created by Francis Manapul.",
+        "set": "Kryptonian",
+        "setText": "Part of the Kryptonian set.",
+        "series": "DC SERIES",
+        "backendSeries": "DCUSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_307_emperor/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_307_emperor/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_307_emperor/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass",
+            "Cosmetics.Set.PortionCut"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_307_Emperor",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "lsid_308_alientrooper",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Kymera Swarm",
+        "shortDescription": "Loading Screen",
+        "description": "A new breed of alien invaders. Created by Greg Baldwin.",
+        "set": "Kymera",
+        "setText": "Part of the Kymera set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_308_alientrooper/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_308_alientrooper/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_308_alientrooper/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass",
+            "Cosmetics.Set.VeryAdvanced"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_308_AlienTrooper",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "lsid_309_believer",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Get me out of here",
+        "shortDescription": "Loading Screen",
+        "description": "Hitch a ride on a flying saucer. Created by Bruno Diberkato.",
+        "set": "Escape Velocity",
+        "setText": "Part of the Escape Velocity set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_309_believer/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_309_believer/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_309_believer/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass",
+            "Cosmetics.Set.LeaveFast"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_309_Believer",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "lsid_310_faux",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Facets",
+        "shortDescription": "Loading Screen",
+        "description": "Created by Konstantin-Pixmilk Tarasov.",
+        "set": "Inner Vision",
+        "setText": "Part of the Inner Vision set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_310_faux/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_310_faux/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_310_faux/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass",
+            "Cosmetics.Set.InsideEyes"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_310_Faux",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "lsid_311_ruckus",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "The Rickiverse",
+        "shortDescription": "Loading Screen",
+        "description": "To live is to risk it all.",
+        "set": "Rick, C-137",
+        "setText": "Part of the Rick, C-137 set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_311_ruckus/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_311_ruckus/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_311_ruckus/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass",
+            "Cosmetics.Set.FosterRush"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_311_Ruckus",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "lsid_312_innovator",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Slone's Mission",
+        "shortDescription": "Loading Screen",
+        "description": "Created by Phil Noto.",
+        "set": "IO Inquest",
+        "setText": "Part of the IO Inquest set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_312_innovator/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_312_innovator/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_312_innovator/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass",
+            "Cosmetics.Set.NewHotness"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_312_Innovator",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "lsid_313_invader",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Pluxarian Gothic",
+        "shortDescription": "Loading Screen",
+        "description": "Created by Pius Bak.",
+        "set": "Binary Stars",
+        "setText": "Part of the Binary Stars set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_313_invader/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_313_invader/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_313_invader/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass",
+            "Cosmetics.Set.CodeGalaxy"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_313_Invader",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "lsid_314_antique",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Guggi Vision",
+        "shortDescription": "Loading Screen",
+        "description": "Guggi Vision cannot be unseen. Created by Delicious Design League.",
+        "set": "Guggimon",
+        "setText": "Part of the Guggimon set.",
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_314_antique/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_314_antique/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_314_antique/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass",
+            "Cosmetics.Set.ColorfulSlot"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_314_Antique",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "lsid_315_key",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Invasion",
+        "shortDescription": "Loading Screen",
+        "description": "They come from above.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_315_key/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_315_key/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_315_key/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_315_Key",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "lsid_316_explosion",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Spire Strike",
+        "shortDescription": "Loading Screen",
+        "description": "Created by Afu Chan.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_316_explosion/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_316_explosion/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_316_explosion/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_316_Explosion",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "lsid_317_cow",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Cattle Royale",
+        "shortDescription": "Loading Screen",
+        "description": "Get carried away. Created by Joey Rex.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_317_cow/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_317_cow/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_317_cow/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_317_Cow",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "lsid_318_firecracker",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Grand Finale",
+        "shortDescription": "Loading Screen",
+        "description": "It's about to pop off. Created by Beast Wreck.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_318_firecracker/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_318_firecracker/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_318_firecracker/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.Season17.BattlePass"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_318_Firecracker",
+        "lastUpdate": "2021-06-08T06:27:37Z",
+        "added": "2021-06-08T06:27:37Z"
+    },
+    {
+        "id": "lsid_319_summer",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Believer Beach",
+        "shortDescription": "Loading Screen",
+        "description": "Keep your eyes on the skies.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_319_summer/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_319_summer/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_319_summer/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.ItemShop"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_319_Summer",
+        "lastUpdate": "2021-06-22T08:25:42Z",
+        "added": "2021-06-22T08:25:42Z"
+    },
+    {
+        "id": "lsid_320_linguini_8o4h0",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "marvel",
+        "displayRarity": "MARVEL SERIES",
+        "backendRarity": "EFortRarity::Epic",
+        "name": "Loki's Welcoming",
+        "shortDescription": "Loading Screen",
+        "description": "Not Midgard, but this will do.",
+        "set": "God of Mischief",
+        "setText": "Part of the God of Mischief set.",
+        "series": "MARVEL SERIES",
+        "backendSeries": "MarvelSeries",
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_320_linguini_8o4h0/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_320_linguini_8o4h0/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_320_linguini_8o4h0/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Set.ArtistPhysics"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_320_Linguini_8O4H0",
+        "lastUpdate": "2021-06-28T15:01:46Z",
+        "added": "2021-06-28T15:01:46Z"
+    },
+    {
+        "id": "lsid_321_daysstore",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Ice Cream Social",
+        "shortDescription": "Loading Screen",
+        "description": "Midas and Jules bond at the beach.",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_321_daysstore/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_321_daysstore/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_321_daysstore/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17",
+            "Cosmetics.Source.ItemShop"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_321_DaysStore",
+        "lastUpdate": "2021-06-22T08:25:42Z",
+        "added": "2021-06-22T08:25:42Z"
+    },
+    {
+        "id": "lsid_322_cosmicsummerwave",
+        "type": "loadingscreen",
+        "backendType": "AthenaLoadingScreen",
+        "rarity": "uncommon",
+        "displayRarity": "Uncommon",
+        "backendRarity": "EFortRarity::Uncommon",
+        "name": "Cosmic Summer",
+        "shortDescription": "Loading Screen",
+        "description": "The out of this world beach party begins now!",
+        "set": null,
+        "setText": null,
+        "series": null,
+        "backendSeries": null,
+        "images": {
+            "smallIcon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_322_cosmicsummerwave/smallicon.png"
+            },
+            "icon": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_322_cosmicsummerwave/icon.png"
+            },
+            "featured": null,
+            "background": {
+                "hash": "",
+                "url": "https://fortnite-api.com/images/cosmetics/br/lsid_322_cosmicsummerwave/background.png"
+            },
+            "coverArt": null,
+            "decal": null
+        },
+        "variants": null,
+        "gameplayTags": [
+            "Cosmetics.Filter.Season.17"
+        ],
+        "displayAssetPath": null,
+        "definition": null,
+        "requiredItemId": null,
+        "builtInEmoteId": null,
+        "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_322_CosmicSummerWave",
+        "lastUpdate": "2021-06-22T08:25:42Z",
+        "added": "2021-06-22T08:25:42Z"
     },
     {
         "id": "lsid_defaultbg",
