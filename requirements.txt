@@ -1,2 +1,2 @@
-sanic==20.9.0
+sanic==20.12.7
 aiofiles
